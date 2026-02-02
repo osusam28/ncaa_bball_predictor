@@ -15,6 +15,18 @@ python3 src/run_pipeline.py
         - Strategic advantages (e.g. "Size mismatch", "Guard play").
     - **REMEMBER** the 1-2 most important insights for EACH team for Step 5.
 
+2.5 Consult Prediction Lessons (Memory)
+    - Read `data/memory/prediction_lessons.md` and apply relevant situational checks:
+        - **Bounce-back?** Is either team coming off a 15+ point loss?
+        - **Conference game?** Apply parity modifier (~20% reduction to predicted margin).
+        - **Injury concerns?** Verify active roster via web search if needed.
+    - Read `data/memory/metrics_priority.md` to know which stats to emphasize in analysis.
+    - Read team docs and **weight insights by confidence level**:
+        - `[PATTERN]` = Reliable, factor into prediction
+        - `[TENDENCY]` = Consider, mention with caveat
+        - `[OBSERVATION]` = Note for context, don't rely on
+    - **If files don't exist**, skip this step.
+
 3. Load Local Data
 // turbo
 python3 src/prepare_matchup.py {{matchup}}

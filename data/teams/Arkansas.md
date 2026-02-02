@@ -21,3 +21,7 @@ wab: 3.6914189140648253
 
 
 ## Qualitative Notes
+
+### Team Tendencies
+- 17-game home winning streak broken by Kentucky (2026-01-31). Streaks can break against elite opponents.
+- Technical foul issues in high-pressure games (3 techs vs Kentucky disrupted rhythm). (2026-01-31)

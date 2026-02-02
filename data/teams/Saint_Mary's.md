@@ -21,3 +21,7 @@ wab: 2.236774603834383
 
 
 ## Qualitative Notes
+
+### Team Tendencies
+- "Grind-it-out" specialists. Controls tempo to keep games within single digits. (2026-01-31)
+- Always plays Gonzaga close (rivalry factor). Lost by 8 but covered +8.5 spread. (2026-01-31)

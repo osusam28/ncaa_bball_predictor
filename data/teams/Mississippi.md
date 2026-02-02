@@ -25,3 +25,11 @@ wab: -1.944579929380164
 ### Web Insight (2026-01-31)
 - Lost 2 straight games (Kentucky 72-63, Auburn 78-66).
 - Shot just 32.3% from the field in Kentucky loss – offensive struggles.
+
+### Player Insights
+- **AJ Storr**: Can compete with elite defenses. 16 pts vs Vanderbilt, nearly tied game with last-second 3PA. (2026-01-31)
+- **Malik Dia**: Can compete with elite defenses. 16 pts vs Vanderbilt, nearly tied game with last-second 3PA. (2026-01-31)
+
+### Team Tendencies
+- Shows resilience as underdog. Outscored Vanderbilt 45-40 in 2nd half despite being heavy underdog. (2026-01-31)
+- "Nothing to lose" motivation creates trap game potential for favorites. (2026-01-31)

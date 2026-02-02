@@ -80,3 +80,5 @@ Fland's **8 steals** (career-high, matching program record) plus **8 assists** a
 This was a correct pick but the margin error was significant. The model correctly read Florida as the superior team but underestimated *how much* Florida's frontcourt and perimeter defense would dominate. **Interior scoring differential** (72-26 in the paint) should be a key variable to track going forward.
 
 **Series Note**: Florida has now won **5 consecutive games** against Alabama.
+
+<!-- LEARNED -->

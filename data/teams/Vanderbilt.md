@@ -26,3 +26,10 @@ wab: 4.857705562179165
 - Ranked #18 nationally. On a 2-game win streak.
 - Dominant recent wins: beat Kentucky 80-55, Mississippi State 88-56.
 - Tyler Tanner leads with 17.5 ppg and 5.2 apg.
+
+### Player Insights
+- **Tyler Tanner**: Steps up when stars are out. 24 pts (above 17.5 avg) without Duke Miles vs Ole Miss. (2026-01-31)
+- **AK Okereke**: Clutch free-throw shooter. 11-of-13 FTs was the "separator" in close game vs Ole Miss. (2026-01-31)
+
+### Team Tendencies
+- Vulnerable without Duke Miles (second-leading scorer). Margin dropped from predicted 15 to actual 3 without him. (2026-01-31)

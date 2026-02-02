@@ -83,3 +83,5 @@ Vanderbilt edged out Ole Miss 71-68 in a game that was much closer than the pred
 The model correctly identified the better team but failed to account for a critical injury and underestimated the resilience of an SEC underdog. The 12-point margin error highlights a need for better injury monitoring and a more conservative approach to "comfortable" blowout predictions.
 
 **Lesson**: High-confidence blowout predictions are risky when key personnel is missing. Always verify the active roster.
+
+<!-- LEARNED -->

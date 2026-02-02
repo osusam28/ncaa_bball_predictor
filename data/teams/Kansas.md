@@ -21,3 +21,11 @@ wab: 3.708092499645233
 
 
 ## Qualitative Notes
+
+### Player Insights
+- **Bryson Tiller**: Consistent offensive star (21 pts vs BYU). Delivers in close games. (2026-01-31)
+- **Darryn Peterson**: Consistent offensive star (18 pts vs BYU). Delivers in close games. (2026-01-31)
+
+### Team Tendencies
+- Allen Fieldhouse factor remains strong in close Big 12 games. (2026-01-31)
+- "Battle-tested"—can overcome second-half surges at home. (2026-01-31)

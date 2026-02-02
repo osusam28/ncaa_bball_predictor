@@ -21,3 +21,15 @@ wab: 1.6758581547930438
 
 
 ## Qualitative Notes
+
+### Player Insights
+- **Otega Oweh**: Bounce-back monster. Scored 24 pts (10 in final 10 min) at Arkansas after 25-pt loss to Vanderbilt. Dominates in hostile environments. (2026-01-31)
+- **Collin Chandler**: Reliable secondary scorer on the road (13 pts at Arkansas). (2026-01-31)
+- **Malachi Moreno**: Stepped up on the road (11 pts, 7 rebs at Arkansas). (2026-01-31)
+- **Denzel Aberdeen**: Consistent depth scorer (10 pts at Arkansas). (2026-01-31)
+
+### Team Tendencies
+- Dangerous "bounce-back" team after blowout losses. (2026-01-31)
+- Can shoot lights-out on the road (53.6% FG, 46% 3PT at Arkansas). (2026-01-31)
+- Rebounding dominance wins close games (+9 margin vs Arkansas was decisive). (2026-01-31)
+- Four double-digit scorers give depth in road games. (2026-01-31)

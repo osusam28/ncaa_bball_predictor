@@ -21,3 +21,7 @@ wab: 7.050024952093618
 
 
 ## Qualitative Notes
+
+### Team Tendencies
+- #7 defense can't contain historic offenses (#1-5 KenPom). Defensive edge should be discounted against elite O. (2026-02-01)
+- Home court advantage can be neutralized by teams with elite depth and rebounding. (2026-02-01)

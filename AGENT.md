@@ -74,6 +74,49 @@ The script shows you the unknown note and asks you to define a mapping (e.g., "Z
 2. Write your notes plain text. Mention team names (e.g., "Duke", "UConn") or known nicknames.
 3. Run the pipeline (Method 2) or a Prediction (Method 1).
 
+### 6. Consolidate Learnings
+**Context**: Periodically process evaluation files to extract and persist learnings.
+**Action**:
+```bash
+/learn
+```
+**Process**:
+1.  **Scan**: Reads all unprocessed evaluations (those without `<!-- LEARNED -->` marker).
+2.  **Extract**: Pulls player insights, team tendencies, metrics suggestions, and global lessons.
+3.  **Persist**: Updates team docs (Tier 1), `metrics_priority.md` (Tier 2), and `prediction_lessons.md` (Tier 3).
+4.  **Mark**: Adds `<!-- LEARNED -->` to processed evaluation files.
+
+---
+
+## Learning System
+
+The system learns from prediction evaluations through three tiers:
+
+### How It Works
+```
+/evaluate → evaluations/*.md → /learn → persistent memory → /predict
+```
+1. `/evaluate` creates evaluation files with embedded insights in `evaluations/`
+2. `/learn` periodically consolidates those insights into persistent memory
+3. `/predict` consults the memory when generating new predictions
+
+### Tier 1: Team/Player Insights
+**Location**: `data/teams/{Team}.md` under `### Player Insights` and `### Team Tendencies`
+
+Stores player-specific performances (ceiling games, defensive matchups) and team-level patterns (bounce-back behavior, road resilience).
+
+### Tier 2: Metrics Priorities  
+**Location**: `data/memory/metrics_priority.md`
+
+Tracks which quantitative metrics should be weighted higher or lower based on evaluation feedback (e.g., "Paint Points Per Game" is high priority).
+
+### Tier 3: Prediction Lessons
+**Location**: `data/memory/prediction_lessons.md`
+
+Global rules and situational checks that apply to all predictions (e.g., "Apply 20% parity modifier to SEC games").
+
+---
+
 ## Component-Level Operations
 
 ### Fetch Data Only
@@ -104,9 +147,11 @@ python3 src/prepare_matchup.py "Team A vs Team B"
 - `src/`: Python source code.
 - `data/raw/`: Raw JSON fetched from BartTorvik.
 - `data/teams/`: Generated Markdown files per team (The main output).
+- `data/memory/`: Persistent learning artifacts (metrics priorities, prediction lessons).
 - `raw_notes/`: Drop folder for unprocessed notes.
 - `predictions/`: Archive of generated prediction reports.
 - `evaluations/`: Archive of prediction evaluations.
 
 ## Configuration
 - `data/config/synonyms.json`: Maps nicknames to official team names.
+

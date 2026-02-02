@@ -21,3 +21,15 @@ wab: 2.9261031367934267
 
 
 ## Qualitative Notes
+
+### Player Insights
+- **Boogie Fland**: Elite perimeter defender. 8 steals (career-high, program record) + 8 assists + 15 pts vs Alabama. Shuts down opposing PGs. (2026-02-01)
+- **Alex Condon**: Interior dominance, 25 pts vs Alabama. (2026-02-01)
+- **Thomas Haugh**: Interior dominance, 22 pts vs Alabama. (2026-02-01)
+- **Rueben Chinyelu**: Double-double threat (14 pts, 17 rebs vs Alabama). (2026-02-01)
+
+### Team Tendencies
+- O'Connell Center is a hostile environment—student section reportedly aggressive. (2026-02-01)
+- Paint scoring dominance: outscored Alabama 72-26 in the paint. (2026-02-01)
+- 5-game win streak vs Alabama (series dominance). (2026-02-01)
+- Frontcourt trio can completely dominate interior when matched against weaker bigs. (2026-02-01)

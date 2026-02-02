@@ -24,3 +24,6 @@ wab: 5.404950553274961
 
 ### Note (zags_test.txt)
 The Zags looked fast today.
+
+### Player Insights
+- **Graham Ike**: Interior dominance. 30 pts vs Saint Mary's. Difference-maker in second halves. (2026-01-31)

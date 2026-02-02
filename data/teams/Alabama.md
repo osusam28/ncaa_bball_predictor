@@ -21,3 +21,10 @@ wab: 3.2724317057231778
 
 
 ## Qualitative Notes
+
+### Player Insights
+- **Labaron Philon**: Can be locked down by elite perimeter defenders (held to 14 pts vs Florida's Fland, well below 22 ppg avg). (2026-02-01)
+
+### Team Tendencies
+- Vulnerable to elite interior defense despite #2 offense. (2026-02-01)
+- High-tempo offense (92 ppg avg) can be slowed by disciplined defenses. (2026-02-01)

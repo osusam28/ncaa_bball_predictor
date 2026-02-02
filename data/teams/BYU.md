@@ -21,3 +21,6 @@ wab: 4.455720992257492
 
 
 ## Qualitative Notes
+
+### Player Insights
+- **Richie Saunders**: Ceiling game potential. 33 pts (24 in 2nd half) with double-double vs Kansas. Secondary star with breakout ability. (2026-01-31)

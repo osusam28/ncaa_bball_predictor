@@ -94,3 +94,5 @@ Kentucky pulled off a road upset at Bud Walton Arena, defeating #15 Arkansas 85-
 This was a significant miss. The model correctly identified Oweh as a key factor but underestimated his ability to dominate in a hostile environment. The prediction over-relied on Arkansas's home record and didn't account for Kentucky's potential for a bounce-back performance after their Vanderbilt loss. The rebounding battle and Kentucky's hot shooting were the nail in the coffin.
 
 **Lesson**: Elite players in "must-prove" situations after bad losses are dangerous. Weight this factor higher.
+
+<!-- LEARNED -->

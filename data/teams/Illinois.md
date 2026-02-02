@@ -21,3 +21,11 @@ wab: 5.4950394429284
 
 
 ## Qualitative Notes
+
+### Player Insights
+- **Keaton Wagler**: POY candidate. Explosive scorer with ceiling games. 28 pts (23 in 2nd half) at Nebraska after 46-pt game prior. National Player of the Week. (2026-02-01)
+
+### Team Tendencies
+- #1 historic offense (KenPom). Elite offensive efficiency that can't be contained by good-but-not-elite defense. (2026-02-01)
+- Road resilience is underrated. Top-5 road wins demonstrate ability to overcome hostile environments. (2026-02-01)
+- Rebounding and length neutralize home court advantages. (2026-02-01)
