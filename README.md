@@ -82,3 +82,94 @@ To make the codebase professional, we abstracted the scripts into simple command
 2.  **Data as Documentation**: Using Markdown files for team data allows both the Human and the AI to use the file system as a "shared whiteboard."
 3.  **Nickname Resolution**: Real-world data is messy. Building a synonym layer is essential for mapping informal human language to rigid data schemas.
 4.  **Agentic Workflows**: Instead of just running scripts, we defined *Workflows* that let the AI handle multi-step processes (Scrape → Read → Synthesis → Save).
+
+---
+
+## 🎓 Phase 7: The Learning System
+
+The next evolution: **"How do we learn from our mistakes without over-indexing on single games?"**
+
+### The Problem
+After evaluating predictions, we had valuable insights scattered in evaluation files. But:
+- How do we capture them systematically?
+- How do we avoid biasing on single games? (e.g., "Kentucky came back once" ≠ "Kentucky is a comeback team")
+
+### The Design Discussion
+
+**User Insight**: *"If a team has a big comeback to win a game, don't automatically mark that team as great at comebacks. Make a note, but require more evidence before making it definitive."*
+
+This led to a **3-Tier Learning Architecture**:
+
+| Tier | What | Where | Example |
+|------|------|-------|---------|
+| **1** | Team/Player Insights | `data/teams/{Team}.md` | "Otega Oweh: bounce-back performer" |
+| **2** | Metrics to Prioritize | `data/memory/metrics_priority.md` | "Weight paint points higher" |
+| **3** | Global Prediction Lessons | `data/memory/prediction_lessons.md` | "Conference games = reduce margin predictions" |
+
+### Evidence Thresholds
+
+To prevent single-game bias, we implemented confidence tiers:
+
+| Observations | Confidence | Label | How to Use |
+|-------------|------------|-------|------------|
+| 1 game | Low | `[OBSERVATION]` | Note for context only |
+| 2-3 games | Medium | `[TENDENCY]` | Mention with caveats |
+| 4+ games | High | `[PATTERN]` | Reliable, factor into predictions |
+
+**Example progression:**
+```
+2026-01-31: [OBSERVATION] Showed resilience, rallied from 10 down.
+2026-02-05: [TENDENCY] Now 2-for-2 in comeback situations.
+2026-02-15: [PATTERN] 4 consecutive comeback wins—treat as reliable.
+```
+
+### Workflow Separation
+
+We deliberately separated two workflows:
+- **`/evaluate`**: Creates detailed evaluations in `evaluations/`. Stays focused on one game.
+- **`/learn`**: Periodically consolidates insights across ALL evaluations into the memory tiers.
+
+This separation allows:
+1. Evaluations to be thorough without worrying about persistence
+2. Learning to apply cross-game pattern matching
+3. Clear audit trail (evaluations are marked `<!-- LEARNED -->` after processing)
+
+### The "Quantitative vs Qualitative" Discussion
+
+**User Question**: *"Will the update workflow capture the new metrics?"*
+
+**Answer**: No—and that's intentional.
+
+| Type | Captured By | Storage |
+|------|-------------|---------|
+| **Automated Stats** | `/update` → BartTorvik API | Team doc frontmatter |
+| **Priority Metrics** | `/predict` → Web search | Prediction report only |
+| **Learned Insights** | `/learn` → Evaluation review | Team doc qualitative section |
+
+We considered enhancing the fetcher to pull more stats (like paint points, rebounding), but decided:
+- Many priority metrics aren't in the standard BartTorvik JSON
+- Web research during `/predict` is more flexible
+- This keeps the system lightweight
+
+---
+
+## 📋 Current Slash Commands
+
+| Command | Action |
+| :--- | :--- |
+| `/predict TeamA vs TeamB` | Scrapes, Analyzes, and Predicts. |
+| `/update` | Full data refresh + Note ingestion. |
+| `/note TeamName "Text"` | Adds a quick thought directly to a team doc. |
+| `/evaluate Matchup` | Compares prediction to actual result. |
+| `/learn` | **NEW**: Consolidates learnings from evaluations into memory. |
+
+---
+
+## 🔑 Additional Learning Points (from Phase 7)
+
+5. **Evidence Thresholds**: Don't let a single data point become a "rule." Require multiple observations before treating insights as reliable patterns.
+6. **Separation of Concerns**: Evaluation (one game) and Learning (cross-game patterns) are different activities. Keep them separate.
+7. **Confidence Labels**: Explicitly mark the reliability of insights (`[OBSERVATION]` vs `[PATTERN]`). This helps future users (and agents) know how much to trust an insight.
+8. **Lightweight over Automated**: Sometimes it's better to research on-demand (web search during `/predict`) than to build complex automated data pipelines for metrics you rarely need.
+9. **Audit Trails**: Using markers like `<!-- LEARNED -->` creates a clear record of what's been processed, preventing duplicate work.
+
