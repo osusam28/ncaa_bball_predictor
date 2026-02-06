@@ -1,23 +1,32 @@
 ---
 team: Bradley
-conf: MVC
+conf: N/A
 year: 2026
-adj_oe: 109.847572655965
-adj_de: 108.98702905467786
-tempo: 67.99421168493336
-barthag: 0.5225959733133895
-wab: -4.135530489035382
+adj_oe: 111.2
+adj_de: 109.4
+barthag: N/A
+wab: -4.1
 ---
 # Bradley (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.847572655965 | #143 |
-| **Defense** (AdjDE) | 108.98702905467786 | #178 |
-| **Tempo** | 67.99421168493336 | - |
-| **Resume** | **WAB**: -4.135530489035382 | **SOS**: 0.4516793310402844 |
-| **Record** | 14-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 111.2 | 109.4 |
+| **Shooting** | Effective FG% | 50.6% | 52.7% |
+| **Ball Security** | Turnover Rate | 13.4% | 20.0% |
+| **Rebounding** | Off. Rebound % | 27.7% | 28.5% |
+| **Free Throws** | Free Throw Rate | 36.4 | 37.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

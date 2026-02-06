@@ -1,23 +1,32 @@
 ---
 team: High Point
-conf: BSth
+conf: N/A
 year: 2026
-adj_oe: 118.18010483421668
-adj_de: 111.10596421325901
-tempo: 69.58722280902555
-barthag: 0.6703662547583974
-wab: -2.0312729663530282
+adj_oe: 117.9
+adj_de: 110.6
+barthag: N/A
+wab: -2.0
 ---
 # High Point (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 118.18010483421668 | #55 |
-| **Defense** (AdjDE) | 111.10596421325901 | #237 |
-| **Tempo** | 69.58722280902555 | - |
-| **Resume** | **WAB**: -2.0312729663530282 | **SOS**: 0.2775015861862045 |
-| **Record** | 19-4 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 117.9 | 110.6 |
+| **Shooting** | Effective FG% | 55.6% | 51.3% |
+| **Ball Security** | Turnover Rate | 12.4% | 21.9% |
+| **Rebounding** | Off. Rebound % | 31.4% | 31.6% |
+| **Free Throws** | Free Throw Rate | 43.6 | 34.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -2.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

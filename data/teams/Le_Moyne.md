@@ -1,23 +1,32 @@
 ---
 team: Le Moyne
-conf: NEC
+conf: N/A
 year: 2026
-adj_oe: 102.61958741024407
-adj_de: 112.46767684813983
-tempo: 68.68213253280248
-barthag: 0.25849109183401353
-wab: -8.84795438110191
+adj_oe: 103.0
+adj_de: 112.7
+barthag: N/A
+wab: -8.9
 ---
 # Le Moyne (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 102.61958741024407 | #274 |
-| **Defense** (AdjDE) | 112.46767684813983 | #260 |
-| **Tempo** | 68.68213253280248 | - |
-| **Resume** | **WAB**: -8.84795438110191 | **SOS**: 0.3223013149191797 |
-| **Record** | 11-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 103.0 | 112.7 |
+| **Shooting** | Effective FG% | 51.9% | 49.5% |
+| **Ball Security** | Turnover Rate | 19.0% | 15.5% |
+| **Rebounding** | Off. Rebound % | 26.6% | 31.5% |
+| **Free Throws** | Free Throw Rate | 39.9 | 34.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -8.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

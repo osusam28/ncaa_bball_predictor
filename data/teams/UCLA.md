@@ -1,23 +1,32 @@
 ---
 team: UCLA
-conf: B10
+conf: N/A
 year: 2026
-adj_oe: 119.06982510769875
-adj_de: 100.62620606589283
-tempo: 64.86958938106498
-barthag: 0.873848086176823
-wab: 1.5597283649630265
+adj_oe: 119.0
+adj_de: 100.3
+barthag: N/A
+wab: +1.0
 ---
 # UCLA (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 119.06982510769875 | #48 |
-| **Defense** (AdjDE) | 100.62620606589283 | #48 |
-| **Tempo** | 64.86958938106498 | - |
-| **Resume** | **WAB**: 1.5597283649630265 | **SOS**: 0.6127046248580569 |
-| **Record** | 15-6 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 119.0 | 100.3 |
+| **Shooting** | Effective FG% | 53.5% | 48.8% |
+| **Ball Security** | Turnover Rate | 14.4% | 19.1% |
+| **Rebounding** | Off. Rebound % | 31.0% | 31.7% |
+| **Free Throws** | Free Throw Rate | 36.5 | 36.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +1.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: SIU Edwardsville
-conf: OVC
+conf: N/A
 year: 2026
-adj_oe: 98.81733076027061
-adj_de: 107.49384502843998
-tempo: 63.962666630916445
-barthag: 0.27530989515030185
-wab: -7.204483720315036
+adj_oe: 98.6
+adj_de: 106.9
+barthag: N/A
+wab: -7.2
 ---
 # SIU Edwardsville (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 98.81733076027061 | #330 |
-| **Defense** (AdjDE) | 107.49384502843998 | #147 |
-| **Tempo** | 63.962666630916445 | - |
-| **Resume** | **WAB**: -7.204483720315036 | **SOS**: 0.2238906942495304 |
-| **Record** | 13-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 98.6 | 106.9 |
+| **Shooting** | Effective FG% | 48.5% | 45.3% |
+| **Ball Security** | Turnover Rate | 17.6% | 17.2% |
+| **Rebounding** | Off. Rebound % | 31.2% | 32.7% |
+| **Free Throws** | Free Throw Rate | 32.7 | 36.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -7.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

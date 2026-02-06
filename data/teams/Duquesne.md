@@ -1,23 +1,32 @@
 ---
 team: Duquesne
-conf: A10
+conf: N/A
 year: 2026
-adj_oe: 110.7415743544891
-adj_de: 107.09203828939815
-tempo: 70.85085156849706
-barthag: 0.5951683395339096
-wab: -5.54508579568145
+adj_oe: 111.7
+adj_de: 106.8
+barthag: N/A
+wab: -5.5
 ---
 # Duquesne (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 110.7415743544891 | #133 |
-| **Defense** (AdjDE) | 107.09203828939815 | #134 |
-| **Tempo** | 70.85085156849706 | - |
-| **Resume** | **WAB**: -5.54508579568145 | **SOS**: 0.44910185978310824 |
-| **Record** | 11-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 111.7 | 106.8 |
+| **Shooting** | Effective FG% | 54.5% | 51.2% |
+| **Ball Security** | Turnover Rate | 18.6% | 17.2% |
+| **Rebounding** | Off. Rebound % | 29.8% | 28.2% |
+| **Free Throws** | Free Throw Rate | 39.2 | 41.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

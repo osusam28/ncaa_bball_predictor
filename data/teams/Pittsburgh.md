@@ -1,23 +1,32 @@
 ---
 team: Pittsburgh
-conf: ACC
+conf: N/A
 year: 2026
-adj_oe: 113.67683778064381
-adj_de: 106.58078828784755
-tempo: 64.0191190061057
-barthag: 0.6772688139902814
-wab: -5.288572213363151
+adj_oe: 113.9
+adj_de: 106.9
+barthag: N/A
+wab: -5.5
 ---
 # Pittsburgh (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 113.67683778064381 | #92 |
-| **Defense** (AdjDE) | 106.58078828784755 | #125 |
-| **Tempo** | 64.0191190061057 | - |
-| **Resume** | **WAB**: -5.288572213363151 | **SOS**: 0.644209948161711 |
-| **Record** | 9-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 113.9 | 106.9 |
+| **Shooting** | Effective FG% | 51.0% | 52.1% |
+| **Ball Security** | Turnover Rate | 16.8% | 16.8% |
+| **Rebounding** | Off. Rebound % | 35.2% | 27.8% |
+| **Free Throws** | Free Throw Rate | 31.0 | 35.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

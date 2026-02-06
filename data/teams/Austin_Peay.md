@@ -1,23 +1,32 @@
 ---
 team: Austin Peay
-conf: ASun
+conf: N/A
 year: 2026
-adj_oe: 105.48725969680352
-adj_de: 104.27322003412877
-tempo: 69.18291602312989
-barthag: 0.5332308328673386
-wab: -3.0466634007170663
+adj_oe: 106.1
+adj_de: 104.9
+barthag: N/A
+wab: -3.0
 ---
 # Austin Peay (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 105.48725969680352 | #231 |
-| **Defense** (AdjDE) | 104.27322003412877 | #85 |
-| **Tempo** | 69.18291602312989 | - |
-| **Resume** | **WAB**: -3.0466634007170663 | **SOS**: 0.35127316863693653 |
-| **Record** | 14-6 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.1 | 104.9 |
+| **Shooting** | Effective FG% | 50.6% | 50.9% |
+| **Ball Security** | Turnover Rate | 15.7% | 19.8% |
+| **Rebounding** | Off. Rebound % | 29.2% | 29.7% |
+| **Free Throws** | Free Throw Rate | 36.1 | 32.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

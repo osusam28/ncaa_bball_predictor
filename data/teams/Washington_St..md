@@ -1,23 +1,32 @@
 ---
 team: Washington St.
-conf: WCC
+conf: N/A
 year: 2026
-adj_oe: 113.58298585703497
-adj_de: 109.84018687556606
-tempo: 67.21711202223656
-barthag: 0.595158828771831
-wab: -6.85445535772999
+adj_oe: 115.5
+adj_de: 110.3
+barthag: N/A
+wab: -6.9
 ---
 # Washington St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 113.58298585703497 | #96 |
-| **Defense** (AdjDE) | 109.84018687556606 | #208 |
-| **Tempo** | 67.21711202223656 | - |
-| **Resume** | **WAB**: -6.85445535772999 | **SOS**: 0.5731888327227486 |
-| **Record** | 10-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 115.5 | 110.3 |
+| **Shooting** | Effective FG% | 55.6% | 53.0% |
+| **Ball Security** | Turnover Rate | 18.7% | 14.8% |
+| **Rebounding** | Off. Rebound % | 30.5% | 26.5% |
+| **Free Throws** | Free Throw Rate | 32.6 | 34.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

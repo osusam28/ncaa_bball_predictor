@@ -1,23 +1,32 @@
 ---
 team: Missouri St.
-conf: CUSA
+conf: N/A
 year: 2026
-adj_oe: 108.93673626122361
-adj_de: 108.71633724045103
-tempo: 64.49801027216715
-barthag: 0.5058222817631983
-wab: -5.69008945558458
+adj_oe: 109.4
+adj_de: 108.8
+barthag: N/A
+wab: -5.8
 ---
 # Missouri St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.93673626122361 | #167 |
-| **Defense** (AdjDE) | 108.71633724045103 | #170 |
-| **Tempo** | 64.49801027216715 | - |
-| **Resume** | **WAB**: -5.69008945558458 | **SOS**: 0.40493079178108893 |
-| **Record** | 12-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 109.4 | 108.8 |
+| **Shooting** | Effective FG% | 50.6% | 51.2% |
+| **Ball Security** | Turnover Rate | 17.6% | 18.0% |
+| **Rebounding** | Off. Rebound % | 32.3% | 33.6% |
+| **Free Throws** | Free Throw Rate | 45.4 | 39.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

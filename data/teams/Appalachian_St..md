@@ -1,23 +1,32 @@
 ---
 team: Appalachian St.
-conf: SB
+conf: N/A
 year: 2026
-adj_oe: 104.1681610104462
-adj_de: 107.16387471769048
-tempo: 62.53902426492656
-barthag: 0.4192006219779516
-wab: -6.069623653573911
+adj_oe: 104.8
+adj_de: 105.5
+barthag: N/A
+wab: -5.8
 ---
 # Appalachian St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 104.1681610104462 | #251 |
-| **Defense** (AdjDE) | 107.16387471769048 | #137 |
-| **Tempo** | 62.53902426492656 | - |
-| **Resume** | **WAB**: -6.069623653573911 | **SOS**: 0.34202380229269175 |
-| **Record** | 14-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 104.8 | 105.5 |
+| **Shooting** | Effective FG% | 50.2% | 46.4% |
+| **Ball Security** | Turnover Rate | 15.6% | 14.6% |
+| **Rebounding** | Off. Rebound % | 30.6% | 29.6% |
+| **Free Throws** | Free Throw Rate | 34.7 | 33.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

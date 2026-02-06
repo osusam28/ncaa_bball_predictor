@@ -1,23 +1,32 @@
 ---
 team: San Jose St.
-conf: MWC
+conf: N/A
 year: 2026
-adj_oe: 108.29400441710543
-adj_de: 114.48245962530498
-tempo: 63.865835058176444
-barthag: 0.3454554341370271
-wab: -8.258024429446932
+adj_oe: 110.2
+adj_de: 115.9
+barthag: N/A
+wab: -9.0
 ---
 # San Jose St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.29400441710543 | #180 |
-| **Defense** (AdjDE) | 114.48245962530498 | #288 |
-| **Tempo** | 63.865835058176444 | - |
-| **Resume** | **WAB**: -8.258024429446932 | **SOS**: 0.5984110315186094 |
-| **Record** | 6-15 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 110.2 | 115.9 |
+| **Shooting** | Effective FG% | 48.2% | 57.6% |
+| **Ball Security** | Turnover Rate | 17.2% | 18.2% |
+| **Rebounding** | Off. Rebound % | 31.1% | 36.3% |
+| **Free Throws** | Free Throw Rate | 33.5 | 34.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -9.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

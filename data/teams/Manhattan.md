@@ -1,23 +1,32 @@
 ---
 team: Manhattan
-conf: MAAC
+conf: N/A
 year: 2026
-adj_oe: 104.10735664832453
-adj_de: 121.66994140742037
-tempo: 68.2651205286785
-barthag: 0.14273866320421208
-wab: -10.347577997647448
+adj_oe: 104.3
+adj_de: 121.8
+barthag: N/A
+wab: -11.3
 ---
 # Manhattan (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 104.10735664832453 | #252 |
-| **Defense** (AdjDE) | 121.66994140742037 | #357 |
-| **Tempo** | 68.2651205286785 | - |
-| **Resume** | **WAB**: -10.347577997647448 | **SOS**: 0.35923282706173726 |
-| **Record** | 9-14 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 104.3 | 121.8 |
+| **Shooting** | Effective FG% | 48.0% | 54.9% |
+| **Ball Security** | Turnover Rate | 15.4% | 16.7% |
+| **Rebounding** | Off. Rebound % | 27.9% | 38.2% |
+| **Free Throws** | Free Throw Rate | 33.5 | 25.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -11.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Kansas St.
-conf: B12
+conf: N/A
 year: 2026
-adj_oe: 113.97829972083456
-adj_de: 104.63676865157115
-tempo: 71.6926575775317
-barthag: 0.7277823906810278
-wab: -3.0965063611543693
+adj_oe: 113.2
+adj_de: 105.5
+barthag: N/A
+wab: -3.6
 ---
 # Kansas St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 113.97829972083456 | #88 |
-| **Defense** (AdjDE) | 104.63676865157115 | #94 |
-| **Tempo** | 71.6926575775317 | - |
-| **Resume** | **WAB**: -3.0965063611543693 | **SOS**: 0.6445920562598669 |
-| **Record** | 10-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 113.2 | 105.5 |
+| **Shooting** | Effective FG% | 53.9% | 51.5% |
+| **Ball Security** | Turnover Rate | 16.9% | 17.0% |
+| **Rebounding** | Off. Rebound % | 31.6% | 32.7% |
+| **Free Throws** | Free Throw Rate | 26.4 | 35.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

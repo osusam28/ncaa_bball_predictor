@@ -1,23 +1,32 @@
 ---
 team: Southern Illinois
-conf: MVC
+conf: N/A
 year: 2026
-adj_oe: 103.8053614506406
-adj_de: 102.12680398823173
-tempo: 69.68522214507743
-barthag: 0.5467326111774671
-wab: -6.803970332978804
+adj_oe: 103.9
+adj_de: 102.2
+barthag: N/A
+wab: -7.9
 ---
 # Southern Illinois (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 103.8053614506406 | #254 |
-| **Defense** (AdjDE) | 102.12680398823173 | #67 |
-| **Tempo** | 69.68522214507743 | - |
-| **Resume** | **WAB**: -6.803970332978804 | **SOS**: 0.5393185146062275 |
-| **Record** | 9-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 103.9 | 102.2 |
+| **Shooting** | Effective FG% | 50.2% | 49.1% |
+| **Ball Security** | Turnover Rate | 17.5% | 18.2% |
+| **Rebounding** | Off. Rebound % | 30.2% | 29.3% |
+| **Free Throws** | Free Throw Rate | 35.9 | 35.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -7.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

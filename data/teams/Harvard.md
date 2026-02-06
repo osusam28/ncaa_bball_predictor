@@ -1,23 +1,32 @@
 ---
 team: Harvard
-conf: Ivy
+conf: N/A
 year: 2026
-adj_oe: 108.10774138736707
-adj_de: 110.22306674458267
-tempo: 63.28002607900852
-barthag: 0.44451807530666737
-wab: -5.811714214208344
+adj_oe: 108.9
+adj_de: 109.6
+barthag: N/A
+wab: -5.4
 ---
 # Harvard (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.10774138736707 | #185 |
-| **Defense** (AdjDE) | 110.22306674458267 | #214 |
-| **Tempo** | 63.28002607900852 | - |
-| **Resume** | **WAB**: -5.811714214208344 | **SOS**: 0.3858918660292724 |
-| **Record** | 11-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.9 | 109.6 |
+| **Shooting** | Effective FG% | 54.2% | 52.3% |
+| **Ball Security** | Turnover Rate | 17.1% | 17.4% |
+| **Rebounding** | Off. Rebound % | 26.5% | 29.6% |
+| **Free Throws** | Free Throw Rate | 26.9 | 28.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

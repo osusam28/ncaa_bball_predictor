@@ -1,23 +1,32 @@
 ---
 team: Canisius
-conf: MAAC
+conf: N/A
 year: 2026
-adj_oe: 95.92783566985607
-adj_de: 113.16929788893913
-tempo: 63.737841964699385
-barthag: 0.13001567356003346
-wab: -11.068466121890015
+adj_oe: 97.0
+adj_de: 114.6
+barthag: N/A
+wab: -12.1
 ---
 # Canisius (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 95.92783566985607 | #352 |
-| **Defense** (AdjDE) | 113.16929788893913 | #273 |
-| **Tempo** | 63.737841964699385 | - |
-| **Resume** | **WAB**: -11.068466121890015 | **SOS**: 0.34284059744809414 |
-| **Record** | 8-14 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 97.0 | 114.6 |
+| **Shooting** | Effective FG% | 46.4% | 53.4% |
+| **Ball Security** | Turnover Rate | 19.8% | 16.2% |
+| **Rebounding** | Off. Rebound % | 30.4% | 30.6% |
+| **Free Throws** | Free Throw Rate | 32.2 | 33.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -12.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

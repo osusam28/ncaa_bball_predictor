@@ -1,23 +1,32 @@
 ---
 team: Northern Illinois
-conf: MAC
+conf: N/A
 year: 2026
-adj_oe: 99.45111209563814
-adj_de: 112.12834737320992
-tempo: 67.10192617996448
-barthag: 0.2010496612658695
-wab: -9.254622170673754
+adj_oe: 99.4
+adj_de: 111.3
+barthag: N/A
+wab: -9.9
 ---
 # Northern Illinois (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 99.45111209563814 | #320 |
-| **Defense** (AdjDE) | 112.12834737320992 | #253 |
-| **Tempo** | 67.10192617996448 | - |
-| **Resume** | **WAB**: -9.254622170673754 | **SOS**: 0.4180348765384852 |
-| **Record** | 7-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 99.4 | 111.3 |
+| **Shooting** | Effective FG% | 48.4% | 54.4% |
+| **Ball Security** | Turnover Rate | 22.5% | 17.3% |
+| **Rebounding** | Off. Rebound % | 34.3% | 31.7% |
+| **Free Throws** | Free Throw Rate | 38.9 | 41.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -9.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Houston
-conf: B12
+conf: N/A
 year: 2026
-adj_oe: 127.21931337020646
-adj_de: 93.2881878903928
-tempo: 63.59535856527852
-barthag: 0.9725490101828665
-wab: 5.612213169721647
+adj_oe: 127.7
+adj_de: 93.9
+barthag: N/A
+wab: +5.4
 ---
 # Houston (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 127.21931337020646 | #5 |
-| **Defense** (AdjDE) | 93.2881878903928 | #6 |
-| **Tempo** | 63.59535856527852 | - |
-| **Resume** | **WAB**: 5.612213169721647 | **SOS**: 0.6534036042584483 |
-| **Record** | 19-2 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 127.7 | 93.9 |
+| **Shooting** | Effective FG% | 52.4% | 46.5% |
+| **Ball Security** | Turnover Rate | 12.9% | 23.3% |
+| **Rebounding** | Off. Rebound % | 37.4% | 32.1% |
+| **Free Throws** | Free Throw Rate | 26.5 | 38.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +5.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

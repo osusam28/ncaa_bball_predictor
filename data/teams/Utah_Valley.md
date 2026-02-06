@@ -1,23 +1,32 @@
 ---
 team: Utah Valley
-conf: WAC
+conf: N/A
 year: 2026
-adj_oe: 111.91858528909134
-adj_de: 102.58226376590001
-tempo: 69.57600260681971
-barthag: 0.7313978659279594
-wab: -2.021508841873705
+adj_oe: 112.2
+adj_de: 103.0
+barthag: N/A
+wab: -2.2
 ---
 # Utah Valley (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 111.91858528909134 | #121 |
-| **Defense** (AdjDE) | 102.58226376590001 | #71 |
-| **Tempo** | 69.57600260681971 | - |
-| **Resume** | **WAB**: -2.021508841873705 | **SOS**: 0.4364175958548886 |
-| **Record** | 16-6 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 112.2 | 103.0 |
+| **Shooting** | Effective FG% | 55.5% | 48.8% |
+| **Ball Security** | Turnover Rate | 20.9% | 20.9% |
+| **Rebounding** | Off. Rebound % | 34.5% | 31.0% |
+| **Free Throws** | Free Throw Rate | 36.0 | 38.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -2.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

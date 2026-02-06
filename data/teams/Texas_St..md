@@ -1,23 +1,32 @@
 ---
 team: Texas St.
-conf: SB
+conf: N/A
 year: 2026
-adj_oe: 101.87549682159215
-adj_de: 109.63757325421568
-tempo: 66.5355751744774
-barthag: 0.3006026117395872
-wab: -8.41726446948748
+adj_oe: 102.0
+adj_de: 110.0
+barthag: N/A
+wab: -8.6
 ---
 # Texas St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 101.87549682159215 | #289 |
-| **Defense** (AdjDE) | 109.63757325421568 | #198 |
-| **Tempo** | 66.5355751744774 | - |
-| **Resume** | **WAB**: -8.41726446948748 | **SOS**: 0.3223565664652986 |
-| **Record** | 13-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 102.0 | 110.0 |
+| **Shooting** | Effective FG% | 48.4% | 51.7% |
+| **Ball Security** | Turnover Rate | 19.1% | 18.6% |
+| **Rebounding** | Off. Rebound % | 33.4% | 28.1% |
+| **Free Throws** | Free Throw Rate | 34.3 | 38.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -8.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

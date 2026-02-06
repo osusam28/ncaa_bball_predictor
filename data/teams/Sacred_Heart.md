@@ -1,23 +1,32 @@
 ---
 team: Sacred Heart
-conf: MAAC
+conf: N/A
 year: 2026
-adj_oe: 106.70854483200822
-adj_de: 118.14099840048439
-tempo: 68.59328128417887
-barthag: 0.23677507973612205
-wab: -9.99877168017175
+adj_oe: 106.7
+adj_de: 118.3
+barthag: N/A
+wab: -10.8
 ---
 # Sacred Heart (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 106.70854483200822 | #207 |
-| **Defense** (AdjDE) | 118.14099840048439 | #334 |
-| **Tempo** | 68.59328128417887 | - |
-| **Resume** | **WAB**: -9.99877168017175 | **SOS**: 0.3341254339435397 |
-| **Record** | 10-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.7 | 118.3 |
+| **Shooting** | Effective FG% | 52.2% | 54.5% |
+| **Ball Security** | Turnover Rate | 18.4% | 15.5% |
+| **Rebounding** | Off. Rebound % | 29.2% | 30.7% |
+| **Free Throws** | Free Throw Rate | 30.3 | 29.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -10.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

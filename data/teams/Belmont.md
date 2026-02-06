@@ -1,23 +1,32 @@
 ---
 team: Belmont
-conf: MVC
+conf: N/A
 year: 2026
-adj_oe: 117.78495443938397
-adj_de: 106.43824143640033
-tempo: 69.01404100945412
-barthag: 0.7622218576713199
-wab: 0.6838715664530614
+adj_oe: 119.4
+adj_de: 107.0
+barthag: N/A
+wab: +0.6
 ---
 # Belmont (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 117.78495443938397 | #60 |
-| **Defense** (AdjDE) | 106.43824143640033 | #123 |
-| **Tempo** | 69.01404100945412 | - |
-| **Resume** | **WAB**: 0.6838715664530614 | **SOS**: 0.4511322618873726 |
-| **Record** | 19-3 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 119.4 | 107.0 |
+| **Shooting** | Effective FG% | 60.6% | 47.7% |
+| **Ball Security** | Turnover Rate | 18.9% | 18.1% |
+| **Rebounding** | Off. Rebound % | 29.7% | 30.1% |
+| **Free Throws** | Free Throw Rate | 34.5 | 29.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +0.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Duke
-conf: ACC
+conf: N/A
 year: 2026
-adj_oe: 125.32782148642235
-adj_de: 93.70468172102096
-tempo: 66.75772141684662
-barthag: 0.9659086084857437
-wab: 7.974395471212454
+adj_oe: 125.6
+adj_de: 94.0
+barthag: N/A
+wab: +7.8
 ---
 # Duke (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 125.32782148642235 | #12 |
-| **Defense** (AdjDE) | 93.70468172102096 | #8 |
-| **Tempo** | 66.75772141684662 | - |
-| **Resume** | **WAB**: 7.974395471212454 | **SOS**: 0.6765856493627629 |
-| **Record** | 20-1 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 125.6 | 94.0 |
+| **Shooting** | Effective FG% | 57.6% | 46.0% |
+| **Ball Security** | Turnover Rate | 16.3% | 19.6% |
+| **Rebounding** | Off. Rebound % | 38.1% | 26.2% |
+| **Free Throws** | Free Throw Rate | 40.9 | 23.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +7.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

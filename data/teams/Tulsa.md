@@ -1,23 +1,32 @@
 ---
 team: Tulsa
-conf: Amer
+conf: N/A
 year: 2026
-adj_oe: 123.88969446159798
-adj_de: 109.38575733214195
-tempo: 67.98887516136313
-barthag: 0.8071933780713323
-wab: 0.4138577160046262
+adj_oe: 124.4
+adj_de: 109.9
+barthag: N/A
+wab: +0.36
 ---
 # Tulsa (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 123.88969446159798 | #19 |
-| **Defense** (AdjDE) | 109.38575733214195 | #191 |
-| **Tempo** | 67.98887516136313 | - |
-| **Resume** | **WAB**: 0.4138577160046262 | **SOS**: 0.4469420961403686 |
-| **Record** | 18-3 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 124.4 | 109.9 |
+| **Shooting** | Effective FG% | 58.2% | 50.5% |
+| **Ball Security** | Turnover Rate | 15.6% | 16.0% |
+| **Rebounding** | Off. Rebound % | 33.2% | 28.5% |
+| **Free Throws** | Free Throw Rate | 44.9 | 32.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +0.36 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

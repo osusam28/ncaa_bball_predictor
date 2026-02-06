@@ -1,23 +1,32 @@
 ---
 team: Bethune Cookman
-conf: SWAC
+conf: N/A
 year: 2026
-adj_oe: 105.10178531995174
-adj_de: 110.22629412614333
-tempo: 68.32134724811331
-barthag: 0.3664512658816072
-wab: -4.88911792656084
+adj_oe: 104.4
+adj_de: 108.1
+barthag: N/A
+wab: -4.8
 ---
 # Bethune Cookman (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 105.10178531995174 | #238 |
-| **Defense** (AdjDE) | 110.22629412614333 | #215 |
-| **Tempo** | 68.32134724811331 | - |
-| **Resume** | **WAB**: -4.88911792656084 | **SOS**: 0.47351863260168015 |
-| **Record** | 9-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 104.4 | 108.1 |
+| **Shooting** | Effective FG% | 50.5% | 50.9% |
+| **Ball Security** | Turnover Rate | 18.7% | 16.2% |
+| **Rebounding** | Off. Rebound % | 28.0% | 32.1% |
+| **Free Throws** | Free Throw Rate | 38.2 | 39.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

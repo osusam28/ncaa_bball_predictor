@@ -1,23 +1,32 @@
 ---
 team: UC Irvine
-conf: BW
+conf: N/A
 year: 2026
-adj_oe: 104.58455744948489
-adj_de: 98.46036476647842
-tempo: 68.06233175615328
-barthag: 0.6668408292692941
-wab: -3.343011370497837
+adj_oe: 104.5
+adj_de: 98.5
+barthag: N/A
+wab: -3.5
 ---
 # UC Irvine (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 104.58455744948489 | #245 |
-| **Defense** (AdjDE) | 98.46036476647842 | #29 |
-| **Tempo** | 68.06233175615328 | - |
-| **Resume** | **WAB**: -3.343011370497837 | **SOS**: 0.4449618120064543 |
-| **Record** | 15-7 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 104.5 | 98.5 |
+| **Shooting** | Effective FG% | 48.5% | 44.4% |
+| **Ball Security** | Turnover Rate | 17.7% | 17.9% |
+| **Rebounding** | Off. Rebound % | 30.2% | 31.7% |
+| **Free Throws** | Free Throw Rate | 38.6 | 28.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

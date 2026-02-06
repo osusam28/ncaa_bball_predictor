@@ -1,23 +1,32 @@
 ---
 team: Drake
-conf: MVC
+conf: N/A
 year: 2026
-adj_oe: 108.52335618563275
-adj_de: 110.17892142793136
-tempo: 66.71064006010809
-barthag: 0.45658158828276435
-wab: -6.265024328595822
+adj_oe: 108.6
+adj_de: 111.8
+barthag: N/A
+wab: -7.4
 ---
 # Drake (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.52335618563275 | #174 |
-| **Defense** (AdjDE) | 110.17892142793136 | #213 |
-| **Tempo** | 66.71064006010809 | - |
-| **Resume** | **WAB**: -6.265024328595822 | **SOS**: 0.4502254758252697 |
-| **Record** | 12-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.6 | 111.8 |
+| **Shooting** | Effective FG% | 51.6% | 51.4% |
+| **Ball Security** | Turnover Rate | 14.5% | 15.3% |
+| **Rebounding** | Off. Rebound % | 26.0% | 29.4% |
+| **Free Throws** | Free Throw Rate | 36.5 | 34.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -7.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

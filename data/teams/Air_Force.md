@@ -1,23 +1,32 @@
 ---
 team: Air Force
-conf: MWC
+conf: N/A
 year: 2026
-adj_oe: 94.26150501527582
-adj_de: 111.12230086030802
-tempo: 64.92390502767257
-barthag: 0.13096845439510377
-wab: -11.94051549768962
+adj_oe: 94.5
+adj_de: 111.6
+barthag: N/A
+wab: -13.0
 ---
 # Air Force (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 94.26150501527582 | #356 |
-| **Defense** (AdjDE) | 111.12230086030802 | #238 |
-| **Tempo** | 64.92390502767257 | - |
-| **Resume** | **WAB**: -11.94051549768962 | **SOS**: 0.5620301989128447 |
-| **Record** | 3-17 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 94.5 | 111.6 |
+| **Shooting** | Effective FG% | 49.0% | 54.8% |
+| **Ball Security** | Turnover Rate | 22.1% | 16.2% |
+| **Rebounding** | Off. Rebound % | 22.5% | 32.3% |
+| **Free Throws** | Free Throw Rate | 36.5 | 35.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -13.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

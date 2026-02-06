@@ -1,23 +1,32 @@
 ---
 team: Bucknell
-conf: Pat
+conf: N/A
 year: 2026
-adj_oe: 99.29868415800078
-adj_de: 113.95281732010164
-tempo: 66.49424093997686
-barthag: 0.17037105135503222
-wab: -11.875031643043712
+adj_oe: 99.6
+adj_de: 114.1
+barthag: N/A
+wab: -12.0
 ---
 # Bucknell (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 99.29868415800078 | #322 |
-| **Defense** (AdjDE) | 113.95281732010164 | #280 |
-| **Tempo** | 66.49424093997686 | - |
-| **Resume** | **WAB**: -11.875031643043712 | **SOS**: 0.39182555742305863 |
-| **Record** | 7-16 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 99.6 | 114.1 |
+| **Shooting** | Effective FG% | 48.5% | 56.1% |
+| **Ball Security** | Turnover Rate | 19.2% | 17.9% |
+| **Rebounding** | Off. Rebound % | 27.2% | 30.7% |
+| **Free Throws** | Free Throw Rate | 31.8 | 36.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -12.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

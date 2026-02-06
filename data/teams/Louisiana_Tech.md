@@ -1,23 +1,32 @@
 ---
 team: Louisiana Tech
-conf: CUSA
+conf: N/A
 year: 2026
-adj_oe: 99.31496485018815
-adj_de: 107.52128739127208
-tempo: 62.811836983153455
-barthag: 0.286383322202466
-wab: -5.400617143449633
+adj_oe: 100.6
+adj_de: 108.9
+barthag: N/A
+wab: -6.1
 ---
 # Louisiana Tech (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 99.31496485018815 | #321 |
-| **Defense** (AdjDE) | 107.52128739127208 | #148 |
-| **Tempo** | 62.811836983153455 | - |
-| **Resume** | **WAB**: -5.400617143449633 | **SOS**: 0.3459387978871027 |
-| **Record** | 12-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 100.6 | 108.9 |
+| **Shooting** | Effective FG% | 45.7% | 48.4% |
+| **Ball Security** | Turnover Rate | 17.5% | 16.7% |
+| **Rebounding** | Off. Rebound % | 35.0% | 30.5% |
+| **Free Throws** | Free Throw Rate | 33.7 | 36.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

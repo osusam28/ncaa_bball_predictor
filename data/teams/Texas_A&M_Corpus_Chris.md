@@ -1,23 +1,32 @@
 ---
 team: Texas A&M Corpus Chris
-conf: Slnd
+conf: N/A
 year: 2026
-adj_oe: 101.21541983549471
-adj_de: 101.2346377428934
-tempo: 65.83339522327815
-barthag: 0.4994541719310917
-wab: -5.377115389015864
+adj_oe: 101.7
+adj_de: 103.7
+barthag: N/A
+wab: -6.4
 ---
 # Texas A&M Corpus Chris (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 101.21541983549471 | #304 |
-| **Defense** (AdjDE) | 101.2346377428934 | #58 |
-| **Tempo** | 65.83339522327815 | - |
-| **Resume** | **WAB**: -5.377115389015864 | **SOS**: 0.431412229477626 |
-| **Record** | 11-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 101.7 | 103.7 |
+| **Shooting** | Effective FG% | 47.1% | 50.7% |
+| **Ball Security** | Turnover Rate | 18.5% | 20.0% |
+| **Rebounding** | Off. Rebound % | 31.1% | 29.8% |
+| **Free Throws** | Free Throw Rate | 43.3 | 44.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

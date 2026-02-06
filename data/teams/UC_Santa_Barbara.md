@@ -1,23 +1,32 @@
 ---
 team: UC Santa Barbara
-conf: BW
+conf: N/A
 year: 2026
-adj_oe: 115.54303034828857
-adj_de: 111.06336001607525
-tempo: 63.68628650976369
-barthag: 0.611764415699966
-wab: -3.847792808034989
+adj_oe: 115.5
+adj_de: 110.1
+barthag: N/A
+wab: -3.9
 ---
 # UC Santa Barbara (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 115.54303034828857 | #73 |
-| **Defense** (AdjDE) | 111.06336001607525 | #235 |
-| **Tempo** | 63.68628650976369 | - |
-| **Resume** | **WAB**: -3.847792808034989 | **SOS**: 0.40008547723415444 |
-| **Record** | 14-7 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 115.5 | 110.1 |
+| **Shooting** | Effective FG% | 56.2% | 53.7% |
+| **Ball Security** | Turnover Rate | 18.4% | 18.3% |
+| **Rebounding** | Off. Rebound % | 31.8% | 26.2% |
+| **Free Throws** | Free Throw Rate | 36.6 | 43.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

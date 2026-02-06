@@ -1,23 +1,32 @@
 ---
 team: Army
-conf: Pat
+conf: N/A
 year: 2026
-adj_oe: 103.1004345210088
-adj_de: 120.21559229638656
-tempo: 66.51213474360904
-barthag: 0.14601478855573669
-wab: -10.17343275231199
+adj_oe: 103.5
+adj_de: 120.6
+barthag: N/A
+wab: -10.3
 ---
 # Army (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 103.1004345210088 | #263 |
-| **Defense** (AdjDE) | 120.21559229638656 | #351 |
-| **Tempo** | 66.51213474360904 | - |
-| **Resume** | **WAB**: -10.17343275231199 | **SOS**: 0.3158001920662244 |
-| **Record** | 10-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 103.5 | 120.6 |
+| **Shooting** | Effective FG% | 50.2% | 55.3% |
+| **Ball Security** | Turnover Rate | 16.8% | 14.6% |
+| **Rebounding** | Off. Rebound % | 29.3% | 27.5% |
+| **Free Throws** | Free Throw Rate | 27.8 | 36.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -10.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

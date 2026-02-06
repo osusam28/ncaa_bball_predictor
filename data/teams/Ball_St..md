@@ -1,23 +1,32 @@
 ---
 team: Ball St.
-conf: MAC
+conf: N/A
 year: 2026
-adj_oe: 99.90144354292383
-adj_de: 111.38603360080643
-tempo: 63.61175902089103
-barthag: 0.22245704823153706
-wab: -10.636210148616001
+adj_oe: 100.4
+adj_de: 111.7
+barthag: N/A
+wab: -10.7
 ---
 # Ball St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 99.90144354292383 | #313 |
-| **Defense** (AdjDE) | 111.38603360080643 | #239 |
-| **Tempo** | 63.61175902089103 | - |
-| **Resume** | **WAB**: -10.636210148616001 | **SOS**: 0.38269543759364083 |
-| **Record** | 7-14 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 100.4 | 111.7 |
+| **Shooting** | Effective FG% | 46.2% | 54.8% |
+| **Ball Security** | Turnover Rate | 16.3% | 19.1% |
+| **Rebounding** | Off. Rebound % | 27.2% | 32.3% |
+| **Free Throws** | Free Throw Rate | 33.2 | 29.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -10.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

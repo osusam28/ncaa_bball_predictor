@@ -1,23 +1,32 @@
 ---
 team: North Florida
-conf: ASun
+conf: N/A
 year: 2026
-adj_oe: 111.23024372176809
-adj_de: 128.27046843728743
-tempo: 70.5957529990802
-barthag: 0.16257454606404176
-wab: -12.694627496981076
+adj_oe: 111.4
+adj_de: 128.5
+barthag: N/A
+wab: -12.8
 ---
 # North Florida (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 111.23024372176809 | #128 |
-| **Defense** (AdjDE) | 128.27046843728743 | #365 |
-| **Tempo** | 70.5957529990802 | - |
-| **Resume** | **WAB**: -12.694627496981076 | **SOS**: 0.4215803159667049 |
-| **Record** | 5-18 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 111.4 | 128.5 |
+| **Shooting** | Effective FG% | 54.2% | 58.4% |
+| **Ball Security** | Turnover Rate | 18.3% | 12.7% |
+| **Rebounding** | Off. Rebound % | 24.7% | 38.7% |
+| **Free Throws** | Free Throw Rate | 25.4 | 32.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -12.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,36 @@
 ---
 team: Washington
-conf: B10
+conf: N/A
 year: 2026
-adj_oe: 116.35541222581371
-adj_de: 100.77509575555521
-tempo: 66.9553344128558
-barthag: 0.8393255900904824
-wab: -0.938668057710348
+adj_oe: 116.9
+adj_de: 100.2
+barthag: N/A
+wab: -0.49
 ---
 # Washington (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 116.35541222581371 | #71 |
-| **Defense** (AdjDE) | 100.77509575555521 | #51 |
-| **Tempo** | 66.9553344128558 | - |
-| **Resume** | **WAB**: -0.938668057710348 | **SOS**: 0.694942495783692 |
-| **Record** | 11-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 116.9 | 100.2 |
+| **Shooting** | Effective FG% | 50.4% | 49.1% |
+| **Ball Security** | Turnover Rate | 15.2% | 15.0% |
+| **Rebounding** | Off. Rebound % | 35.3% | 28.8% |
+| **Free Throws** | Free Throw Rate | 32.1 | 31.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -0.49 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes
+### Web Insight (2026-02-04)
+- Record: 12-10 overall, 4-7 Big Ten. Strong at home (9-3).
+- Hannes Steinbach: 22 pts, 14 reb vs Northwestern.
+- Averages 74.6 PPG; Zoom Diallo key energy player off bench.

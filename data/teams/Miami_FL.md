@@ -1,23 +1,32 @@
 ---
 team: Miami FL
-conf: ACC
+conf: N/A
 year: 2026
-adj_oe: 117.86123101724318
-adj_de: 100.60302853348043
-tempo: 68.99739430273544
-barthag: 0.860655372998305
-wab: 1.7581760354035456
+adj_oe: 119.3
+adj_de: 102.3
+barthag: N/A
+wab: +0.9
 ---
 # Miami FL (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 117.86123101724318 | #58 |
-| **Defense** (AdjDE) | 100.60302853348043 | #46 |
-| **Tempo** | 68.99739430273544 | - |
-| **Resume** | **WAB**: 1.7581760354035456 | **SOS**: 0.5293842284960504 |
-| **Record** | 17-4 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 119.3 | 102.3 |
+| **Shooting** | Effective FG% | 56.7% | 50.1% |
+| **Ball Security** | Turnover Rate | 16.3% | 19.2% |
+| **Rebounding** | Off. Rebound % | 37.3% | 26.1% |
+| **Free Throws** | Free Throw Rate | 39.2 | 32.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +0.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

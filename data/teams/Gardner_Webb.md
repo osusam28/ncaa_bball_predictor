@@ -1,23 +1,32 @@
 ---
 team: Gardner Webb
-conf: BSth
+conf: N/A
 year: 2026
-adj_oe: 94.07321208706345
-adj_de: 123.4657016910897
-tempo: 70.06114220223176
-barthag: 0.04201780344674628
-wab: -14.991944964191019
+adj_oe: 94.2
+adj_de: 123.9
+barthag: N/A
+wab: -15.2
 ---
 # Gardner Webb (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 94.07321208706345 | #358 |
-| **Defense** (AdjDE) | 123.4657016910897 | #362 |
-| **Tempo** | 70.06114220223176 | - |
-| **Resume** | **WAB**: -14.991944964191019 | **SOS**: 0.4333870544465363 |
-| **Record** | 3-20 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 94.2 | 123.9 |
+| **Shooting** | Effective FG% | 45.8% | 57.8% |
+| **Ball Security** | Turnover Rate | 20.9% | 14.2% |
+| **Rebounding** | Off. Rebound % | 24.0% | 36.7% |
+| **Free Throws** | Free Throw Rate | 30.9 | 35.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -15.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

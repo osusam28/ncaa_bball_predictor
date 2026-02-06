@@ -1,23 +1,32 @@
 ---
 team: Arizona St.
-conf: B12
+conf: N/A
 year: 2026
-adj_oe: 117.8901846575809
-adj_de: 106.77716680459702
-tempo: 69.62045867079499
-barthag: 0.7574240835956307
-wab: -1.5720384359614767
+adj_oe: 118.1
+adj_de: 107.1
+barthag: N/A
+wab: -1.8
 ---
 # Arizona St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 117.8901846575809 | #57 |
-| **Defense** (AdjDE) | 106.77716680459702 | #127 |
-| **Tempo** | 69.62045867079499 | - |
-| **Resume** | **WAB**: -1.5720384359614767 | **SOS**: 0.7021979094621118 |
-| **Record** | 11-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 118.1 | 107.1 |
+| **Shooting** | Effective FG% | 52.4% | 53.5% |
+| **Ball Security** | Turnover Rate | 16.4% | 18.9% |
+| **Rebounding** | Off. Rebound % | 30.0% | 34.0% |
+| **Free Throws** | Free Throw Rate | 40.3 | 36.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -1.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

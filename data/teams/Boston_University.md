@@ -1,23 +1,32 @@
 ---
 team: Boston University
-conf: Pat
+conf: N/A
 year: 2026
-adj_oe: 109.12886609659
-adj_de: 121.61773577355383
-tempo: 63.38004098399814
-barthag: 0.22338226411921944
-wab: -12.226907899571486
+adj_oe: 109.8
+adj_de: 121.6
+barthag: N/A
+wab: -12.3
 ---
 # Boston University (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.12886609659 | #162 |
-| **Defense** (AdjDE) | 121.61773577355383 | #356 |
-| **Tempo** | 63.38004098399814 | - |
-| **Resume** | **WAB**: -12.226907899571486 | **SOS**: 0.3310386442333413 |
-| **Record** | 8-15 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 109.8 | 121.6 |
+| **Shooting** | Effective FG% | 56.0% | 55.5% |
+| **Ball Security** | Turnover Rate | 17.5% | 13.5% |
+| **Rebounding** | Off. Rebound % | 27.3% | 27.7% |
+| **Free Throws** | Free Throw Rate | 32.6 | 32.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -12.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

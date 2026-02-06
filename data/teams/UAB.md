@@ -1,23 +1,32 @@
 ---
 team: UAB
-conf: Amer
+conf: N/A
 year: 2026
-adj_oe: 109.78725026337489
-adj_de: 106.68383829410135
-tempo: 69.472436671667
-barthag: 0.5817008225376781
-wab: -4.092589972382628
+adj_oe: 110.3
+adj_de: 107.3
+barthag: N/A
+wab: -4.1
 ---
 # UAB (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.78725026337489 | #145 |
-| **Defense** (AdjDE) | 106.68383829410135 | #126 |
-| **Tempo** | 69.472436671667 | - |
-| **Resume** | **WAB**: -4.092589972382628 | **SOS**: 0.4538814168375304 |
-| **Record** | 13-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 110.3 | 107.3 |
+| **Shooting** | Effective FG% | 48.6% | 50.0% |
+| **Ball Security** | Turnover Rate | 12.7% | 16.3% |
+| **Rebounding** | Off. Rebound % | 33.4% | 26.6% |
+| **Free Throws** | Free Throw Rate | 37.6 | 31.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

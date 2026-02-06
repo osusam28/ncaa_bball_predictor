@@ -1,23 +1,32 @@
 ---
 team: Cal Baptist
-conf: WAC
+conf: N/A
 year: 2026
-adj_oe: 107.85366008068185
-adj_de: 103.05744863979677
-tempo: 65.13308382232002
-barthag: 0.6278771089144809
-wab: -1.8724950589740899
+adj_oe: 109.0
+adj_de: 103.4
+barthag: N/A
+wab: -1.8
 ---
 # Cal Baptist (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 107.85366008068185 | #193 |
-| **Defense** (AdjDE) | 103.05744863979677 | #76 |
-| **Tempo** | 65.13308382232002 | - |
-| **Resume** | **WAB**: -1.8724950589740899 | **SOS**: 0.4529003896177407 |
-| **Record** | 15-6 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 109.0 | 103.4 |
+| **Shooting** | Effective FG% | 48.9% | 46.9% |
+| **Ball Security** | Turnover Rate | 18.4% | 16.5% |
+| **Rebounding** | Off. Rebound % | 38.8% | 26.9% |
+| **Free Throws** | Free Throw Rate | 38.2 | 37.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -1.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

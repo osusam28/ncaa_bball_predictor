@@ -1,23 +1,32 @@
 ---
 team: TCU
-conf: B12
+conf: N/A
 year: 2026
-adj_oe: 113.65068208934225
-adj_de: 98.83851380947661
-tempo: 67.9092085028977
-barthag: 0.8328393420916442
-wab: -0.2703367681939293
+adj_oe: 112.9
+adj_de: 100.0
+barthag: N/A
+wab: -1.0
 ---
 # TCU (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 113.65068208934225 | #95 |
-| **Defense** (AdjDE) | 98.83851380947661 | #33 |
-| **Tempo** | 67.9092085028977 | - |
-| **Resume** | **WAB**: -0.2703367681939293 | **SOS**: 0.5905443533631507 |
-| **Record** | 13-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 112.9 | 100.0 |
+| **Shooting** | Effective FG% | 51.8% | 50.1% |
+| **Ball Security** | Turnover Rate | 15.8% | 19.7% |
+| **Rebounding** | Off. Rebound % | 32.3% | 29.6% |
+| **Free Throws** | Free Throw Rate | 36.8 | 32.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -1.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

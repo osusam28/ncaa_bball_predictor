@@ -1,23 +1,32 @@
 ---
 team: USC Upstate
-conf: BSth
+conf: N/A
 year: 2026
-adj_oe: 98.47710792835124
-adj_de: 110.38247111313646
-tempo: 67.73551881437213
-barthag: 0.2120749613117245
-wab: -9.097343665685269
+adj_oe: 98.7
+adj_de: 110.5
+barthag: N/A
+wab: -9.2
 ---
 # USC Upstate (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 98.47710792835124 | #334 |
-| **Defense** (AdjDE) | 110.38247111313646 | #218 |
-| **Tempo** | 67.73551881437213 | - |
-| **Resume** | **WAB**: -9.097343665685269 | **SOS**: 0.3499002585479517 |
-| **Record** | 10-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 98.7 | 110.5 |
+| **Shooting** | Effective FG% | 48.1% | 50.2% |
+| **Ball Security** | Turnover Rate | 17.8% | 16.0% |
+| **Rebounding** | Off. Rebound % | 28.1% | 31.5% |
+| **Free Throws** | Free Throw Rate | 34.3 | 37.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -9.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

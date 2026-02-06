@@ -1,23 +1,32 @@
 ---
 team: Alcorn St.
-conf: SWAC
+conf: N/A
 year: 2026
-adj_oe: 97.85798763344822
-adj_de: 116.3499897895195
-tempo: 69.30014161164353
-barthag: 0.12020577058013822
-wab: -10.6122855740733
+adj_oe: 98.1
+adj_de: 117.6
+barthag: N/A
+wab: -11.6
 ---
 # Alcorn St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 97.85798763344822 | #339 |
-| **Defense** (AdjDE) | 116.3499897895195 | #314 |
-| **Tempo** | 69.30014161164353 | - |
-| **Resume** | **WAB**: -10.6122855740733 | **SOS**: 0.5132293923356357 |
-| **Record** | 3-16 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 98.1 | 117.6 |
+| **Shooting** | Effective FG% | 47.8% | 57.7% |
+| **Ball Security** | Turnover Rate | 21.1% | 17.9% |
+| **Rebounding** | Off. Rebound % | 28.3% | 37.0% |
+| **Free Throws** | Free Throw Rate | 26.1 | 40.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -11.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

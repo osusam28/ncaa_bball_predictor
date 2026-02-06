@@ -1,23 +1,32 @@
 ---
 team: Central Connecticut
-conf: NEC
+conf: N/A
 year: 2026
-adj_oe: 105.38851242156424
-adj_de: 118.56738303380638
-tempo: 64.4509099393229
-barthag: 0.2050509383024241
-wab: -7.466848672142444
+adj_oe: 105.8
+adj_de: 118.9
+barthag: N/A
+wab: -7.5
 ---
 # Central Connecticut (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 105.38851242156424 | #235 |
-| **Defense** (AdjDE) | 118.56738303380638 | #341 |
-| **Tempo** | 64.4509099393229 | - |
-| **Resume** | **WAB**: -7.466848672142444 | **SOS**: 0.30346180661456257 |
-| **Record** | 11-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 105.8 | 118.9 |
+| **Shooting** | Effective FG% | 50.7% | 51.2% |
+| **Ball Security** | Turnover Rate | 15.9% | 14.5% |
+| **Rebounding** | Off. Rebound % | 27.1% | 31.7% |
+| **Free Throws** | Free Throw Rate | 30.4 | 26.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -7.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

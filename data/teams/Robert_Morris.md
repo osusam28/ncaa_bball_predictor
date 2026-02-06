@@ -1,23 +1,32 @@
 ---
 team: Robert Morris
-conf: Horz
+conf: N/A
 year: 2026
-adj_oe: 109.50116528439247
-adj_de: 113.06075293673655
-tempo: 64.74296148027997
-barthag: 0.4090518458458266
-wab: -6.577890706993136
+adj_oe: 109.7
+adj_de: 113.5
+barthag: N/A
+wab: -6.7
 ---
 # Robert Morris (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.50116528439247 | #155 |
-| **Defense** (AdjDE) | 113.06075293673655 | #270 |
-| **Tempo** | 64.74296148027997 | - |
-| **Resume** | **WAB**: -6.577890706993136 | **SOS**: 0.3761863970472717 |
-| **Record** | 14-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 109.7 | 113.5 |
+| **Shooting** | Effective FG% | 53.9% | 51.7% |
+| **Ball Security** | Turnover Rate | 19.0% | 15.8% |
+| **Rebounding** | Off. Rebound % | 37.9% | 28.7% |
+| **Free Throws** | Free Throw Rate | 29.5 | 44.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

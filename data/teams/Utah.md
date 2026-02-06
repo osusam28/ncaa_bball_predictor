@@ -1,23 +1,32 @@
 ---
 team: Utah
-conf: B12
+conf: N/A
 year: 2026
-adj_oe: 118.58922316340906
-adj_de: 110.39594893792635
-tempo: 68.30666699668755
-barthag: 0.694938515658162
-wab: -3.7912441607339455
+adj_oe: 117.9
+adj_de: 110.5
+barthag: N/A
+wab: -4.8
 ---
 # Utah (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 118.58922316340906 | #52 |
-| **Defense** (AdjDE) | 110.39594893792635 | #221 |
-| **Tempo** | 68.30666699668755 | - |
-| **Resume** | **WAB**: -3.7912441607339455 | **SOS**: 0.6439915287671757 |
-| **Record** | 9-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 117.9 | 110.5 |
+| **Shooting** | Effective FG% | 53.3% | 53.6% |
+| **Ball Security** | Turnover Rate | 15.5% | 14.5% |
+| **Rebounding** | Off. Rebound % | 29.1% | 32.9% |
+| **Free Throws** | Free Throw Rate | 33.8 | 30.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

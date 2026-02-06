@@ -1,23 +1,32 @@
 ---
 team: Wagner
-conf: NEC
+conf: N/A
 year: 2026
-adj_oe: 104.418565994643
-adj_de: 120.20876031989927
-tempo: 65.05019438810531
-barthag: 0.16527967815039127
-wab: -10.30435114704163
+adj_oe: 104.6
+adj_de: 120.4
+barthag: N/A
+wab: -10.4
 ---
 # Wagner (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 104.418565994643 | #247 |
-| **Defense** (AdjDE) | 120.20876031989927 | #350 |
-| **Tempo** | 65.05019438810531 | - |
-| **Resume** | **WAB**: -10.30435114704163 | **SOS**: 0.28757858388552837 |
-| **Record** | 7-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 104.6 | 120.4 |
+| **Shooting** | Effective FG% | 50.7% | 51.5% |
+| **Ball Security** | Turnover Rate | 18.4% | 14.7% |
+| **Rebounding** | Off. Rebound % | 32.4% | 31.3% |
+| **Free Throws** | Free Throw Rate | 31.4 | 43.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -10.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

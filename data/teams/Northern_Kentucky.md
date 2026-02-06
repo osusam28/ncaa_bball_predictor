@@ -1,23 +1,32 @@
 ---
 team: Northern Kentucky
-conf: Horz
+conf: N/A
 year: 2026
-adj_oe: 109.21814494638963
-adj_de: 110.97229553151323
-tempo: 69.69210197084514
-barthag: 0.4543193038454704
-wab: -5.895302981243079
+adj_oe: 108.3
+adj_de: 110.1
+barthag: N/A
+wab: -6.7
 ---
 # Northern Kentucky (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.21814494638963 | #160 |
-| **Defense** (AdjDE) | 110.97229553151323 | #231 |
-| **Tempo** | 69.69210197084514 | - |
-| **Resume** | **WAB**: -5.895302981243079 | **SOS**: 0.3504636684296381 |
-| **Record** | 14-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.3 | 110.1 |
+| **Shooting** | Effective FG% | 52.6% | 54.6% |
+| **Ball Security** | Turnover Rate | 16.6% | 19.4% |
+| **Rebounding** | Off. Rebound % | 32.2% | 32.9% |
+| **Free Throws** | Free Throw Rate | 34.1 | 38.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

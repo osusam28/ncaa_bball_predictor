@@ -1,23 +1,32 @@
 ---
 team: Stanford
-conf: ACC
+conf: N/A
 year: 2026
-adj_oe: 113.65740063644816
-adj_de: 102.60512379891102
-tempo: 67.73406562522244
-barthag: 0.7643105508175474
-wab: -0.06967065964652813
+adj_oe: 114.1
+adj_de: 103.7
+barthag: N/A
+wab: -0.8
 ---
 # Stanford (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 113.65740063644816 | #94 |
-| **Defense** (AdjDE) | 102.60512379891102 | #72 |
-| **Tempo** | 67.73406562522244 | - |
-| **Resume** | **WAB**: -0.06967065964652813 | **SOS**: 0.6481055126551516 |
-| **Record** | 14-7 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 114.1 | 103.7 |
+| **Shooting** | Effective FG% | 49.9% | 51.8% |
+| **Ball Security** | Turnover Rate | 16.2% | 19.0% |
+| **Rebounding** | Off. Rebound % | 33.5% | 29.3% |
+| **Free Throws** | Free Throw Rate | 39.4 | 41.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -0.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

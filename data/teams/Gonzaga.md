@@ -1,23 +1,32 @@
 ---
 team: Gonzaga
-conf: WCC
+conf: N/A
 year: 2026
-adj_oe: 122.07152503138019
-adj_de: 94.31829520438967
-tempo: 70.06545037905448
-barthag: 0.9510244028418565
-wab: 5.404950553274961
+adj_oe: 121.7
+adj_de: 94.2
+barthag: N/A
+wab: +5.6
 ---
 # Gonzaga (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 122.07152503138019 | #28 |
-| **Defense** (AdjDE) | 94.31829520438967 | #12 |
-| **Tempo** | 70.06545037905448 | - |
-| **Resume** | **WAB**: 5.404950553274961 | **SOS**: 0.5887901360610216 |
-| **Record** | 21-1 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 121.7 | 94.2 |
+| **Shooting** | Effective FG% | 56.8% | 45.4% |
+| **Ball Security** | Turnover Rate | 14.2% | 20.4% |
+| **Rebounding** | Off. Rebound % | 36.2% | 24.5% |
+| **Free Throws** | Free Throw Rate | 31.3 | 31.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +5.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

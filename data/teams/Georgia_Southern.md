@@ -1,23 +1,32 @@
 ---
 team: Georgia Southern
-conf: SB
+conf: N/A
 year: 2026
-adj_oe: 108.18373491726213
-adj_de: 115.71912394183832
-tempo: 70.6205849429066
-barthag: 0.31553862732004706
-wab: -6.759483125066217
+adj_oe: 107.6
+adj_de: 116.2
+barthag: N/A
+wab: -7.8
 ---
 # Georgia Southern (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.18373491726213 | #182 |
-| **Defense** (AdjDE) | 115.71912394183832 | #306 |
-| **Tempo** | 70.6205849429066 | - |
-| **Resume** | **WAB**: -6.759483125066217 | **SOS**: 0.3036231453438396 |
-| **Record** | 14-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 107.6 | 116.2 |
+| **Shooting** | Effective FG% | 49.5% | 51.9% |
+| **Ball Security** | Turnover Rate | 14.6% | 19.1% |
+| **Rebounding** | Off. Rebound % | 29.4% | 35.6% |
+| **Free Throws** | Free Throw Rate | 42.2 | 40.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -7.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

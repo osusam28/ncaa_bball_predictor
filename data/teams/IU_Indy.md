@@ -1,23 +1,32 @@
 ---
 team: IU Indy
-conf: Horz
+conf: N/A
 year: 2026
-adj_oe: 106.27078193333054
-adj_de: 117.90638234851244
-tempo: 73.88969625782092
-barthag: 0.23239149831685402
-wab: -13.687028643638689
+adj_oe: 106.7
+adj_de: 118.2
+barthag: N/A
+wab: -13.8
 ---
 # IU Indy (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 106.27078193333054 | #214 |
-| **Defense** (AdjDE) | 117.90638234851244 | #330 |
-| **Tempo** | 73.88969625782092 | - |
-| **Resume** | **WAB**: -13.687028643638689 | **SOS**: 0.4195083189774977 |
-| **Record** | 6-18 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.7 | 118.2 |
+| **Shooting** | Effective FG% | 51.7% | 58.5% |
+| **Ball Security** | Turnover Rate | 15.9% | 20.0% |
+| **Rebounding** | Off. Rebound % | 28.9% | 37.5% |
+| **Free Throws** | Free Throw Rate | 21.3 | 46.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -13.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

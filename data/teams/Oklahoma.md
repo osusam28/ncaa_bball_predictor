@@ -1,23 +1,32 @@
 ---
 team: Oklahoma
-conf: SEC
+conf: N/A
 year: 2026
-adj_oe: 118.850294667145
-adj_de: 107.1748428689391
-tempo: 66.7269309452217
-barthag: 0.766586495335795
-wab: -2.8911033872660683
+adj_oe: 118.9
+adj_de: 107.5
+barthag: N/A
+wab: -3.1
 ---
 # Oklahoma (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 118.850294667145 | #51 |
-| **Defense** (AdjDE) | 107.1748428689391 | #138 |
-| **Tempo** | 66.7269309452217 | - |
-| **Resume** | **WAB**: -2.8911033872660683 | **SOS**: 0.603269597836322 |
-| **Record** | 11-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 118.9 | 107.5 |
+| **Shooting** | Effective FG% | 53.9% | 50.7% |
+| **Ball Security** | Turnover Rate | 14.5% | 15.5% |
+| **Rebounding** | Off. Rebound % | 34.1% | 30.8% |
+| **Free Throws** | Free Throw Rate | 34.0 | 32.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Stonehill
-conf: NEC
+conf: N/A
 year: 2026
-adj_oe: 91.35202627938375
-adj_de: 107.03494867349463
-tempo: 66.24461991258842
-barthag: 0.13919384472344387
-wab: -10.728967045072869
+adj_oe: 91.5
+adj_de: 106.9
+barthag: N/A
+wab: -10.8
 ---
 # Stonehill (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 91.35202627938375 | #363 |
-| **Defense** (AdjDE) | 107.03494867349463 | #132 |
-| **Tempo** | 66.24461991258842 | - |
-| **Resume** | **WAB**: -10.728967045072869 | **SOS**: 0.30242693793110165 |
-| **Record** | 9-14 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 91.5 | 106.9 |
+| **Shooting** | Effective FG% | 46.8% | 48.5% |
+| **Ball Security** | Turnover Rate | 21.0% | 12.7% |
+| **Rebounding** | Off. Rebound % | 28.9% | 25.0% |
+| **Free Throws** | Free Throw Rate | 25.4 | 30.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -10.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

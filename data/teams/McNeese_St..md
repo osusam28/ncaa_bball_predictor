@@ -1,23 +1,32 @@
 ---
 team: McNeese St.
-conf: Slnd
+conf: N/A
 year: 2026
-adj_oe: 116.37313232080359
-adj_de: 105.70407050387124
-tempo: 66.11564503724831
-barthag: 0.7513490601209171
-wab: 0.2530827622526646
+adj_oe: 115.0
+adj_de: 105.4
+barthag: N/A
+wab: -0.23
 ---
 # McNeese St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 116.37313232080359 | #70 |
-| **Defense** (AdjDE) | 105.70407050387124 | #118 |
-| **Tempo** | 66.11564503724831 | - |
-| **Resume** | **WAB**: 0.2530827622526646 | **SOS**: 0.4354778480516347 |
-| **Record** | 17-4 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 115.0 | 105.4 |
+| **Shooting** | Effective FG% | 50.6% | 49.6% |
+| **Ball Security** | Turnover Rate | 15.1% | 24.1% |
+| **Rebounding** | Off. Rebound % | 37.0% | 36.4% |
+| **Free Throws** | Free Throw Rate | 38.5 | 42.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -0.23 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

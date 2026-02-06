@@ -1,23 +1,32 @@
 ---
 team: UC Davis
-conf: BW
+conf: N/A
 year: 2026
-adj_oe: 109.70884092861675
-adj_de: 110.27921119950132
-tempo: 69.21685683401233
-barthag: 0.4850961685007678
-wab: -5.0629551034772255
+adj_oe: 109.9
+adj_de: 110.4
+barthag: N/A
+wab: -5.1
 ---
 # UC Davis (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.70884092861675 | #147 |
-| **Defense** (AdjDE) | 110.27921119950132 | #216 |
-| **Tempo** | 69.21685683401233 | - |
-| **Resume** | **WAB**: -5.0629551034772255 | **SOS**: 0.45033859620074856 |
-| **Record** | 12-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 109.9 | 110.4 |
+| **Shooting** | Effective FG% | 53.3% | 52.7% |
+| **Ball Security** | Turnover Rate | 18.2% | 18.7% |
+| **Rebounding** | Off. Rebound % | 26.5% | 30.7% |
+| **Free Throws** | Free Throw Rate | 41.9 | 40.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

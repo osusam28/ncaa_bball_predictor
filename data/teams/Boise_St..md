@@ -1,23 +1,32 @@
 ---
 team: Boise St.
-conf: MWC
+conf: N/A
 year: 2026
-adj_oe: 114.86020047751168
-adj_de: 102.34053954923164
-tempo: 66.34532455199523
-barthag: 0.7903793334458145
-wab: -1.7698728982644565
+adj_oe: 115.2
+adj_de: 102.7
+barthag: N/A
+wab: -2.0
 ---
 # Boise St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 114.86020047751168 | #75 |
-| **Defense** (AdjDE) | 102.34053954923164 | #69 |
-| **Tempo** | 66.34532455199523 | - |
-| **Resume** | **WAB**: -1.7698728982644565 | **SOS**: 0.6292929127738017 |
-| **Record** | 13-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 115.2 | 102.7 |
+| **Shooting** | Effective FG% | 51.1% | 51.9% |
+| **Ball Security** | Turnover Rate | 16.7% | 16.2% |
+| **Rebounding** | Off. Rebound % | 31.5% | 23.7% |
+| **Free Throws** | Free Throw Rate | 43.3 | 35.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -2.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

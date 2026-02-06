@@ -1,23 +1,32 @@
 ---
 team: Cal Poly
-conf: BW
+conf: N/A
 year: 2026
-adj_oe: 105.97843360131895
-adj_de: 114.21914942791057
-tempo: 73.90954712464801
-barthag: 0.2970973543832104
-wab: -9.21319871060574
+adj_oe: 107.3
+adj_de: 115.2
+barthag: N/A
+wab: -9.3
 ---
 # Cal Poly (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 105.97843360131895 | #219 |
-| **Defense** (AdjDE) | 114.21914942791057 | #284 |
-| **Tempo** | 73.90954712464801 | - |
-| **Resume** | **WAB**: -9.21319871060574 | **SOS**: 0.48278047804967666 |
-| **Record** | 8-14 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 107.3 | 115.2 |
+| **Shooting** | Effective FG% | 51.4% | 55.1% |
+| **Ball Security** | Turnover Rate | 21.1% | 16.4% |
+| **Rebounding** | Off. Rebound % | 30.6% | 30.5% |
+| **Free Throws** | Free Throw Rate | 37.9 | 35.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -9.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

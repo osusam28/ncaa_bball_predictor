@@ -1,23 +1,32 @@
 ---
 team: LIU
-conf: NEC
+conf: N/A
 year: 2026
-adj_oe: 106.04621509718946
-adj_de: 109.07419211591133
-tempo: 68.41231571263663
-barthag: 0.4197589020008141
-wab: -3.818271014567852
+adj_oe: 106.3
+adj_de: 109.3
+barthag: N/A
+wab: -4.0
 ---
 # LIU (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 106.04621509718946 | #217 |
-| **Defense** (AdjDE) | 109.07419211591133 | #180 |
-| **Tempo** | 68.41231571263663 | - |
-| **Resume** | **WAB**: -3.818271014567852 | **SOS**: 0.39487245368218316 |
-| **Record** | 14-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.3 | 109.3 |
+| **Shooting** | Effective FG% | 52.6% | 51.0% |
+| **Ball Security** | Turnover Rate | 19.6% | 18.7% |
+| **Rebounding** | Off. Rebound % | 36.0% | 33.4% |
+| **Free Throws** | Free Throw Rate | 33.8 | 35.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

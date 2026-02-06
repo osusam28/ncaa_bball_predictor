@@ -4,22 +4,38 @@ Tracks which quantitative metrics should be prioritized based on evaluation feed
 
 ---
 
-## High Priority (Always Consider)
+## Predictive Metrics (The "Scientific Spread")
+*These metrics set the base expectation for the game score.*
 
-| Metric | Reason | Source |
+| Metric | Priority | Impact |
 |--------|--------|--------|
-| Paint Points Per Game | Interior dominance was decisive factor | Alabama/Florida 2026-01-31 |
-| Rebounding Differential | Kentucky's +9 margin was key to road upset | Kentucky/Arkansas 2026-01-31 |
-| Recent Form (Last 3 Games) | Wagler's hot streak was underweighted | Illinois/Nebraska 2026-02-01 |
+| **Adj Efficiency** (OE/DE) | **Critical** | Sets the baseline strength (Talent Adjusted). |
+| **Effective FG%** (Target/Allowed) | **High** | Primary driver of offensive success. |
+| **Turnover Rate** (Tor/Def) | **High** | Critical for possession volume control. |
+| **Offensive Rebounding** (ORB%) | **High** | Second-chance points generator. |
+| **Free Throw Rate** (FTR) | **Medium** | Can swing close games, dependent on officiating. |
 
 ---
 
-## Medium Priority (Situational)
+## Resume Metrics (The "Contextual Adjustment")
+*Do NOT use these to predict the score. Use them to predict the WINNER in close games.*
 
-| Metric | When to Use | Source |
+| Metric | Role | When to Use |
 |--------|-------------|--------|
-| Star Player Ceiling Games | In "Strength vs Strength" matchups | Kentucky/Arkansas 2026-01-31 |
-| Conference Parity Modifier | Reduce blowout predictions in conference play | Ole Miss/Vanderbilt 2026-01-31 |
+| **Wins Above Bubble (WAB)** | Tie-Breaker | Use when spread is < 3 points. Trust the high-WAB team. |
+| **Record** | Context | Ignore for prediction. High record w/ low efficiency = "Luck". |
+| **SOS** | Calibration | Already baked into AdjOE/DE. Use only to spot "battle-tested" teams. |
+
+---
+
+## Qualitative Adjustments (The "Human Element")
+*Apply these shifts AFTER the model sets the spread.*
+
+| Factor | Shift Magnitude | Example |
+|--------|--------|--------|
+| **Star Injury** | 3-5 Points | Key scorer out (e.g., Kansas w/o Dickinson). |
+| **Home Court** | 2-4 Points | "Phog Allen Fieldhouse" effect. |
+| **Revenge/Motivation** | 1-2 Points | Lost previous matchup; fighting for bubble. |
 
 ---
 

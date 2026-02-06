@@ -1,23 +1,32 @@
 ---
 team: Vanderbilt
-conf: SEC
+conf: N/A
 year: 2026
-adj_oe: 125.26186670886975
-adj_de: 94.75916479479517
-tempo: 70.38445100149102
-barthag: 0.9611820482816936
-wab: 4.857705562179165
+adj_oe: 125.1
+adj_de: 95.4
+barthag: N/A
+wab: +4.8
 ---
 # Vanderbilt (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 125.26186670886975 | #13 |
-| **Defense** (AdjDE) | 94.75916479479517 | #13 |
-| **Tempo** | 70.38445100149102 | - |
-| **Resume** | **WAB**: 4.857705562179165 | **SOS**: 0.6525571847949951 |
-| **Record** | 18-3 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 125.1 | 95.4 |
+| **Shooting** | Effective FG% | 56.7% | 46.8% |
+| **Ball Security** | Turnover Rate | 13.3% | 18.6% |
+| **Rebounding** | Off. Rebound % | 30.3% | 28.0% |
+| **Free Throws** | Free Throw Rate | 37.0 | 40.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +4.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

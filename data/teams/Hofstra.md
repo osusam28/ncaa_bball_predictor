@@ -1,23 +1,32 @@
 ---
 team: Hofstra
-conf: CAA
+conf: N/A
 year: 2026
-adj_oe: 114.35280436504766
-adj_de: 109.32674930820482
-tempo: 65.3275430662223
-barthag: 0.6264213064651483
-wab: -4.6489582760955495
+adj_oe: 114.7
+adj_de: 109.6
+barthag: N/A
+wab: -4.7
 ---
 # Hofstra (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 114.35280436504766 | #80 |
-| **Defense** (AdjDE) | 109.32674930820482 | #187 |
-| **Tempo** | 65.3275430662223 | - |
-| **Resume** | **WAB**: -4.6489582760955495 | **SOS**: 0.4482346304709083 |
-| **Record** | 14-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 114.7 | 109.6 |
+| **Shooting** | Effective FG% | 51.7% | 47.7% |
+| **Ball Security** | Turnover Rate | 16.8% | 14.9% |
+| **Rebounding** | Off. Rebound % | 35.2% | 32.3% |
+| **Free Throws** | Free Throw Rate | 31.4 | 36.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

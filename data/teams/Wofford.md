@@ -1,23 +1,32 @@
 ---
 team: Wofford
-conf: SC
+conf: N/A
 year: 2026
-adj_oe: 109.46501069404128
-adj_de: 113.52943975125075
-tempo: 67.7461500290041
-barthag: 0.39669430184842763
-wab: -3.824479725653354
+adj_oe: 110.0
+adj_de: 115.0
+barthag: N/A
+wab: -4.9
 ---
 # Wofford (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.46501069404128 | #157 |
-| **Defense** (AdjDE) | 113.52943975125075 | #277 |
-| **Tempo** | 67.7461500290041 | - |
-| **Resume** | **WAB**: -3.824479725653354 | **SOS**: 0.33938934584474584 |
-| **Record** | 15-7 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 110.0 | 115.0 |
+| **Shooting** | Effective FG% | 51.6% | 53.0% |
+| **Ball Security** | Turnover Rate | 14.0% | 15.3% |
+| **Rebounding** | Off. Rebound % | 31.5% | 30.5% |
+| **Free Throws** | Free Throw Rate | 37.0 | 35.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Seton Hall
-conf: BE
+conf: N/A
 year: 2026
-adj_oe: 108.15444677961345
-adj_de: 95.34737312740333
-tempo: 65.6554409746436
-barthag: 0.8099037813535472
-wab: 0.8689358096892407
+adj_oe: 108.3
+adj_de: 95.6
+barthag: N/A
+wab: +0.7
 ---
 # Seton Hall (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.15444677961345 | #183 |
-| **Defense** (AdjDE) | 95.34737312740333 | #16 |
-| **Tempo** | 65.6554409746436 | - |
-| **Resume** | **WAB**: 0.8689358096892407 | **SOS**: 0.605783372830596 |
-| **Record** | 16-6 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.3 | 95.6 |
+| **Shooting** | Effective FG% | 47.4% | 46.5% |
+| **Ball Security** | Turnover Rate | 16.5% | 22.1% |
+| **Rebounding** | Off. Rebound % | 37.5% | 31.0% |
+| **Free Throws** | Free Throw Rate | 36.5 | 43.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +0.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

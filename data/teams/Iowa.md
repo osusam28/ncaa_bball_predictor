@@ -1,23 +1,36 @@
 ---
 team: Iowa
-conf: B10
+conf: N/A
 year: 2026
-adj_oe: 120.09808441872025
-adj_de: 95.53780326007593
-tempo: 63.80227416251489
-barthag: 0.9328332288250804
-wab: 1.9722578301324802
+adj_oe: 122.2
+adj_de: 96.7
+barthag: N/A
+wab: +2.3
 ---
 # Iowa (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 120.09808441872025 | #43 |
-| **Defense** (AdjDE) | 95.53780326007593 | #17 |
-| **Tempo** | 63.80227416251489 | - |
-| **Resume** | **WAB**: 1.9722578301324802 | **SOS**: 0.5834660573005193 |
-| **Record** | 15-5 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 122.2 | 96.7 |
+| **Shooting** | Effective FG% | 58.5% | 49.4% |
+| **Ball Security** | Turnover Rate | 16.1% | 22.1% |
+| **Rebounding** | Off. Rebound % | 31.6% | 29.6% |
+| **Free Throws** | Free Throw Rate | 36.1 | 37.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +2.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes
+### Web Insight (2026-02-04)
+- Record: 16-5 overall, 6-4 Big Ten. On 4-game win streak.
+- Beat Oregon 84-66 on the road. Bennett Stirtz scored 32 pts.
+- 50.8% FG (13th nationally), 58.5% eFG (13th nationally).

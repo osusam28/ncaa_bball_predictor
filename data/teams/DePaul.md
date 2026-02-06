@@ -1,23 +1,32 @@
 ---
 team: DePaul
-conf: BE
+conf: N/A
 year: 2026
-adj_oe: 108.25681271701534
-adj_de: 100.84261528631501
-tempo: 66.66333358091174
-barthag: 0.6933590645186312
-wab: -2.912821946073119
+adj_oe: 108.6
+adj_de: 101.1
+barthag: N/A
+wab: -3.1
 ---
 # DePaul (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.25681271701534 | #181 |
-| **Defense** (AdjDE) | 100.84261528631501 | #54 |
-| **Tempo** | 66.66333358091174 | - |
-| **Resume** | **WAB**: -2.912821946073119 | **SOS**: 0.5857051705555721 |
-| **Record** | 12-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.6 | 101.1 |
+| **Shooting** | Effective FG% | 51.4% | 48.5% |
+| **Ball Security** | Turnover Rate | 17.6% | 18.4% |
+| **Rebounding** | Off. Rebound % | 29.4% | 30.6% |
+| **Free Throws** | Free Throw Rate | 38.0 | 37.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

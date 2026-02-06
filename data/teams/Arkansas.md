@@ -1,23 +1,32 @@
 ---
 team: Arkansas
-conf: SEC
+conf: N/A
 year: 2026
-adj_oe: 126.68173009813168
-adj_de: 102.4986515762885
-tempo: 71.20422484947635
-barthag: 0.9195334395286054
-wab: 3.6914189140648253
+adj_oe: 126.8
+adj_de: 103.9
+barthag: N/A
+wab: +2.9
 ---
 # Arkansas (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 126.68173009813168 | #6 |
-| **Defense** (AdjDE) | 102.4986515762885 | #70 |
-| **Tempo** | 71.20422484947635 | - |
-| **Resume** | **WAB**: 3.6914189140648253 | **SOS**: 0.6635667711625373 |
-| **Record** | 16-5 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 126.8 | 103.9 |
+| **Shooting** | Effective FG% | 56.5% | 50.8% |
+| **Ball Security** | Turnover Rate | 13.0% | 16.4% |
+| **Rebounding** | Off. Rebound % | 32.8% | 31.2% |
+| **Free Throws** | Free Throw Rate | 37.7 | 29.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +2.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

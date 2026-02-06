@@ -1,23 +1,32 @@
 ---
 team: Yale
-conf: Ivy
+conf: N/A
 year: 2026
-adj_oe: 121.68781673406198
-adj_de: 109.46634953680275
-tempo: 65.7135841613695
-barthag: 0.7715668098598367
-wab: 0.24951706023173614
+adj_oe: 120.9
+adj_de: 110.3
+barthag: N/A
+wab: -0.8
 ---
 # Yale (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 121.68781673406198 | #32 |
-| **Defense** (AdjDE) | 109.46634953680275 | #193 |
-| **Tempo** | 65.7135841613695 | - |
-| **Resume** | **WAB**: 0.24951706023173614 | **SOS**: 0.4317045950852342 |
-| **Record** | 16-3 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 120.9 | 110.3 |
+| **Shooting** | Effective FG% | 56.5% | 51.9% |
+| **Ball Security** | Turnover Rate | 13.8% | 16.1% |
+| **Rebounding** | Off. Rebound % | 34.5% | 29.9% |
+| **Free Throws** | Free Throw Rate | 35.0 | 31.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -0.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

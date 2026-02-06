@@ -1,23 +1,32 @@
 ---
 team: Dayton
-conf: A10
+conf: N/A
 year: 2026
-adj_oe: 109.0347810329963
-adj_de: 100.8313178001112
-tempo: 67.92642448416208
-barthag: 0.7108479996877146
-wab: -2.3112146723224507
+adj_oe: 109.3
+adj_de: 101.1
+barthag: N/A
+wab: -2.4
 ---
 # Dayton (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.0347810329963 | #165 |
-| **Defense** (AdjDE) | 100.8313178001112 | #53 |
-| **Tempo** | 67.92642448416208 | - |
-| **Resume** | **WAB**: -2.3112146723224507 | **SOS**: 0.5279986275552682 |
-| **Record** | 14-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 109.3 | 101.1 |
+| **Shooting** | Effective FG% | 52.0% | 51.4% |
+| **Ball Security** | Turnover Rate | 17.1% | 23.0% |
+| **Rebounding** | Off. Rebound % | 26.7% | 31.1% |
+| **Free Throws** | Free Throw Rate | 46.5 | 34.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -2.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

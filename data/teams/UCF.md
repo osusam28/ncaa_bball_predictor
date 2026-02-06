@@ -1,23 +1,32 @@
 ---
 team: UCF
-conf: B12
+conf: N/A
 year: 2026
-adj_oe: 120.99582543132549
-adj_de: 104.54150093200319
-tempo: 68.77195296016546
-barthag: 0.8430338597746025
-wab: 3.64885721563164
+adj_oe: 121.5
+adj_de: 105.0
+barthag: N/A
+wab: +3.5
 ---
 # UCF (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 120.99582543132549 | #36 |
-| **Defense** (AdjDE) | 104.54150093200319 | #89 |
-| **Tempo** | 68.77195296016546 | - |
-| **Resume** | **WAB**: 3.64885721563164 | **SOS**: 0.6515483066210606 |
-| **Record** | 17-4 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 121.5 | 105.0 |
+| **Shooting** | Effective FG% | 55.0% | 52.2% |
+| **Ball Security** | Turnover Rate | 16.2% | 16.6% |
+| **Rebounding** | Off. Rebound % | 37.1% | 26.6% |
+| **Free Throws** | Free Throw Rate | 30.6 | 35.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +3.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

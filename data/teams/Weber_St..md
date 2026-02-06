@@ -1,23 +1,32 @@
 ---
 team: Weber St.
-conf: BSky
+conf: N/A
 year: 2026
-adj_oe: 109.8881885568463
-adj_de: 111.9202251267975
-tempo: 69.14811892667922
-barthag: 0.4475155387942542
-wab: -7.043290273731965
+adj_oe: 110.3
+adj_de: 113.9
+barthag: N/A
+wab: -8.0
 ---
 # Weber St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.8881885568463 | #142 |
-| **Defense** (AdjDE) | 111.9202251267975 | #251 |
-| **Tempo** | 69.14811892667922 | - |
-| **Resume** | **WAB**: -7.043290273731965 | **SOS**: 0.4216393581592365 |
-| **Record** | 10-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 110.3 | 113.9 |
+| **Shooting** | Effective FG% | 51.9% | 54.0% |
+| **Ball Security** | Turnover Rate | 16.5% | 17.3% |
+| **Rebounding** | Off. Rebound % | 32.3% | 29.0% |
+| **Free Throws** | Free Throw Rate | 40.5 | 38.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -8.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

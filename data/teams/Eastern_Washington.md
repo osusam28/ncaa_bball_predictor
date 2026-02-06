@@ -1,23 +1,32 @@
 ---
 team: Eastern Washington
-conf: BSky
+conf: N/A
 year: 2026
-adj_oe: 109.69808845476064
-adj_de: 115.34303590417522
-tempo: 68.17640579106022
-barthag: 0.35961059445297777
-wab: -10.915279184779845
+adj_oe: 109.6
+adj_de: 114.7
+barthag: N/A
+wab: -11.8
 ---
 # Eastern Washington (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.69808845476064 | #148 |
-| **Defense** (AdjDE) | 115.34303590417522 | #299 |
-| **Tempo** | 68.17640579106022 | - |
-| **Resume** | **WAB**: -10.915279184779845 | **SOS**: 0.5165946790864699 |
-| **Record** | 5-16 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 109.6 | 114.7 |
+| **Shooting** | Effective FG% | 51.2% | 56.6% |
+| **Ball Security** | Turnover Rate | 18.5% | 16.6% |
+| **Rebounding** | Off. Rebound % | 31.5% | 32.7% |
+| **Free Throws** | Free Throw Rate | 33.5 | 37.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -11.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

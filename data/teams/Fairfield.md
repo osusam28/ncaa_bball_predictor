@@ -1,23 +1,32 @@
 ---
 team: Fairfield
-conf: MAAC
+conf: N/A
 year: 2026
-adj_oe: 108.00642153516274
-adj_de: 116.43341561446505
-tempo: 66.96181412881663
-barthag: 0.29650802470725396
-wab: -6.569234037126364
+adj_oe: 107.6
+adj_de: 115.8
+barthag: N/A
+wab: -7.5
 ---
 # Fairfield (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.00642153516274 | #189 |
-| **Defense** (AdjDE) | 116.43341561446505 | #315 |
-| **Tempo** | 66.96181412881663 | - |
-| **Resume** | **WAB**: -6.569234037126364 | **SOS**: 0.2863815688013061 |
-| **Record** | 14-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 107.6 | 115.8 |
+| **Shooting** | Effective FG% | 48.5% | 51.5% |
+| **Ball Security** | Turnover Rate | 14.8% | 16.2% |
+| **Rebounding** | Off. Rebound % | 36.2% | 28.8% |
+| **Free Throws** | Free Throw Rate | 27.1 | 29.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -7.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

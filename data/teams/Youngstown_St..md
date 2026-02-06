@@ -1,23 +1,32 @@
 ---
 team: Youngstown St.
-conf: Horz
+conf: N/A
 year: 2026
-adj_oe: 106.64338769221598
-adj_de: 108.94200688217978
-tempo: 66.97109541926213
-barthag: 0.4389953474564271
-wab: -8.769648032832448
+adj_oe: 107.0
+adj_de: 109.4
+barthag: N/A
+wab: -8.9
 ---
 # Youngstown St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 106.64338769221598 | #209 |
-| **Defense** (AdjDE) | 108.94200688217978 | #177 |
-| **Tempo** | 66.97109541926213 | - |
-| **Resume** | **WAB**: -8.769648032832448 | **SOS**: 0.3612106264412467 |
-| **Record** | 11-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 107.0 | 109.4 |
+| **Shooting** | Effective FG% | 53.1% | 51.6% |
+| **Ball Security** | Turnover Rate | 19.5% | 18.4% |
+| **Rebounding** | Off. Rebound % | 33.0% | 32.2% |
+| **Free Throws** | Free Throw Rate | 32.5 | 41.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -8.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

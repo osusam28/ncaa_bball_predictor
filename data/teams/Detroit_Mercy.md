@@ -1,23 +1,32 @@
 ---
 team: Detroit Mercy
-conf: Horz
+conf: N/A
 year: 2026
-adj_oe: 108.85924032229747
-adj_de: 113.97100050042278
-tempo: 69.25112493262668
-barthag: 0.37104971956248545
-wab: -8.132938409100426
+adj_oe: 109.4
+adj_de: 114.4
+barthag: N/A
+wab: -8.3
 ---
 # Detroit Mercy (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.85924032229747 | #170 |
-| **Defense** (AdjDE) | 113.97100050042278 | #281 |
-| **Tempo** | 69.25112493262668 | - |
-| **Resume** | **WAB**: -8.132938409100426 | **SOS**: 0.4225276084329492 |
-| **Record** | 9-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 109.4 | 114.4 |
+| **Shooting** | Effective FG% | 48.4% | 53.7% |
+| **Ball Security** | Turnover Rate | 16.7% | 14.1% |
+| **Rebounding** | Off. Rebound % | 34.8% | 31.2% |
+| **Free Throws** | Free Throw Rate | 32.1 | 40.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -8.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

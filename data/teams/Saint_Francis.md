@@ -1,23 +1,32 @@
 ---
 team: Saint Francis
-conf: NEC
+conf: N/A
 year: 2026
-adj_oe: 97.68378527977589
-adj_de: 117.70311009189105
-tempo: 69.30550212253057
-barthag: 0.10489855156438672
-wab: -9.933348276748232
+adj_oe: 98.4
+adj_de: 119.6
+barthag: N/A
+wab: -11.1
 ---
 # Saint Francis (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 97.68378527977589 | #342 |
-| **Defense** (AdjDE) | 117.70311009189105 | #325 |
-| **Tempo** | 69.30550212253057 | - |
-| **Resume** | **WAB**: -9.933348276748232 | **SOS**: 0.3967897250969472 |
-| **Record** | 6-14 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 98.4 | 119.6 |
+| **Shooting** | Effective FG% | 47.7% | 59.1% |
+| **Ball Security** | Turnover Rate | 18.0% | 18.8% |
+| **Rebounding** | Off. Rebound % | 25.8% | 33.5% |
+| **Free Throws** | Free Throw Rate | 26.8 | 37.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -11.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

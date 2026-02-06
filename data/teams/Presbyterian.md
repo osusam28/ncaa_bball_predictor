@@ -1,23 +1,32 @@
 ---
 team: Presbyterian
-conf: BSth
+conf: N/A
 year: 2026
-adj_oe: 103.93025748313465
-adj_de: 112.882767382553
-tempo: 63.9298604597482
-barthag: 0.27883613053730394
-wab: -8.681679759260678
+adj_oe: 104.0
+adj_de: 113.0
+barthag: N/A
+wab: -9.7
 ---
 # Presbyterian (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 103.93025748313465 | #253 |
-| **Defense** (AdjDE) | 112.882767382553 | #269 |
-| **Tempo** | 63.9298604597482 | - |
-| **Resume** | **WAB**: -8.681679759260678 | **SOS**: 0.33690307416667076 |
-| **Record** | 11-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 104.0 | 113.0 |
+| **Shooting** | Effective FG% | 50.7% | 51.1% |
+| **Ball Security** | Turnover Rate | 19.7% | 15.1% |
+| **Rebounding** | Off. Rebound % | 34.0% | 30.2% |
+| **Free Throws** | Free Throw Rate | 39.4 | 37.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -9.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

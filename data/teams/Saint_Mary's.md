@@ -1,23 +1,32 @@
 ---
 team: Saint Mary's
-conf: WCC
+conf: N/A
 year: 2026
-adj_oe: 119.17297250885183
-adj_de: 100.73278668948885
-tempo: 65.31665174680747
-barthag: 0.873603577045186
-wab: 2.236774603834383
+adj_oe: 119.0
+adj_de: 100.6
+barthag: N/A
+wab: +2.0
 ---
 # Saint Mary's (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 119.17297250885183 | #47 |
-| **Defense** (AdjDE) | 100.73278668948885 | #50 |
-| **Tempo** | 65.31665174680747 | - |
-| **Resume** | **WAB**: 2.236774603834383 | **SOS**: 0.5434305155505347 |
-| **Record** | 19-3 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 119.0 | 100.6 |
+| **Shooting** | Effective FG% | 52.4% | 46.8% |
+| **Ball Security** | Turnover Rate | 17.0% | 15.2% |
+| **Rebounding** | Off. Rebound % | 36.5% | 24.4% |
+| **Free Throws** | Free Throw Rate | 39.9 | 26.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +2.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

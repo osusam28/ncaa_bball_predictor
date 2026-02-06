@@ -1,23 +1,32 @@
 ---
 team: Prairie View A&M
-conf: SWAC
+conf: N/A
 year: 2026
-adj_oe: 100.25334122997307
-adj_de: 116.07192252632316
-tempo: 72.27481385138655
-barthag: 0.15645290426813466
-wab: -9.243828175726964
+adj_oe: 100.7
+adj_de: 116.2
+barthag: N/A
+wab: -9.3
 ---
 # Prairie View A&M (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 100.25334122997307 | #311 |
-| **Defense** (AdjDE) | 116.07192252632316 | #310 |
-| **Tempo** | 72.27481385138655 | - |
-| **Resume** | **WAB**: -9.243828175726964 | **SOS**: 0.3387518972839872 |
-| **Record** | 8-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 100.7 | 116.2 |
+| **Shooting** | Effective FG% | 47.0% | 53.9% |
+| **Ball Security** | Turnover Rate | 16.4% | 19.8% |
+| **Rebounding** | Off. Rebound % | 25.3% | 36.8% |
+| **Free Throws** | Free Throw Rate | 43.2 | 47.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -9.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

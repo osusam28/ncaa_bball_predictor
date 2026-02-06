@@ -1,23 +1,32 @@
 ---
 team: Connecticut
-conf: BE
+conf: N/A
 year: 2026
-adj_oe: 120.29395932279287
-adj_de: 91.40770508035308
-tempo: 65.25046010635357
-barthag: 0.9592227610655045
-wab: 7.3987699580762705
+adj_oe: 121.8
+adj_de: 92.0
+barthag: N/A
+wab: +7.7
 ---
 # Connecticut (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 120.29395932279287 | #42 |
-| **Defense** (AdjDE) | 91.40770508035308 | #3 |
-| **Tempo** | 65.25046010635357 | - |
-| **Resume** | **WAB**: 7.3987699580762705 | **SOS**: 0.6681678878175502 |
-| **Record** | 20-1 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 121.8 | 92.0 |
+| **Shooting** | Effective FG% | 55.4% | 44.1% |
+| **Ball Security** | Turnover Rate | 16.2% | 19.1% |
+| **Rebounding** | Off. Rebound % | 35.3% | 29.3% |
+| **Free Throws** | Free Throw Rate | 31.7 | 40.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +7.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

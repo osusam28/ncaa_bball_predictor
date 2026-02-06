@@ -1,23 +1,32 @@
 ---
 team: Kansas
-conf: B12
+conf: N/A
 year: 2026
-adj_oe: 121.58554076055594
-adj_de: 94.25331145801907
-tempo: 67.11871001924108
-barthag: 0.949226316859004
-wab: 3.708092499645233
+adj_oe: 122.2
+adj_de: 94.1
+barthag: N/A
+wab: +4.9
 ---
 # Kansas (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 121.58554076055594 | #33 |
-| **Defense** (AdjDE) | 94.25331145801907 | #11 |
-| **Tempo** | 67.11871001924108 | - |
-| **Resume** | **WAB**: 3.708092499645233 | **SOS**: 0.7321473450664837 |
-| **Record** | 15-5 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 122.2 | 94.1 |
+| **Shooting** | Effective FG% | 54.5% | 44.5% |
+| **Ball Security** | Turnover Rate | 15.1% | 13.5% |
+| **Rebounding** | Off. Rebound % | 28.3% | 29.4% |
+| **Free Throws** | Free Throw Rate | 33.9 | 25.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +4.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes
@@ -29,3 +38,6 @@ wab: 3.708092499645233
 ### Team Tendencies
 - Allen Fieldhouse factor remains strong in close Big 12 games. (2026-01-31)
 - "Battle-tested"—can overcome second-half surges at home. (2026-01-31)
+### Web Insight (2026-02-02)
+- 10th in Big 12 in 3pt defense (35.8%), a vulnerability vs elite shooting teams.
+- Freshman star Darryn Peterson dealing with cramps/injury availability issues.

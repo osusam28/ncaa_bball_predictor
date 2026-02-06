@@ -1,23 +1,32 @@
 ---
 team: Idaho St.
-conf: BSky
+conf: N/A
 year: 2026
-adj_oe: 110.11695564234455
-adj_de: 114.81198929617176
-tempo: 63.95893220660206
-barthag: 0.38221478618780624
-wab: -6.661589676909223
+adj_oe: 111.4
+adj_de: 116.9
+barthag: N/A
+wab: -8.3
 ---
 # Idaho St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 110.11695564234455 | #140 |
-| **Defense** (AdjDE) | 114.81198929617176 | #293 |
-| **Tempo** | 63.95893220660206 | - |
-| **Resume** | **WAB**: -6.661589676909223 | **SOS**: 0.4423788860971329 |
-| **Record** | 10-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 111.4 | 116.9 |
+| **Shooting** | Effective FG% | 53.3% | 52.9% |
+| **Ball Security** | Turnover Rate | 17.9% | 15.5% |
+| **Rebounding** | Off. Rebound % | 33.4% | 31.2% |
+| **Free Throws** | Free Throw Rate | 39.4 | 36.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -8.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

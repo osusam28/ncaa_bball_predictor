@@ -1,23 +1,32 @@
 ---
 team: Alabama St.
-conf: SWAC
+conf: N/A
 year: 2026
-adj_oe: 102.84194351202913
-adj_de: 116.69738393729594
-tempo: 69.53297824401267
-barthag: 0.1894643144981065
-wab: -9.395243137804991
+adj_oe: 101.7
+adj_de: 115.1
+barthag: N/A
+wab: -10.4
 ---
 # Alabama St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 102.84194351202913 | #268 |
-| **Defense** (AdjDE) | 116.69738393729594 | #318 |
-| **Tempo** | 69.53297824401267 | - |
-| **Resume** | **WAB**: -9.395243137804991 | **SOS**: 0.42876974445421806 |
-| **Record** | 6-14 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 101.7 | 115.1 |
+| **Shooting** | Effective FG% | 47.9% | 54.1% |
+| **Ball Security** | Turnover Rate | 19.1% | 19.7% |
+| **Rebounding** | Off. Rebound % | 31.7% | 34.8% |
+| **Free Throws** | Free Throw Rate | 35.3 | 41.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -10.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

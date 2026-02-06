@@ -1,23 +1,32 @@
 ---
 team: Lipscomb
-conf: ASun
+conf: N/A
 year: 2026
-adj_oe: 107.44760303853494
-adj_de: 109.78357975530236
-tempo: 69.70800211966248
-barthag: 0.4384788056005062
-wab: -3.5782007973510774
+adj_oe: 108.1
+adj_de: 110.4
+barthag: N/A
+wab: -3.6
 ---
 # Lipscomb (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 107.44760303853494 | #196 |
-| **Defense** (AdjDE) | 109.78357975530236 | #204 |
-| **Tempo** | 69.70800211966248 | - |
-| **Resume** | **WAB**: -3.5782007973510774 | **SOS**: 0.3701051944874108 |
-| **Record** | 15-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.1 | 110.4 |
+| **Shooting** | Effective FG% | 53.8% | 52.5% |
+| **Ball Security** | Turnover Rate | 15.9% | 18.2% |
+| **Rebounding** | Off. Rebound % | 25.5% | 30.5% |
+| **Free Throws** | Free Throw Rate | 27.2 | 31.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

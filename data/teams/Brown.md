@@ -1,23 +1,32 @@
 ---
 team: Brown
-conf: Ivy
+conf: N/A
 year: 2026
-adj_oe: 96.13725219366057
-adj_de: 105.26224126258094
-tempo: 66.20324167327082
-barthag: 0.2606109117949765
-wab: -9.64561805503564
+adj_oe: 95.8
+adj_de: 105.5
+barthag: N/A
+wab: -10.7
 ---
 # Brown (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 96.13725219366057 | #349 |
-| **Defense** (AdjDE) | 105.26224126258094 | #111 |
-| **Tempo** | 66.20324167327082 | - |
-| **Resume** | **WAB**: -9.64561805503564 | **SOS**: 0.34857621009337986 |
-| **Record** | 7-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 95.8 | 105.5 |
+| **Shooting** | Effective FG% | 46.9% | 49.5% |
+| **Ball Security** | Turnover Rate | 18.5% | 18.3% |
+| **Rebounding** | Off. Rebound % | 29.5% | 29.6% |
+| **Free Throws** | Free Throw Rate | 27.6 | 35.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -10.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Missouri
-conf: SEC
+conf: N/A
 year: 2026
-adj_oe: 115.917483584705
-adj_de: 103.95143333758419
-tempo: 66.47298677667293
-barthag: 0.7778152951463086
-wab: 0.21264557875493673
+adj_oe: 117.0
+adj_de: 104.2
+barthag: N/A
+wab: +0.31
 ---
 # Missouri (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 115.917483584705 | #72 |
-| **Defense** (AdjDE) | 103.95143333758419 | #82 |
-| **Tempo** | 66.47298677667293 | - |
-| **Resume** | **WAB**: 0.21264557875493673 | **SOS**: 0.5680833085262043 |
-| **Record** | 14-7 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 117.0 | 104.2 |
+| **Shooting** | Effective FG% | 55.8% | 50.2% |
+| **Ball Security** | Turnover Rate | 18.1% | 16.8% |
+| **Rebounding** | Off. Rebound % | 35.7% | 30.3% |
+| **Free Throws** | Free Throw Rate | 41.6 | 35.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +0.31 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

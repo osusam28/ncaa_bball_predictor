@@ -1,23 +1,32 @@
 ---
 team: Southeastern Louisiana
-conf: Slnd
+conf: N/A
 year: 2026
-adj_oe: 98.3544434114061
-adj_de: 106.91218966533654
-tempo: 65.94568699409015
-barthag: 0.2769890598526183
-wab: -10.7113531681978
+adj_oe: 98.6
+adj_de: 108.9
+barthag: N/A
+wab: -12.2
 ---
 # Southeastern Louisiana (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 98.3544434114061 | #335 |
-| **Defense** (AdjDE) | 106.91218966533654 | #129 |
-| **Tempo** | 65.94568699409015 | - |
-| **Resume** | **WAB**: -10.7113531681978 | **SOS**: 0.4623661723786946 |
-| **Record** | 6-15 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 98.6 | 108.9 |
+| **Shooting** | Effective FG% | 45.7% | 52.3% |
+| **Ball Security** | Turnover Rate | 18.8% | 19.4% |
+| **Rebounding** | Off. Rebound % | 27.8% | 31.6% |
+| **Free Throws** | Free Throw Rate | 42.0 | 42.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -12.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

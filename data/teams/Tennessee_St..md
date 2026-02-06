@@ -1,23 +1,32 @@
 ---
 team: Tennessee St.
-conf: OVC
+conf: N/A
 year: 2026
-adj_oe: 105.58195875201189
-adj_de: 114.8175309895912
-tempo: 70.73169892673764
-barthag: 0.27600775832658303
-wab: -4.20611635098434
+adj_oe: 106.2
+adj_de: 117.1
+barthag: N/A
+wab: -5.2
 ---
 # Tennessee St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 105.58195875201189 | #226 |
-| **Defense** (AdjDE) | 114.8175309895912 | #294 |
-| **Tempo** | 70.73169892673764 | - |
-| **Resume** | **WAB**: -4.20611635098434 | **SOS**: 0.29147701966045547 |
-| **Record** | 14-7 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.2 | 117.1 |
+| **Shooting** | Effective FG% | 49.5% | 52.6% |
+| **Ball Security** | Turnover Rate | 16.8% | 19.5% |
+| **Rebounding** | Off. Rebound % | 33.7% | 31.2% |
+| **Free Throws** | Free Throw Rate | 31.8 | 43.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

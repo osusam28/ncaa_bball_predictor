@@ -1,23 +1,32 @@
 ---
 team: Mercer
-conf: SC
+conf: N/A
 year: 2026
-adj_oe: 114.04613349384447
-adj_de: 111.99006388396276
-tempo: 69.83053297062776
-barthag: 0.5521146115626779
-wab: -3.694555160933623
+adj_oe: 114.3
+adj_de: 112.2
+barthag: N/A
+wab: -3.8
 ---
 # Mercer (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 114.04613349384447 | #87 |
-| **Defense** (AdjDE) | 111.99006388396276 | #252 |
-| **Tempo** | 69.83053297062776 | - |
-| **Resume** | **WAB**: -3.694555160933623 | **SOS**: 0.37440854748011804 |
-| **Record** | 15-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 114.3 | 112.2 |
+| **Shooting** | Effective FG% | 53.9% | 52.6% |
+| **Ball Security** | Turnover Rate | 15.6% | 17.3% |
+| **Rebounding** | Off. Rebound % | 34.0% | 33.8% |
+| **Free Throws** | Free Throw Rate | 36.6 | 28.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

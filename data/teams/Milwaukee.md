@@ -1,23 +1,32 @@
 ---
 team: Milwaukee
-conf: Horz
+conf: N/A
 year: 2026
-adj_oe: 105.57029447889536
-adj_de: 112.84736037337007
-tempo: 68.29634492587404
-barthag: 0.3172195030091677
-wab: -8.397207847991684
+adj_oe: 106.1
+adj_de: 114.1
+barthag: N/A
+wab: -9.5
 ---
 # Milwaukee (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 105.57029447889536 | #228 |
-| **Defense** (AdjDE) | 112.84736037337007 | #268 |
-| **Tempo** | 68.29634492587404 | - |
-| **Resume** | **WAB**: -8.397207847991684 | **SOS**: 0.49026977712221465 |
-| **Record** | 9-14 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.1 | 114.1 |
+| **Shooting** | Effective FG% | 49.4% | 55.1% |
+| **Ball Security** | Turnover Rate | 15.1% | 16.1% |
+| **Rebounding** | Off. Rebound % | 33.8% | 30.4% |
+| **Free Throws** | Free Throw Rate | 30.8 | 36.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -9.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

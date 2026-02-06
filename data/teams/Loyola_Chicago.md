@@ -1,23 +1,32 @@
 ---
 team: Loyola Chicago
-conf: A10
+conf: N/A
 year: 2026
-adj_oe: 104.68268213921849
-adj_de: 116.87694221091965
-tempo: 65.85283063118507
-barthag: 0.21974364385207706
-wab: -12.928690712619016
+adj_oe: 105.1
+adj_de: 116.8
+barthag: N/A
+wab: -13.0
 ---
 # Loyola Chicago (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 104.68268213921849 | #244 |
-| **Defense** (AdjDE) | 116.87694221091965 | #321 |
-| **Tempo** | 65.85283063118507 | - |
-| **Resume** | **WAB**: -12.928690712619016 | **SOS**: 0.5239809849500442 |
-| **Record** | 5-18 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 105.1 | 116.8 |
+| **Shooting** | Effective FG% | 49.1% | 52.6% |
+| **Ball Security** | Turnover Rate | 19.7% | 12.4% |
+| **Rebounding** | Off. Rebound % | 33.1% | 31.6% |
+| **Free Throws** | Free Throw Rate | 33.6 | 34.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -13.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

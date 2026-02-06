@@ -1,23 +1,32 @@
 ---
 team: VMI
-conf: SC
+conf: N/A
 year: 2026
-adj_oe: 99.57958659460178
-adj_de: 122.31956374131514
-tempo: 66.54563787001085
-barthag: 0.08585591149734632
-wab: -13.733670390475202
+adj_oe: 99.8
+adj_de: 122.8
+barthag: N/A
+wab: -13.9
 ---
 # VMI (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 99.57958659460178 | #318 |
-| **Defense** (AdjDE) | 122.31956374131514 | #359 |
-| **Tempo** | 66.54563787001085 | - |
-| **Resume** | **WAB**: -13.733670390475202 | **SOS**: 0.336896264325139 |
-| **Record** | 6-17 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 99.8 | 122.8 |
+| **Shooting** | Effective FG% | 47.1% | 55.9% |
+| **Ball Security** | Turnover Rate | 16.4% | 16.8% |
+| **Rebounding** | Off. Rebound % | 27.2% | 40.0% |
+| **Free Throws** | Free Throw Rate | 32.0 | 36.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -13.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

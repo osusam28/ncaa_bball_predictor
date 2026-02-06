@@ -1,23 +1,32 @@
 ---
 team: Morehead St.
-conf: OVC
+conf: N/A
 year: 2026
-adj_oe: 105.45070352057152
-adj_de: 118.7833846677743
-tempo: 65.35826445493875
-barthag: 0.20275453977472943
-wab: -6.440650599529953
+adj_oe: 105.8
+adj_de: 118.8
+barthag: N/A
+wab: -7.5
 ---
 # Morehead St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 105.45070352057152 | #233 |
-| **Defense** (AdjDE) | 118.7833846677743 | #344 |
-| **Tempo** | 65.35826445493875 | - |
-| **Resume** | **WAB**: -6.440650599529953 | **SOS**: 0.3220380921096482 |
-| **Record** | 12-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 105.8 | 118.8 |
+| **Shooting** | Effective FG% | 48.2% | 51.9% |
+| **Ball Security** | Turnover Rate | 18.7% | 15.9% |
+| **Rebounding** | Off. Rebound % | 36.4% | 36.0% |
+| **Free Throws** | Free Throw Rate | 36.9 | 37.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -7.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

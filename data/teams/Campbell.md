@@ -1,23 +1,32 @@
 ---
 team: Campbell
-conf: CAA
+conf: N/A
 year: 2026
-adj_oe: 110.38644864164307
-adj_de: 114.5325850089381
-tempo: 70.40073583920727
-barthag: 0.39555331759910173
-wab: -7.111884417898869
+adj_oe: 110.6
+adj_de: 114.8
+barthag: N/A
+wab: -7.3
 ---
 # Campbell (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 110.38644864164307 | #137 |
-| **Defense** (AdjDE) | 114.5325850089381 | #290 |
-| **Tempo** | 70.40073583920727 | - |
-| **Resume** | **WAB**: -7.111884417898869 | **SOS**: 0.494803342514906 |
-| **Record** | 10-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 110.6 | 114.8 |
+| **Shooting** | Effective FG% | 50.1% | 56.6% |
+| **Ball Security** | Turnover Rate | 18.3% | 17.1% |
+| **Rebounding** | Off. Rebound % | 32.6% | 31.9% |
+| **Free Throws** | Free Throw Rate | 44.8 | 38.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -7.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

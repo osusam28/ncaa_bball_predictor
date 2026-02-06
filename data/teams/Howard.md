@@ -1,23 +1,32 @@
 ---
 team: Howard
-conf: MEAC
+conf: N/A
 year: 2026
-adj_oe: 97.97694487732994
-adj_de: 106.84297546015895
-tempo: 69.08836642868394
-barthag: 0.2696847721923262
-wab: -6.293108142006461
+adj_oe: 99.6
+adj_de: 106.5
+barthag: N/A
+wab: -6.3
 ---
 # Howard (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 97.97694487732994 | #338 |
-| **Defense** (AdjDE) | 106.84297546015895 | #128 |
-| **Tempo** | 69.08836642868394 | - |
-| **Resume** | **WAB**: -6.293108142006461 | **SOS**: 0.26588455474812484 |
-| **Record** | 12-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 99.6 | 106.5 |
+| **Shooting** | Effective FG% | 47.6% | 48.8% |
+| **Ball Security** | Turnover Rate | 20.6% | 21.3% |
+| **Rebounding** | Off. Rebound % | 35.2% | 32.3% |
+| **Free Throws** | Free Throw Rate | 41.4 | 40.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

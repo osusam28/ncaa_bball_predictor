@@ -1,23 +1,32 @@
 ---
 team: Alabama
-conf: SEC
+conf: N/A
 year: 2026
-adj_oe: 129.61269224296768
-adj_de: 101.43074896302676
-tempo: 73.13975040038699
-barthag: 0.943720828167118
-wab: 3.2724317057231778
+adj_oe: 129.4
+adj_de: 102.3
+barthag: N/A
+wab: +3.0
 ---
 # Alabama (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 129.61269224296768 | #2 |
-| **Defense** (AdjDE) | 101.43074896302676 | #61 |
-| **Tempo** | 73.13975040038699 | - |
-| **Resume** | **WAB**: 3.2724317057231778 | **SOS**: 0.7494288934715427 |
-| **Record** | 14-6 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 129.4 | 102.3 |
+| **Shooting** | Effective FG% | 54.7% | 47.7% |
+| **Ball Security** | Turnover Rate | 13.2% | 13.0% |
+| **Rebounding** | Off. Rebound % | 32.0% | 33.8% |
+| **Free Throws** | Free Throw Rate | 35.9 | 36.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +3.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

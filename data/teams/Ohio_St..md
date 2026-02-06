@@ -1,23 +1,36 @@
 ---
 team: Ohio St.
-conf: B10
+conf: N/A
 year: 2026
-adj_oe: 122.5782299106744
-adj_de: 103.88232485315376
-tempo: 66.90558710853847
-barthag: 0.8702468057477961
-wab: 0.8409796328949675
+adj_oe: 123.1
+adj_de: 104.2
+barthag: N/A
+wab: +0.6
 ---
 # Ohio St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 122.5782299106744 | #24 |
-| **Defense** (AdjDE) | 103.88232485315376 | #81 |
-| **Tempo** | 66.90558710853847 | - |
-| **Resume** | **WAB**: 0.8409796328949675 | **SOS**: 0.6459509171999903 |
-| **Record** | 14-7 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 123.1 | 104.2 |
+| **Shooting** | Effective FG% | 55.9% | 49.2% |
+| **Ball Security** | Turnover Rate | 15.5% | 15.8% |
+| **Rebounding** | Off. Rebound % | 33.4% | 30.0% |
+| **Free Throws** | Free Throw Rate | 37.0 | 33.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +0.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes
+
+### Web Insight (2026-02-05)
+- [PATTERN] Three-headed scoring attack: Bruce Thornton (19.5 PPG, 55.4%), John Mobley Jr. (15.8 PPG), Devin Royal (14.1 PPG).
+- [TENDENCY] Road struggles: Lost last 3 road games; historically 1-7 at Maryland.

@@ -1,23 +1,32 @@
 ---
 team: Tennessee Martin
-conf: OVC
+conf: N/A
 year: 2026
-adj_oe: 101.10540350494489
-adj_de: 108.92441415615977
-tempo: 64.66450919938904
-barthag: 0.2980413735722384
-wab: -2.945640173370852
+adj_oe: 102.2
+adj_de: 107.7
+barthag: N/A
+wab: -3.0
 ---
 # Tennessee Martin (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 101.10540350494489 | #305 |
-| **Defense** (AdjDE) | 108.92441415615977 | #174 |
-| **Tempo** | 64.66450919938904 | - |
-| **Resume** | **WAB**: -2.945640173370852 | **SOS**: 0.26754131708232404 |
-| **Record** | 16-5 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 102.2 | 107.7 |
+| **Shooting** | Effective FG% | 50.8% | 45.7% |
+| **Ball Security** | Turnover Rate | 21.8% | 18.2% |
+| **Rebounding** | Off. Rebound % | 37.3% | 31.3% |
+| **Free Throws** | Free Throw Rate | 43.2 | 38.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

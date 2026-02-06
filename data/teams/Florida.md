@@ -1,23 +1,32 @@
 ---
 team: Florida
-conf: SEC
+conf: N/A
 year: 2026
-adj_oe: 124.12590717174582
-adj_de: 93.71696569052929
-tempo: 69.70265132244455
-barthag: 0.9620098484605675
-wab: 2.9261031367934267
+adj_oe: 124.9
+adj_de: 93.6
+barthag: N/A
+wab: +3.3
 ---
 # Florida (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 124.12590717174582 | #17 |
-| **Defense** (AdjDE) | 93.71696569052929 | #9 |
-| **Tempo** | 69.70265132244455 | - |
-| **Resume** | **WAB**: 2.9261031367934267 | **SOS**: 0.6982498066740883 |
-| **Record** | 15-6 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 124.9 | 93.6 |
+| **Shooting** | Effective FG% | 52.6% | 46.8% |
+| **Ball Security** | Turnover Rate | 16.2% | 15.6% |
+| **Rebounding** | Off. Rebound % | 43.3% | 22.9% |
+| **Free Throws** | Free Throw Rate | 39.8 | 34.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +3.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

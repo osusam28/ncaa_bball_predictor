@@ -1,23 +1,32 @@
 ---
 team: Bowling Green
-conf: MAC
+conf: N/A
 year: 2026
-adj_oe: 109.54776033732637
-adj_de: 105.98488079366052
-tempo: 67.81068433499686
-barthag: 0.5939304982487692
-wab: -4.901690894202867
+adj_oe: 108.3
+adj_de: 105.3
+barthag: N/A
+wab: -5.9
 ---
 # Bowling Green (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.54776033732637 | #150 |
-| **Defense** (AdjDE) | 105.98488079366052 | #120 |
-| **Tempo** | 67.81068433499686 | - |
-| **Resume** | **WAB**: -4.901690894202867 | **SOS**: 0.38886089278181385 |
-| **Record** | 13-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.3 | 105.3 |
+| **Shooting** | Effective FG% | 52.3% | 51.2% |
+| **Ball Security** | Turnover Rate | 16.7% | 20.0% |
+| **Rebounding** | Off. Rebound % | 30.2% | 27.8% |
+| **Free Throws** | Free Throw Rate | 36.7 | 37.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

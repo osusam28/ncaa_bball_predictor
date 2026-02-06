@@ -1,23 +1,32 @@
 ---
 team: West Virginia
-conf: B12
+conf: N/A
 year: 2026
-adj_oe: 112.10604510681114
-adj_de: 98.69124916255151
-tempo: 62.59384187822451
-barthag: 0.8123973172605461
-wab: -0.05092811859874502
+adj_oe: 111.0
+adj_de: 98.7
+barthag: N/A
+wab: -0.9
 ---
 # West Virginia (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 112.10604510681114 | #119 |
-| **Defense** (AdjDE) | 98.69124916255151 | #32 |
-| **Tempo** | 62.59384187822451 | - |
-| **Resume** | **WAB**: -0.05092811859874502 | **SOS**: 0.5618570923584374 |
-| **Record** | 14-7 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 111.0 | 98.7 |
+| **Shooting** | Effective FG% | 52.2% | 48.1% |
+| **Ball Security** | Turnover Rate | 17.3% | 17.8% |
+| **Rebounding** | Off. Rebound % | 30.7% | 26.7% |
+| **Free Throws** | Free Throw Rate | 36.5 | 27.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -0.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

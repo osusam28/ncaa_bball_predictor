@@ -1,23 +1,32 @@
 ---
 team: Cleveland St.
-conf: Horz
+conf: N/A
 year: 2026
-adj_oe: 110.21556516165407
-adj_de: 121.20485262073194
-tempo: 69.07363283664948
-barthag: 0.2510526959484712
-wab: -10.072871102876304
+adj_oe: 111.5
+adj_de: 121.8
+barthag: N/A
+wab: -10.1
 ---
 # Cleveland St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 110.21556516165407 | #139 |
-| **Defense** (AdjDE) | 121.20485262073194 | #355 |
-| **Tempo** | 69.07363283664948 | - |
-| **Resume** | **WAB**: -10.072871102876304 | **SOS**: 0.4231944567782969 |
-| **Record** | 8-14 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 111.5 | 121.8 |
+| **Shooting** | Effective FG% | 54.2% | 55.0% |
+| **Ball Security** | Turnover Rate | 18.9% | 14.3% |
+| **Rebounding** | Off. Rebound % | 28.9% | 38.8% |
+| **Free Throws** | Free Throw Rate | 43.0 | 34.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -10.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

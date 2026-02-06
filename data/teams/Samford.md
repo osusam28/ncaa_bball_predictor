@@ -1,23 +1,32 @@
 ---
 team: Samford
-conf: SC
+conf: N/A
 year: 2026
-adj_oe: 105.7809718260664
-adj_de: 117.837711354433
-tempo: 66.20208791779882
-barthag: 0.2242126493106295
-wab: -8.511093619078476
+adj_oe: 106.3
+adj_de: 117.4
+barthag: N/A
+wab: -8.6
 ---
 # Samford (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 105.7809718260664 | #223 |
-| **Defense** (AdjDE) | 117.837711354433 | #328 |
-| **Tempo** | 66.20208791779882 | - |
-| **Resume** | **WAB**: -8.511093619078476 | **SOS**: 0.3748193261472325 |
-| **Record** | 10-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.3 | 117.4 |
+| **Shooting** | Effective FG% | 50.5% | 53.1% |
+| **Ball Security** | Turnover Rate | 12.5% | 13.1% |
+| **Rebounding** | Off. Rebound % | 26.0% | 27.3% |
+| **Free Throws** | Free Throw Rate | 42.8 | 33.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -8.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

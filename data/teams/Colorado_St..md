@@ -1,23 +1,32 @@
 ---
 team: Colorado St.
-conf: MWC
+conf: N/A
 year: 2026
-adj_oe: 118.58603145204134
-adj_de: 110.5898433845135
-tempo: 61.84922067720818
-barthag: 0.6905774157361176
-wab: -3.0857646231591
+adj_oe: 117.7
+adj_de: 110.7
+barthag: N/A
+wab: -3.9
 ---
 # Colorado St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 118.58603145204134 | #53 |
-| **Defense** (AdjDE) | 110.5898433845135 | #225 |
-| **Tempo** | 61.84922067720818 | - |
-| **Resume** | **WAB**: -3.0857646231591 | **SOS**: 0.5593637303990081 |
-| **Record** | 12-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 117.7 | 110.7 |
+| **Shooting** | Effective FG% | 58.0% | 53.8% |
+| **Ball Security** | Turnover Rate | 19.2% | 15.4% |
+| **Rebounding** | Off. Rebound % | 32.0% | 29.2% |
+| **Free Throws** | Free Throw Rate | 36.3 | 33.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

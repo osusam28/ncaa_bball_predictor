@@ -1,23 +1,32 @@
 ---
 team: Eastern Kentucky
-conf: ASun
+conf: N/A
 year: 2026
-adj_oe: 108.66135051900025
-adj_de: 118.34684715068333
-tempo: 66.90073121341077
-barthag: 0.2725128542791333
-wab: -10.959166057958926
+adj_oe: 109.0
+adj_de: 119.0
+barthag: N/A
+wab: -11.9
 ---
 # Eastern Kentucky (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.66135051900025 | #172 |
-| **Defense** (AdjDE) | 118.34684715068333 | #336 |
-| **Tempo** | 66.90073121341077 | - |
-| **Resume** | **WAB**: -10.959166057958926 | **SOS**: 0.41920416577527464 |
-| **Record** | 7-15 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 109.0 | 119.0 |
+| **Shooting** | Effective FG% | 51.5% | 55.2% |
+| **Ball Security** | Turnover Rate | 17.6% | 14.7% |
+| **Rebounding** | Off. Rebound % | 32.9% | 31.7% |
+| **Free Throws** | Free Throw Rate | 29.0 | 38.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -11.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Maine
-conf: AE
+conf: N/A
 year: 2026
-adj_oe: 91.6630079140244
-adj_de: 112.46722787450486
-tempo: 64.2746562501823
-barthag: 0.08688755399174557
-wab: -14.892042915312496
+adj_oe: 92.0
+adj_de: 112.5
+barthag: N/A
+wab: -15.0
 ---
 # Maine (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 91.6630079140244 | #362 |
-| **Defense** (AdjDE) | 112.46722787450486 | #259 |
-| **Tempo** | 64.2746562501823 | - |
-| **Resume** | **WAB**: -14.892042915312496 | **SOS**: 0.3458787597618297 |
-| **Record** | 5-18 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 92.0 | 112.5 |
+| **Shooting** | Effective FG% | 48.5% | 50.2% |
+| **Ball Security** | Turnover Rate | 19.9% | 19.3% |
+| **Rebounding** | Off. Rebound % | 21.8% | 36.2% |
+| **Free Throws** | Free Throw Rate | 35.5 | 33.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -15.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

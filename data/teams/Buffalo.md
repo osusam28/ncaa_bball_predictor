@@ -1,23 +1,32 @@
 ---
 team: Buffalo
-conf: MAC
+conf: N/A
 year: 2026
-adj_oe: 114.06926577173249
-adj_de: 116.33314986507263
-tempo: 66.38249116289374
-barthag: 0.44373919228853936
-wab: -5.2140197242779704
+adj_oe: 114.5
+adj_de: 116.6
+barthag: N/A
+wab: -5.3
 ---
 # Buffalo (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 114.06926577173249 | #85 |
-| **Defense** (AdjDE) | 116.33314986507263 | #313 |
-| **Tempo** | 66.38249116289374 | - |
-| **Resume** | **WAB**: -5.2140197242779704 | **SOS**: 0.35365435655925137 |
-| **Record** | 14-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 114.5 | 116.6 |
+| **Shooting** | Effective FG% | 56.4% | 53.9% |
+| **Ball Security** | Turnover Rate | 15.7% | 17.5% |
+| **Rebounding** | Off. Rebound % | 27.6% | 32.1% |
+| **Free Throws** | Free Throw Rate | 43.4 | 31.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

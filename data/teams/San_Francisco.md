@@ -1,23 +1,32 @@
 ---
 team: San Francisco
-conf: WCC
+conf: N/A
 year: 2026
-adj_oe: 113.10175283553596
-adj_de: 105.3031003366512
-tempo: 65.00696134826819
-barthag: 0.6945796301361267
-wab: -3.6640466828748353
+adj_oe: 114.4
+adj_de: 106.2
+barthag: N/A
+wab: -3.7
 ---
 # San Francisco (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 113.10175283553596 | #100 |
-| **Defense** (AdjDE) | 105.3031003366512 | #113 |
-| **Tempo** | 65.00696134826819 | - |
-| **Resume** | **WAB**: -3.6640466828748353 | **SOS**: 0.536040842767914 |
-| **Record** | 13-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 114.4 | 106.2 |
+| **Shooting** | Effective FG% | 52.3% | 49.0% |
+| **Ball Security** | Turnover Rate | 16.3% | 13.7% |
+| **Rebounding** | Off. Rebound % | 32.7% | 27.7% |
+| **Free Throws** | Free Throw Rate | 38.4 | 30.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Middle Tennessee
-conf: CUSA
+conf: N/A
 year: 2026
-adj_oe: 108.89747694828975
-adj_de: 105.26894589144428
-tempo: 64.67551119287702
-barthag: 0.5962144644638951
-wab: -4.3247234565390515
+adj_oe: 108.0
+adj_de: 105.4
+barthag: N/A
+wab: -5.5
 ---
 # Middle Tennessee (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.89747694828975 | #169 |
-| **Defense** (AdjDE) | 105.26894589144428 | #112 |
-| **Tempo** | 64.67551119287702 | - |
-| **Resume** | **WAB**: -4.3247234565390515 | **SOS**: 0.49086787901243056 |
-| **Record** | 11-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.0 | 105.4 |
+| **Shooting** | Effective FG% | 50.8% | 49.7% |
+| **Ball Security** | Turnover Rate | 17.5% | 14.5% |
+| **Rebounding** | Off. Rebound % | 29.7% | 28.8% |
+| **Free Throws** | Free Throw Rate | 29.7 | 35.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

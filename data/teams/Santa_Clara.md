@@ -1,23 +1,32 @@
 ---
 team: Santa Clara
-conf: WCC
+conf: N/A
 year: 2026
-adj_oe: 120.95984737511955
-adj_de: 101.41652571097006
-tempo: 69.46756548994676
-barthag: 0.88355761177293
-wab: 1.088212695385078
+adj_oe: 122.1
+adj_de: 101.8
+barthag: N/A
+wab: +1.1
 ---
 # Santa Clara (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 120.95984737511955 | #37 |
-| **Defense** (AdjDE) | 101.41652571097006 | #59 |
-| **Tempo** | 69.46756548994676 | - |
-| **Resume** | **WAB**: 1.088212695385078 | **SOS**: 0.556274139221423 |
-| **Record** | 18-5 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 122.1 | 101.8 |
+| **Shooting** | Effective FG% | 55.0% | 50.4% |
+| **Ball Security** | Turnover Rate | 17.0% | 21.1% |
+| **Rebounding** | Off. Rebound % | 38.4% | 31.2% |
+| **Free Throws** | Free Throw Rate | 26.5 | 40.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +1.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Pacific
-conf: WCC
+conf: N/A
 year: 2026
-adj_oe: 111.33502107747924
-adj_de: 105.0647386673011
-tempo: 64.44594769344066
-barthag: 0.6607463930338533
-wab: -3.0046380879554935
+adj_oe: 112.4
+adj_de: 106.3
+barthag: N/A
+wab: -3.8
 ---
 # Pacific (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 111.33502107747924 | #127 |
-| **Defense** (AdjDE) | 105.0647386673011 | #105 |
-| **Tempo** | 64.44594769344066 | - |
-| **Resume** | **WAB**: -3.0046380879554935 | **SOS**: 0.45355788684465204 |
-| **Record** | 15-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 112.4 | 106.3 |
+| **Shooting** | Effective FG% | 53.3% | 49.5% |
+| **Ball Security** | Turnover Rate | 20.5% | 15.8% |
+| **Rebounding** | Off. Rebound % | 36.1% | 24.7% |
+| **Free Throws** | Free Throw Rate | 33.1 | 38.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

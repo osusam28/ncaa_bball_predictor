@@ -1,23 +1,32 @@
 ---
 team: Alabama A&M
-conf: SWAC
+conf: N/A
 year: 2026
-adj_oe: 101.77324902555145
-adj_de: 113.8534066654168
-tempo: 65.53532127684
-barthag: 0.21587128061672942
-wab: -6.1995188719364025
+adj_oe: 101.5
+adj_de: 114.3
+barthag: N/A
+wab: -7.2
 ---
 # Alabama A&M (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 101.77324902555145 | #293 |
-| **Defense** (AdjDE) | 113.8534066654168 | #279 |
-| **Tempo** | 65.53532127684 | - |
-| **Resume** | **WAB**: -6.1995188719364025 | **SOS**: 0.28806073280035116 |
-| **Record** | 11-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 101.5 | 114.3 |
+| **Shooting** | Effective FG% | 47.5% | 52.6% |
+| **Ball Security** | Turnover Rate | 17.1% | 17.1% |
+| **Rebounding** | Off. Rebound % | 27.3% | 28.8% |
+| **Free Throws** | Free Throw Rate | 43.0 | 38.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -7.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

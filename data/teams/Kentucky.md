@@ -1,23 +1,32 @@
 ---
 team: Kentucky
-conf: SEC
+conf: N/A
 year: 2026
-adj_oe: 116.85485990638401
-adj_de: 100.57190104730591
-tempo: 67.89443141775277
-barthag: 0.8488599187736645
-wab: 1.6758581547930438
+adj_oe: 118.3
+adj_de: 100.8
+barthag: N/A
+wab: +2.3
 ---
 # Kentucky (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 116.85485990638401 | #66 |
-| **Defense** (AdjDE) | 100.57190104730591 | #45 |
-| **Tempo** | 67.89443141775277 | - |
-| **Resume** | **WAB**: 1.6758581547930438 | **SOS**: 0.6429622927464889 |
-| **Record** | 14-7 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 118.3 | 100.8 |
+| **Shooting** | Effective FG% | 53.7% | 47.7% |
+| **Ball Security** | Turnover Rate | 14.9% | 16.1% |
+| **Rebounding** | Off. Rebound % | 34.1% | 28.5% |
+| **Free Throws** | Free Throw Rate | 37.8 | 35.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +2.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

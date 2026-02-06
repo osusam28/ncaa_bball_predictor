@@ -1,23 +1,32 @@
 ---
 team: Oregon St.
-conf: WCC
+conf: N/A
 year: 2026
-adj_oe: 108.14305249549261
-adj_de: 111.01900179567872
-tempo: 65.26023257246729
-barthag: 0.42510912811033674
-wab: -6.864241777669953
+adj_oe: 107.4
+adj_de: 110.2
+barthag: N/A
+wab: -6.8
 ---
 # Oregon St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.14305249549261 | #184 |
-| **Defense** (AdjDE) | 111.01900179567872 | #232 |
-| **Tempo** | 65.26023257246729 | - |
-| **Resume** | **WAB**: -6.864241777669953 | **SOS**: 0.5590924880786113 |
-| **Record** | 11-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 107.4 | 110.2 |
+| **Shooting** | Effective FG% | 50.0% | 50.4% |
+| **Ball Security** | Turnover Rate | 18.2% | 15.9% |
+| **Rebounding** | Off. Rebound % | 25.2% | 32.9% |
+| **Free Throws** | Free Throw Rate | 44.4 | 36.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: LSU
-conf: SEC
+conf: N/A
 year: 2026
-adj_oe: 120.01440939476163
-adj_de: 106.21583663299678
-tempo: 66.54129748428493
-barthag: 0.8029118507677473
-wab: -0.6715553350276803
+adj_oe: 120.1
+adj_de: 106.5
+barthag: N/A
+wab: -0.9
 ---
 # LSU (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 120.01440939476163 | #44 |
-| **Defense** (AdjDE) | 106.21583663299678 | #122 |
-| **Tempo** | 66.54129748428493 | - |
-| **Resume** | **WAB**: -0.6715553350276803 | **SOS**: 0.5977538487481676 |
-| **Record** | 14-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 120.1 | 106.5 |
+| **Shooting** | Effective FG% | 54.7% | 49.3% |
+| **Ball Security** | Turnover Rate | 15.5% | 15.0% |
+| **Rebounding** | Off. Rebound % | 33.1% | 30.6% |
+| **Free Throws** | Free Throw Rate | 42.4 | 35.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -0.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

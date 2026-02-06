@@ -1,23 +1,32 @@
 ---
 team: Illinois Chicago
-conf: MVC
+conf: N/A
 year: 2026
-adj_oe: 109.44967779850595
-adj_de: 104.54343303558647
-tempo: 66.03047798421674
-barthag: 0.6288802526180693
-wab: -5.721814257577319
+adj_oe: 109.6
+adj_de: 104.8
+barthag: N/A
+wab: -5.6
 ---
 # Illinois Chicago (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.44967779850595 | #158 |
-| **Defense** (AdjDE) | 104.54343303558647 | #90 |
-| **Tempo** | 66.03047798421674 | - |
-| **Resume** | **WAB**: -5.721814257577319 | **SOS**: 0.45742744668747637 |
-| **Record** | 12-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 109.6 | 104.8 |
+| **Shooting** | Effective FG% | 48.2% | 49.2% |
+| **Ball Security** | Turnover Rate | 18.3% | 20.0% |
+| **Rebounding** | Off. Rebound % | 37.5% | 34.7% |
+| **Free Throws** | Free Throw Rate | 38.6 | 36.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

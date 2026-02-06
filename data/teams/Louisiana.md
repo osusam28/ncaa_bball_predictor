@@ -1,23 +1,32 @@
 ---
 team: Louisiana
-conf: SB
+conf: N/A
 year: 2026
-adj_oe: 98.93001443913037
-adj_de: 111.6974126940557
-tempo: 62.54347656513482
-barthag: 0.19847071098828434
-wab: -12.44389035229244
+adj_oe: 99.4
+adj_de: 111.1
+barthag: N/A
+wab: -12.5
 ---
 # Louisiana (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 98.93001443913037 | #326 |
-| **Defense** (AdjDE) | 111.6974126940557 | #247 |
-| **Tempo** | 62.54347656513482 | - |
-| **Resume** | **WAB**: -12.44389035229244 | **SOS**: 0.39058160023085353 |
-| **Record** | 6-16 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 99.4 | 111.1 |
+| **Shooting** | Effective FG% | 47.7% | 51.1% |
+| **Ball Security** | Turnover Rate | 18.3% | 17.6% |
+| **Rebounding** | Off. Rebound % | 27.0% | 31.9% |
+| **Free Throws** | Free Throw Rate | 26.7 | 46.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -12.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

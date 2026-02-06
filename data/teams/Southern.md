@@ -1,23 +1,32 @@
 ---
 team: Southern
-conf: SWAC
+conf: N/A
 year: 2026
-adj_oe: 102.56281010617167
-adj_de: 110.63715762396316
-tempo: 70.62268562089368
-barthag: 0.2949470725357859
-wab: -6.829401134725729
+adj_oe: 104.3
+adj_de: 112.7
+barthag: N/A
+wab: -7.8
 ---
 # Southern (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 102.56281010617167 | #275 |
-| **Defense** (AdjDE) | 110.63715762396316 | #226 |
-| **Tempo** | 70.62268562089368 | - |
-| **Resume** | **WAB**: -6.829401134725729 | **SOS**: 0.43058921367760605 |
-| **Record** | 8-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 104.3 | 112.7 |
+| **Shooting** | Effective FG% | 47.9% | 54.7% |
+| **Ball Security** | Turnover Rate | 17.3% | 19.0% |
+| **Rebounding** | Off. Rebound % | 31.4% | 32.4% |
+| **Free Throws** | Free Throw Rate | 39.7 | 44.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -7.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

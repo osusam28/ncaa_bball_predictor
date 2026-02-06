@@ -1,23 +1,32 @@
 ---
 team: Marquette
-conf: BE
+conf: N/A
 year: 2026
-adj_oe: 111.38256885954108
-adj_de: 104.54748137168187
-tempo: 69.35976814954431
-barthag: 0.6744297642537579
-wab: -6.265765775756849
+adj_oe: 111.6
+adj_de: 104.8
+barthag: N/A
+wab: -6.5
 ---
 # Marquette (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 111.38256885954108 | #125 |
-| **Defense** (AdjDE) | 104.54748137168187 | #91 |
-| **Tempo** | 69.35976814954431 | - |
-| **Resume** | **WAB**: -6.265765775756849 | **SOS**: 0.6725561498466195 |
-| **Record** | 8-15 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 111.6 | 104.8 |
+| **Shooting** | Effective FG% | 49.4% | 52.1% |
+| **Ball Security** | Turnover Rate | 15.6% | 19.1% |
+| **Rebounding** | Off. Rebound % | 31.4% | 33.7% |
+| **Free Throws** | Free Throw Rate | 34.0 | 31.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

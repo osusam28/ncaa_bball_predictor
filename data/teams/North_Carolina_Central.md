@@ -1,23 +1,32 @@
 ---
 team: North Carolina Central
-conf: MEAC
+conf: N/A
 year: 2026
-adj_oe: 99.28284351559745
-adj_de: 118.72679036135405
-tempo: 66.40768360864561
-barthag: 0.1133670589652081
-wab: -7.5900188093304415
+adj_oe: 99.9
+adj_de: 119.0
+barthag: N/A
+wab: -7.6
 ---
 # North Carolina Central (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 99.28284351559745 | #323 |
-| **Defense** (AdjDE) | 118.72679036135405 | #343 |
-| **Tempo** | 66.40768360864561 | - |
-| **Resume** | **WAB**: -7.5900188093304415 | **SOS**: 0.37848581123321945 |
-| **Record** | 7-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 99.9 | 119.0 |
+| **Shooting** | Effective FG% | 45.6% | 56.6% |
+| **Ball Security** | Turnover Rate | 18.5% | 18.7% |
+| **Rebounding** | Off. Rebound % | 28.2% | 38.2% |
+| **Free Throws** | Free Throw Rate | 41.3 | 39.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -7.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

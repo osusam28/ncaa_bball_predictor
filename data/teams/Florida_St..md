@@ -1,23 +1,32 @@
 ---
 team: Florida St.
-conf: ACC
+conf: N/A
 year: 2026
-adj_oe: 112.39228215729133
-adj_de: 105.02163417189874
-tempo: 71.61614889484609
-barthag: 0.685687091897489
-wab: -3.833661677716247
+adj_oe: 113.9
+adj_de: 105.6
+barthag: N/A
+wab: -3.8
 ---
 # Florida St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 112.39228215729133 | #113 |
-| **Defense** (AdjDE) | 105.02163417189874 | #103 |
-| **Tempo** | 71.61614889484609 | - |
-| **Resume** | **WAB**: -3.833661677716247 | **SOS**: 0.6156648863629385 |
-| **Record** | 9-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 113.9 | 105.6 |
+| **Shooting** | Effective FG% | 50.4% | 52.6% |
+| **Ball Security** | Turnover Rate | 16.3% | 19.8% |
+| **Rebounding** | Off. Rebound % | 32.8% | 33.0% |
+| **Free Throws** | Free Throw Rate | 34.0 | 34.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

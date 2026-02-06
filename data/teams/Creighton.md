@@ -1,23 +1,32 @@
 ---
 team: Creighton
-conf: BE
+conf: N/A
 year: 2026
-adj_oe: 117.1766971373375
-adj_de: 105.08350699483466
-tempo: 66.25485300480561
-barthag: 0.7777614356507487
-wab: -1.1534672442276874
+adj_oe: 118.0
+adj_de: 106.8
+barthag: N/A
+wab: -1.6
 ---
 # Creighton (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 117.1766971373375 | #64 |
-| **Defense** (AdjDE) | 105.08350699483466 | #107 |
-| **Tempo** | 66.25485300480561 | - |
-| **Resume** | **WAB**: -1.1534672442276874 | **SOS**: 0.6610385448608141 |
-| **Record** | 12-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 118.0 | 106.8 |
+| **Shooting** | Effective FG% | 54.5% | 51.3% |
+| **Ball Security** | Turnover Rate | 15.9% | 13.7% |
+| **Rebounding** | Off. Rebound % | 29.1% | 31.1% |
+| **Free Throws** | Free Throw Rate | 27.7 | 22.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -1.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

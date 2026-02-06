@@ -1,23 +1,32 @@
 ---
 team: Northern Colorado
-conf: BSky
+conf: N/A
 year: 2026
-adj_oe: 112.4920772891395
-adj_de: 112.77738471597534
-tempo: 68.33822261791363
-barthag: 0.4927180427764715
-wab: -6.367701606687877
+adj_oe: 112.2
+adj_de: 112.7
+barthag: N/A
+wab: -6.4
 ---
 # Northern Colorado (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 112.4920772891395 | #110 |
-| **Defense** (AdjDE) | 112.77738471597534 | #267 |
-| **Tempo** | 68.33822261791363 | - |
-| **Resume** | **WAB**: -6.367701606687877 | **SOS**: 0.3954422442642828 |
-| **Record** | 12-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 112.2 | 112.7 |
+| **Shooting** | Effective FG% | 55.1% | 51.7% |
+| **Ball Security** | Turnover Rate | 16.3% | 12.8% |
+| **Rebounding** | Off. Rebound % | 29.0% | 24.7% |
+| **Free Throws** | Free Throw Rate | 27.7 | 38.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

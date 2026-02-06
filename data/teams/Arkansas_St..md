@@ -1,23 +1,32 @@
 ---
 team: Arkansas St.
-conf: SB
+conf: N/A
 year: 2026
-adj_oe: 111.06885397763726
-adj_de: 110.38349422646718
-tempo: 72.32830672872038
-barthag: 0.5177878810969542
-wab: -4.778695127140898
+adj_oe: 110.3
+adj_de: 110.9
+barthag: N/A
+wab: -5.9
 ---
 # Arkansas St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 111.06885397763726 | #130 |
-| **Defense** (AdjDE) | 110.38349422646718 | #219 |
-| **Tempo** | 72.32830672872038 | - |
-| **Resume** | **WAB**: -4.778695127140898 | **SOS**: 0.4383769952967301 |
-| **Record** | 13-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 110.3 | 110.9 |
+| **Shooting** | Effective FG% | 50.3% | 52.0% |
+| **Ball Security** | Turnover Rate | 20.0% | 14.8% |
+| **Rebounding** | Off. Rebound % | 37.0% | 27.0% |
+| **Free Throws** | Free Throw Rate | 37.8 | 38.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

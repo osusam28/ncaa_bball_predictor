@@ -1,23 +1,32 @@
 ---
 team: Auburn
-conf: SEC
+conf: N/A
 year: 2026
-adj_oe: 125.63917858160241
-adj_de: 103.52904828053077
-tempo: 67.50092051958019
-barthag: 0.902556792309465
-wab: 2.677993952435254
+adj_oe: 125.2
+adj_de: 103.6
+barthag: N/A
+wab: +2.3
 ---
 # Auburn (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 125.63917858160241 | #9 |
-| **Defense** (AdjDE) | 103.52904828053077 | #79 |
-| **Tempo** | 67.50092051958019 | - |
-| **Resume** | **WAB**: 2.677993952435254 | **SOS**: 0.7044300255331348 |
-| **Record** | 14-7 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 125.2 | 103.6 |
+| **Shooting** | Effective FG% | 53.0% | 51.9% |
+| **Ball Security** | Turnover Rate | 14.8% | 17.4% |
+| **Rebounding** | Off. Rebound % | 37.8% | 32.0% |
+| **Free Throws** | Free Throw Rate | 47.5 | 34.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +2.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

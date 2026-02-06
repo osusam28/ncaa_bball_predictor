@@ -1,23 +1,32 @@
 ---
 team: Fairleigh Dickinson
-conf: NEC
+conf: N/A
 year: 2026
-adj_oe: 100.89113493351492
-adj_de: 117.88609281016221
-tempo: 65.11883938101826
-barthag: 0.14303803473128593
-wab: -11.992628297952498
+adj_oe: 101.1
+adj_de: 117.9
+barthag: N/A
+wab: -12.1
 ---
 # Fairleigh Dickinson (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 100.89113493351492 | #307 |
-| **Defense** (AdjDE) | 117.88609281016221 | #329 |
-| **Tempo** | 65.11883938101826 | - |
-| **Resume** | **WAB**: -11.992628297952498 | **SOS**: 0.3327906699451525 |
-| **Record** | 7-16 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 101.1 | 117.9 |
+| **Shooting** | Effective FG% | 46.7% | 56.0% |
+| **Ball Security** | Turnover Rate | 17.6% | 16.6% |
+| **Rebounding** | Off. Rebound % | 30.6% | 28.9% |
+| **Free Throws** | Free Throw Rate | 32.0 | 37.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -12.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

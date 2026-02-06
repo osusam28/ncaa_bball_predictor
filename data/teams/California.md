@@ -1,23 +1,32 @@
 ---
 team: California
-conf: ACC
+conf: N/A
 year: 2026
-adj_oe: 112.05905430708658
-adj_de: 99.8011504501556
-tempo: 66.85682216017325
-barthag: 0.7912096534759969
-wab: 0.2562249572719161
+adj_oe: 113.8
+adj_de: 101.0
+barthag: N/A
+wab: +0.7
 ---
 # California (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 112.05905430708658 | #120 |
-| **Defense** (AdjDE) | 99.8011504501556 | #41 |
-| **Tempo** | 66.85682216017325 | - |
-| **Resume** | **WAB**: 0.2562249572719161 | **SOS**: 0.5633297197083059 |
-| **Record** | 15-6 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 113.8 | 101.0 |
+| **Shooting** | Effective FG% | 52.9% | 47.5% |
+| **Ball Security** | Turnover Rate | 14.6% | 16.2% |
+| **Rebounding** | Off. Rebound % | 26.0% | 31.3% |
+| **Free Throws** | Free Throw Rate | 38.2 | 35.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +0.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Minnesota
-conf: B10
+conf: N/A
 year: 2026
-adj_oe: 112.79199777243961
-adj_de: 99.47626426423064
-tempo: 63.33690377098907
-barthag: 0.8091818485744481
-wab: -2.6282165942636295
+adj_oe: 113.0
+adj_de: 100.5
+barthag: N/A
+wab: -3.5
 ---
 # Minnesota (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 112.79199777243961 | #103 |
-| **Defense** (AdjDE) | 99.47626426423064 | #37 |
-| **Tempo** | 63.33690377098907 | - |
-| **Resume** | **WAB**: -2.6282165942636295 | **SOS**: 0.632375520566343 |
-| **Record** | 10-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 113.0 | 100.5 |
+| **Shooting** | Effective FG% | 53.0% | 50.0% |
+| **Ball Security** | Turnover Rate | 16.7% | 17.3% |
+| **Rebounding** | Off. Rebound % | 29.5% | 29.1% |
+| **Free Throws** | Free Throw Rate | 40.2 | 30.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

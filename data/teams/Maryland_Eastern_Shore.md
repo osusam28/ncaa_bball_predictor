@@ -1,23 +1,32 @@
 ---
 team: Maryland Eastern Shore
-conf: MEAC
+conf: N/A
 year: 2026
-adj_oe: 96.04031584442816
-adj_de: 112.29574656008819
-tempo: 63.28563688308958
-barthag: 0.14206652336569697
-wab: -7.753460729943892
+adj_oe: 95.7
+adj_de: 113.8
+barthag: N/A
+wab: -9.8
 ---
 # Maryland Eastern Shore (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 96.04031584442816 | #350 |
-| **Defense** (AdjDE) | 112.29574656008819 | #254 |
-| **Tempo** | 63.28563688308958 | - |
-| **Resume** | **WAB**: -7.753460729943892 | **SOS**: 0.4042167953709588 |
-| **Record** | 8-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 95.7 | 113.8 |
+| **Shooting** | Effective FG% | 47.5% | 50.7% |
+| **Ball Security** | Turnover Rate | 23.1% | 17.4% |
+| **Rebounding** | Off. Rebound % | 29.8% | 33.2% |
+| **Free Throws** | Free Throw Rate | 28.2 | 40.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -9.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

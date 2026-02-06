@@ -1,23 +1,32 @@
 ---
 team: Georgia St.
-conf: SB
+conf: N/A
 year: 2026
-adj_oe: 99.87543052076967
-adj_de: 109.79828407604946
-tempo: 68.06911779706351
-barthag: 0.25175131290238073
-wab: -9.50858626910804
+adj_oe: 101.3
+adj_de: 110.7
+barthag: N/A
+wab: -10.4
 ---
 # Georgia St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 99.87543052076967 | #314 |
-| **Defense** (AdjDE) | 109.79828407604946 | #206 |
-| **Tempo** | 68.06911779706351 | - |
-| **Resume** | **WAB**: -9.50858626910804 | **SOS**: 0.40035552049496326 |
-| **Record** | 9-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 101.3 | 110.7 |
+| **Shooting** | Effective FG% | 44.5% | 50.1% |
+| **Ball Security** | Turnover Rate | 16.9% | 16.8% |
+| **Rebounding** | Off. Rebound % | 27.8% | 33.8% |
+| **Free Throws** | Free Throw Rate | 36.6 | 35.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -10.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Arkansas Pine Bluff
-conf: SWAC
+conf: N/A
 year: 2026
-adj_oe: 104.89105772803097
-adj_de: 114.15651536608453
-tempo: 70.50208714626855
-barthag: 0.27419256269546705
-wab: -7.258000231579125
+adj_oe: 105.1
+adj_de: 115.0
+barthag: N/A
+wab: -7.4
 ---
 # Arkansas Pine Bluff (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 104.89105772803097 | #242 |
-| **Defense** (AdjDE) | 114.15651536608453 | #283 |
-| **Tempo** | 70.50208714626855 | - |
-| **Resume** | **WAB**: -7.258000231579125 | **SOS**: 0.49569865315486317 |
-| **Record** | 7-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 105.1 | 115.0 |
+| **Shooting** | Effective FG% | 48.5% | 53.9% |
+| **Ball Security** | Turnover Rate | 19.4% | 15.8% |
+| **Rebounding** | Off. Rebound % | 27.2% | 35.1% |
+| **Free Throws** | Free Throw Rate | 37.5 | 48.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -7.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

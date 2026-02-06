@@ -1,23 +1,32 @@
 ---
 team: Georgia Tech
-conf: ACC
+conf: N/A
 year: 2026
-adj_oe: 107.93840557991557
-adj_de: 105.08115283822521
-tempo: 70.58493022156654
-barthag: 0.5765239234728345
-wab: -4.7773948579784
+adj_oe: 108.0
+adj_de: 105.3
+barthag: N/A
+wab: -5.0
 ---
 # Georgia Tech (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 107.93840557991557 | #190 |
-| **Defense** (AdjDE) | 105.08115283822521 | #106 |
-| **Tempo** | 70.58493022156654 | - |
-| **Resume** | **WAB**: -4.7773948579784 | **SOS**: 0.5375684249374052 |
-| **Record** | 11-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.0 | 105.3 |
+| **Shooting** | Effective FG% | 50.4% | 47.1% |
+| **Ball Security** | Turnover Rate | 18.8% | 15.1% |
+| **Rebounding** | Off. Rebound % | 31.3% | 29.6% |
+| **Free Throws** | Free Throw Rate | 35.8 | 32.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

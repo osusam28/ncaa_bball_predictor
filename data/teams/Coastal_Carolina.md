@@ -1,23 +1,32 @@
 ---
 team: Coastal Carolina
-conf: SB
+conf: N/A
 year: 2026
-adj_oe: 101.81201419256408
-adj_de: 107.41200152434234
-tempo: 67.53268107851639
-barthag: 0.35074780242418035
-wab: -6.4485307971087344
+adj_oe: 103.1
+adj_de: 108.9
+barthag: N/A
+wab: -6.5
 ---
 # Coastal Carolina (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 101.81201419256408 | #291 |
-| **Defense** (AdjDE) | 107.41200152434234 | #146 |
-| **Tempo** | 67.53268107851639 | - |
-| **Resume** | **WAB**: -6.4485307971087344 | **SOS**: 0.3883685482513681 |
-| **Record** | 13-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 103.1 | 108.9 |
+| **Shooting** | Effective FG% | 47.9% | 46.6% |
+| **Ball Security** | Turnover Rate | 15.0% | 12.2% |
+| **Rebounding** | Off. Rebound % | 25.8% | 26.6% |
+| **Free Throws** | Free Throw Rate | 31.2 | 36.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

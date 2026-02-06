@@ -1,23 +1,32 @@
 ---
 team: UTEP
-conf: CUSA
+conf: N/A
 year: 2026
-adj_oe: 102.3452166412416
-adj_de: 112.47891478629319
-tempo: 64.47731446448606
-barthag: 0.2524169066332891
-wab: -10.093757151365914
+adj_oe: 102.4
+adj_de: 112.1
+barthag: N/A
+wab: -10.2
 ---
 # UTEP (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 102.3452166412416 | #278 |
-| **Defense** (AdjDE) | 112.47891478629319 | #261 |
-| **Tempo** | 64.47731446448606 | - |
-| **Resume** | **WAB**: -10.093757151365914 | **SOS**: 0.4406272358406729 |
-| **Record** | 7-14 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 102.4 | 112.1 |
+| **Shooting** | Effective FG% | 47.7% | 52.2% |
+| **Ball Security** | Turnover Rate | 18.0% | 19.0% |
+| **Rebounding** | Off. Rebound % | 27.6% | 33.7% |
+| **Free Throws** | Free Throw Rate | 30.6 | 44.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -10.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

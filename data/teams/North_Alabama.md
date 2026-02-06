@@ -1,23 +1,32 @@
 ---
 team: North Alabama
-conf: ASun
+conf: N/A
 year: 2026
-adj_oe: 99.75526907094061
-adj_de: 118.41533008658966
-tempo: 65.63027509038521
-barthag: 0.12217416377374042
-wab: -9.80844243990953
+adj_oe: 100.2
+adj_de: 119.2
+barthag: N/A
+wab: -9.9
 ---
 # North Alabama (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 99.75526907094061 | #315 |
-| **Defense** (AdjDE) | 118.41533008658966 | #337 |
-| **Tempo** | 65.63027509038521 | - |
-| **Resume** | **WAB**: -9.80844243990953 | **SOS**: 0.358278811814695 |
-| **Record** | 7-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 100.2 | 119.2 |
+| **Shooting** | Effective FG% | 47.9% | 54.1% |
+| **Ball Security** | Turnover Rate | 16.5% | 14.6% |
+| **Rebounding** | Off. Rebound % | 30.2% | 34.0% |
+| **Free Throws** | Free Throw Rate | 37.8 | 31.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -9.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

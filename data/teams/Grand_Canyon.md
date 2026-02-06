@@ -1,23 +1,32 @@
 ---
 team: Grand Canyon
-conf: MWC
+conf: N/A
 year: 2026
-adj_oe: 109.93089055820099
-adj_de: 95.78463780512632
-tempo: 67.56742973273674
-barthag: 0.8297872522649317
-wab: -0.5472945171567098
+adj_oe: 110.2
+adj_de: 96.1
+barthag: N/A
+wab: -0.7
 ---
 # Grand Canyon (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.93089055820099 | #141 |
-| **Defense** (AdjDE) | 95.78463780512632 | #18 |
-| **Tempo** | 67.56742973273674 | - |
-| **Resume** | **WAB**: -0.5472945171567098 | **SOS**: 0.5836730339285929 |
-| **Record** | 14-7 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 110.2 | 96.1 |
+| **Shooting** | Effective FG% | 50.2% | 46.8% |
+| **Ball Security** | Turnover Rate | 17.8% | 17.7% |
+| **Rebounding** | Off. Rebound % | 32.0% | 26.6% |
+| **Free Throws** | Free Throw Rate | 38.7 | 38.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -0.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

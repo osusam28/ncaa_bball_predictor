@@ -1,23 +1,32 @@
 ---
 team: Nicholls St.
-conf: Slnd
+conf: N/A
 year: 2026
-adj_oe: 105.81139249165346
-adj_de: 112.30810035139365
-tempo: 68.78038786184811
-barthag: 0.3350884116189723
-wab: -8.089722204316878
+adj_oe: 105.3
+adj_de: 110.9
+barthag: N/A
+wab: -8.1
 ---
 # Nicholls St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 105.81139249165346 | #221 |
-| **Defense** (AdjDE) | 112.30810035139365 | #255 |
-| **Tempo** | 68.78038786184811 | - |
-| **Resume** | **WAB**: -8.089722204316878 | **SOS**: 0.4898027371338111 |
-| **Record** | 8-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 105.3 | 110.9 |
+| **Shooting** | Effective FG% | 50.3% | 54.7% |
+| **Ball Security** | Turnover Rate | 17.4% | 21.7% |
+| **Rebounding** | Off. Rebound % | 27.6% | 35.1% |
+| **Free Throws** | Free Throw Rate | 35.4 | 40.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -8.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

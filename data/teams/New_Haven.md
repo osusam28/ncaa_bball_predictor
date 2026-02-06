@@ -1,23 +1,32 @@
 ---
 team: New Haven
-conf: NEC
+conf: N/A
 year: 2026
-adj_oe: 94.78116673718976
-adj_de: 112.7512191890221
-tempo: 62.84085137623333
-barthag: 0.11956559984006275
-wab: -8.307886079418342
+adj_oe: 96.3
+adj_de: 113.2
+barthag: N/A
+wab: -8.3
 ---
 # New Haven (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 94.78116673718976 | #355 |
-| **Defense** (AdjDE) | 112.7512191890221 | #264 |
-| **Tempo** | 62.84085137623333 | - |
-| **Resume** | **WAB**: -8.307886079418342 | **SOS**: 0.3327774168543772 |
-| **Record** | 9-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 96.3 | 113.2 |
+| **Shooting** | Effective FG% | 48.3% | 52.7% |
+| **Ball Security** | Turnover Rate | 19.4% | 17.0% |
+| **Rebounding** | Off. Rebound % | 23.0% | 28.4% |
+| **Free Throws** | Free Throw Rate | 29.3 | 27.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -8.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

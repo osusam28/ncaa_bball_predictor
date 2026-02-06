@@ -1,23 +1,32 @@
 ---
 team: Southern Miss
-conf: SB
+conf: N/A
 year: 2026
-adj_oe: 101.6059949219214
-adj_de: 109.35498677703715
-tempo: 67.97813230505504
-barthag: 0.3004379336749867
-wab: -8.286814178903448
+adj_oe: 102.0
+adj_de: 108.9
+barthag: N/A
+wab: -8.3
 ---
 # Southern Miss (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 101.6059949219214 | #298 |
-| **Defense** (AdjDE) | 109.35498677703715 | #189 |
-| **Tempo** | 67.97813230505504 | - |
-| **Resume** | **WAB**: -8.286814178903448 | **SOS**: 0.37133369527455384 |
-| **Record** | 11-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 102.0 | 108.9 |
+| **Shooting** | Effective FG% | 48.4% | 51.9% |
+| **Ball Security** | Turnover Rate | 18.0% | 17.9% |
+| **Rebounding** | Off. Rebound % | 30.1% | 28.2% |
+| **Free Throws** | Free Throw Rate | 42.7 | 41.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -8.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

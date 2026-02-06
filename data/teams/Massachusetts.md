@@ -1,23 +1,32 @@
 ---
 team: Massachusetts
-conf: MAC
+conf: N/A
 year: 2026
-adj_oe: 107.8322116760099
-adj_de: 107.13775087804952
-tempo: 71.2071375593478
-barthag: 0.5185669073885504
-wab: -6.247364879373667
+adj_oe: 108.4
+adj_de: 107.6
+barthag: N/A
+wab: -6.3
 ---
 # Massachusetts (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 107.8322116760099 | #194 |
-| **Defense** (AdjDE) | 107.13775087804952 | #136 |
-| **Tempo** | 71.2071375593478 | - |
-| **Resume** | **WAB**: -6.247364879373667 | **SOS**: 0.3851536100380119 |
-| **Record** | 13-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.4 | 107.6 |
+| **Shooting** | Effective FG% | 52.4% | 51.6% |
+| **Ball Security** | Turnover Rate | 18.3% | 17.7% |
+| **Rebounding** | Off. Rebound % | 32.9% | 25.8% |
+| **Free Throws** | Free Throw Rate | 38.7 | 45.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

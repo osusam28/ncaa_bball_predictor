@@ -1,23 +1,32 @@
 ---
 team: Eastern Michigan
-conf: MAC
+conf: N/A
 year: 2026
-adj_oe: 103.56916215906074
-adj_de: 107.36386688277341
-tempo: 65.95648894340398
-barthag: 0.3979972838156209
-wab: -7.13864815043665
+adj_oe: 104.1
+adj_de: 107.8
+barthag: N/A
+wab: -8.0
 ---
 # Eastern Michigan (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 103.56916215906074 | #258 |
-| **Defense** (AdjDE) | 107.36386688277341 | #144 |
-| **Tempo** | 65.95648894340398 | - |
-| **Resume** | **WAB**: -7.13864815043665 | **SOS**: 0.4680660326318804 |
-| **Record** | 9-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 104.1 | 107.8 |
+| **Shooting** | Effective FG% | 49.7% | 50.6% |
+| **Ball Security** | Turnover Rate | 17.4% | 16.7% |
+| **Rebounding** | Off. Rebound % | 28.4% | 29.1% |
+| **Free Throws** | Free Throw Rate | 31.3 | 34.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -8.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

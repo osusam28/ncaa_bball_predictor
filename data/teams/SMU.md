@@ -1,23 +1,32 @@
 ---
 team: SMU
-conf: ACC
+conf: N/A
 year: 2026
-adj_oe: 123.97347980627367
-adj_de: 103.48734230037371
-tempo: 68.77852522852801
-barthag: 0.8886585188940815
-wab: 2.085477135595707
+adj_oe: 124.1
+adj_de: 103.9
+barthag: N/A
+wab: +1.8
 ---
 # SMU (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 123.97347980627367 | #18 |
-| **Defense** (AdjDE) | 103.48734230037371 | #77 |
-| **Tempo** | 68.77852522852801 | - |
-| **Resume** | **WAB**: 2.085477135595707 | **SOS**: 0.6749475846595362 |
-| **Record** | 15-6 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 124.1 | 103.9 |
+| **Shooting** | Effective FG% | 55.7% | 50.3% |
+| **Ball Security** | Turnover Rate | 16.2% | 17.9% |
+| **Rebounding** | Off. Rebound % | 35.2% | 31.8% |
+| **Free Throws** | Free Throw Rate | 34.0 | 32.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +1.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

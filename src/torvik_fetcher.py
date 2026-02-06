@@ -15,12 +15,15 @@ if current_month > 10:
     YEAR += 1
 
 URL_TEAM_RESULTS = f"https://barttorvik.com/{YEAR}_team_results.json"
-URL_ADVANCED_STATS = f"https://barttorvik.com/getadvstats.php?year={YEAR}&csv=1" # Returns CSV, might need parsing or just raw save.
+URL_ADVANCED_STATS = f"https://barttorvik.com/trank.php?year={YEAR}&csv=1" # Correct Team CSV Endpoint
 
 def fetch_json(url, filename):
     print(f"Fetching from {url}...")
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
     try:
-        response = requests.get(url)
+        response = requests.get(url, headers=headers)
         response.raise_for_status()
         
         # Parse standard JSON response
@@ -43,6 +46,32 @@ def main():
     
     # Fetch Core Team Results (Efficiency, W-L, etc.)
     fetch_json(URL_TEAM_RESULTS, f"team_results_{YEAR}.json")
+    
+    # Fetch Advanced Stats (CSV with headers) to get Four Factors reliably
+    print(f"Fetching CSV from {URL_ADVANCED_STATS}...")
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    try:
+        r = requests.get(URL_ADVANCED_STATS, headers=headers)
+        r.raise_for_status()
+        
+        # Check if we got a valid CSV (not HTML error page)
+        if "<!DOCTYPE html>" in r.text or "Verifying your browser" in r.text:
+            raise ValueError("Bot protection detected.")
+            
+        csv_path = os.path.join(DATA_DIR, f"team_stats_{YEAR}.csv")
+        with open(csv_path, 'w') as f:
+            f.write(r.text)
+        print(f"Success! Saved CSV to {csv_path}")
+        
+    except Exception as e:
+        print(f"\n[WARNING] Automatic CSV download failed: {e}")
+        print(f"ACTION REQUIRED: Please visit this URL manually:")
+        print(f"  {URL_ADVANCED_STATS}")
+        print(f"Save the file as: data/raw/team_stats_{YEAR}.csv")
+        print("Then run the pipeline again.\n")
+        # Don't re-raise; allow pipeline to continue if data already exists
     
     # Additional fetches can be added here (e.g. player stats)
     

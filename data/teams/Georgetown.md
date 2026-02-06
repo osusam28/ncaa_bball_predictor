@@ -1,23 +1,32 @@
 ---
 team: Georgetown
-conf: BE
+conf: N/A
 year: 2026
-adj_oe: 114.41088877578956
-adj_de: 105.12014557101215
-tempo: 65.62684597127829
-barthag: 0.7259084319414377
-wab: -2.2292569484943083
+adj_oe: 114.5
+adj_de: 105.3
+barthag: N/A
+wab: -2.5
 ---
 # Georgetown (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 114.41088877578956 | #79 |
-| **Defense** (AdjDE) | 105.12014557101215 | #109 |
-| **Tempo** | 65.62684597127829 | - |
-| **Resume** | **WAB**: -2.2292569484943083 | **SOS**: 0.6183169429018374 |
-| **Record** | 12-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 114.5 | 105.3 |
+| **Shooting** | Effective FG% | 50.0% | 49.1% |
+| **Ball Security** | Turnover Rate | 14.4% | 16.2% |
+| **Rebounding** | Off. Rebound % | 32.0% | 31.0% |
+| **Free Throws** | Free Throw Rate | 39.2 | 35.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -2.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

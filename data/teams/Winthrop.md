@@ -1,23 +1,32 @@
 ---
 team: Winthrop
-conf: BSth
+conf: N/A
 year: 2026
-adj_oe: 112.43052661783179
-adj_de: 111.54177682627659
-tempo: 68.4364602054744
-barthag: 0.5228010056997766
-wab: -3.544727820420964
+adj_oe: 112.6
+adj_de: 111.9
+barthag: N/A
+wab: -3.7
 ---
 # Winthrop (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 112.43052661783179 | #111 |
-| **Defense** (AdjDE) | 111.54177682627659 | #243 |
-| **Tempo** | 68.4364602054744 | - |
-| **Resume** | **WAB**: -3.544727820420964 | **SOS**: 0.3729488288964647 |
-| **Record** | 16-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 112.6 | 111.9 |
+| **Shooting** | Effective FG% | 50.6% | 51.7% |
+| **Ball Security** | Turnover Rate | 14.4% | 17.1% |
+| **Rebounding** | Off. Rebound % | 34.9% | 29.0% |
+| **Free Throws** | Free Throw Rate | 42.6 | 38.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

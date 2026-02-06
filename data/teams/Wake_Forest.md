@@ -1,23 +1,32 @@
 ---
 team: Wake Forest
-conf: ACC
+conf: N/A
 year: 2026
-adj_oe: 114.64020857894789
-adj_de: 103.50827026770051
-tempo: 69.09269018428864
-barthag: 0.7639919802866468
-wab: -2.378222431920566
+adj_oe: 114.8
+adj_de: 103.9
+barthag: N/A
+wab: -2.6
 ---
 # Wake Forest (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 114.64020857894789 | #76 |
-| **Defense** (AdjDE) | 103.50827026770051 | #78 |
-| **Tempo** | 69.09269018428864 | - |
-| **Resume** | **WAB**: -2.378222431920566 | **SOS**: 0.6567323212888728 |
-| **Record** | 11-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 114.8 | 103.9 |
+| **Shooting** | Effective FG% | 52.6% | 51.9% |
+| **Ball Security** | Turnover Rate | 16.1% | 20.1% |
+| **Rebounding** | Off. Rebound % | 30.3% | 33.8% |
+| **Free Throws** | Free Throw Rate | 33.0 | 37.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -2.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

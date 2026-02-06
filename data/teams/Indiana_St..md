@@ -1,23 +1,32 @@
 ---
 team: Indiana St.
-conf: MVC
+conf: N/A
 year: 2026
-adj_oe: 106.26493663392608
-adj_de: 109.37327158486563
-tempo: 68.76521875124837
-barthag: 0.41786149252296245
-wab: -9.3201393298897
+adj_oe: 106.3
+adj_de: 109.5
+barthag: N/A
+wab: -9.5
 ---
 # Indiana St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 106.26493663392608 | #215 |
-| **Defense** (AdjDE) | 109.37327158486563 | #190 |
-| **Tempo** | 68.76521875124837 | - |
-| **Resume** | **WAB**: -9.3201393298897 | **SOS**: 0.4486676181149492 |
-| **Record** | 9-14 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.3 | 109.5 |
+| **Shooting** | Effective FG% | 52.2% | 49.8% |
+| **Ball Security** | Turnover Rate | 18.9% | 14.7% |
+| **Rebounding** | Off. Rebound % | 24.9% | 31.6% |
+| **Free Throws** | Free Throw Rate | 29.6 | 28.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -9.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

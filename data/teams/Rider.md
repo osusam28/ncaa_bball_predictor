@@ -1,23 +1,32 @@
 ---
 team: Rider
-conf: MAAC
+conf: N/A
 year: 2026
-adj_oe: 97.07624412216506
-adj_de: 117.9762976473522
-tempo: 65.14671468297263
-barthag: 0.09601129538980264
-wab: -13.502378087927957
+adj_oe: 99.0
+adj_de: 119.3
+barthag: N/A
+wab: -13.5
 ---
 # Rider (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 97.07624412216506 | #345 |
-| **Defense** (AdjDE) | 117.9762976473522 | #331 |
-| **Tempo** | 65.14671468297263 | - |
-| **Resume** | **WAB**: -13.502378087927957 | **SOS**: 0.41916073808754595 |
-| **Record** | 2-18 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 99.0 | 119.3 |
+| **Shooting** | Effective FG% | 43.5% | 54.2% |
+| **Ball Security** | Turnover Rate | 18.3% | 13.1% |
+| **Rebounding** | Off. Rebound % | 33.7% | 33.4% |
+| **Free Throws** | Free Throw Rate | 32.0 | 32.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -13.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

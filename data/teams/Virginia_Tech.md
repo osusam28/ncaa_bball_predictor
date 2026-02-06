@@ -1,23 +1,32 @@
 ---
 team: Virginia Tech
-conf: ACC
+conf: N/A
 year: 2026
-adj_oe: 114.4661516745133
-adj_de: 101.88289972745663
-tempo: 67.66441471423161
-barthag: 0.7923637904104014
-wab: 0.506555687791778
+adj_oe: 114.6
+adj_de: 102.1
+barthag: N/A
+wab: +0.26
 ---
 # Virginia Tech (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 114.4661516745133 | #77 |
-| **Defense** (AdjDE) | 101.88289972745663 | #64 |
-| **Tempo** | 67.66441471423161 | - |
-| **Resume** | **WAB**: 0.506555687791778 | **SOS**: 0.6305023958231205 |
-| **Record** | 16-7 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 114.6 | 102.1 |
+| **Shooting** | Effective FG% | 51.7% | 49.6% |
+| **Ball Security** | Turnover Rate | 14.5% | 18.4% |
+| **Rebounding** | Off. Rebound % | 32.2% | 33.4% |
+| **Free Throws** | Free Throw Rate | 37.3 | 27.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +0.26 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

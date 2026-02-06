@@ -1,23 +1,32 @@
 ---
 team: Kennesaw St.
-conf: CUSA
+conf: N/A
 year: 2026
-adj_oe: 109.51219751943745
-adj_de: 110.39448239671258
-tempo: 72.58217389701906
-barthag: 0.4769467286780957
-wab: -4.539725194478757
+adj_oe: 109.6
+adj_de: 109.0
+barthag: N/A
+wab: -4.6
 ---
 # Kennesaw St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.51219751943745 | #154 |
-| **Defense** (AdjDE) | 110.39448239671258 | #220 |
-| **Tempo** | 72.58217389701906 | - |
-| **Resume** | **WAB**: -4.539725194478757 | **SOS**: 0.39058914328609057 |
-| **Record** | 13-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 109.6 | 109.0 |
+| **Shooting** | Effective FG% | 49.9% | 47.6% |
+| **Ball Security** | Turnover Rate | 17.4% | 15.6% |
+| **Rebounding** | Off. Rebound % | 36.9% | 30.7% |
+| **Free Throws** | Free Throw Rate | 45.9 | 47.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

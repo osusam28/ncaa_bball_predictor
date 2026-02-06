@@ -1,23 +1,32 @@
 ---
 team: UTSA
-conf: Amer
+conf: N/A
 year: 2026
-adj_oe: 96.35340594495204
-adj_de: 117.01063421109383
-tempo: 68.45635215205529
-barthag: 0.09675744128194574
-wab: -12.555968810169917
+adj_oe: 96.7
+adj_de: 117.4
+barthag: N/A
+wab: -12.7
 ---
 # UTSA (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 96.35340594495204 | #347 |
-| **Defense** (AdjDE) | 117.01063421109383 | #322 |
-| **Tempo** | 68.45635215205529 | - |
-| **Resume** | **WAB**: -12.555968810169917 | **SOS**: 0.4671675989134113 |
-| **Record** | 4-17 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 96.7 | 117.4 |
+| **Shooting** | Effective FG% | 43.0% | 53.5% |
+| **Ball Security** | Turnover Rate | 18.5% | 15.3% |
+| **Rebounding** | Off. Rebound % | 29.9% | 37.8% |
+| **Free Throws** | Free Throw Rate | 30.2 | 34.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -12.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

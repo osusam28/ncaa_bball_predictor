@@ -1,23 +1,32 @@
 ---
 team: Utah St.
-conf: MWC
+conf: N/A
 year: 2026
-adj_oe: 121.90873698491643
-adj_de: 100.7806598718615
-tempo: 67.97700750048685
-barthag: 0.8992348541227349
-wab: 2.3611494315873736
+adj_oe: 122.3
+adj_de: 101.1
+barthag: N/A
+wab: +2.2
 ---
 # Utah St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 121.90873698491643 | #31 |
-| **Defense** (AdjDE) | 100.7806598718615 | #52 |
-| **Tempo** | 67.97700750048685 | - |
-| **Resume** | **WAB**: 2.3611494315873736 | **SOS**: 0.567162313885065 |
-| **Record** | 18-3 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 122.3 | 101.1 |
+| **Shooting** | Effective FG% | 57.0% | 48.5% |
+| **Ball Security** | Turnover Rate | 16.2% | 21.9% |
+| **Rebounding** | Off. Rebound % | 36.4% | 31.6% |
+| **Free Throws** | Free Throw Rate | 37.0 | 38.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +2.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

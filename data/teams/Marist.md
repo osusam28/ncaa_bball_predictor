@@ -1,23 +1,32 @@
 ---
 team: Marist
-conf: MAAC
+conf: N/A
 year: 2026
-adj_oe: 100.94549203464781
-adj_de: 100.66415820372467
-tempo: 66.47192799636889
-barthag: 0.5080230868277299
-wab: -4.8026907074761676
+adj_oe: 100.5
+adj_de: 99.8
+barthag: N/A
+wab: -4.8
 ---
 # Marist (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 100.94549203464781 | #306 |
-| **Defense** (AdjDE) | 100.66415820372467 | #49 |
-| **Tempo** | 66.47192799636889 | - |
-| **Resume** | **WAB**: -4.8026907074761676 | **SOS**: 0.3119466463169181 |
-| **Record** | 14-7 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 100.5 | 99.8 |
+| **Shooting** | Effective FG% | 50.2% | 44.5% |
+| **Ball Security** | Turnover Rate | 17.1% | 20.3% |
+| **Rebounding** | Off. Rebound % | 27.4% | 27.5% |
+| **Free Throws** | Free Throw Rate | 26.9 | 39.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

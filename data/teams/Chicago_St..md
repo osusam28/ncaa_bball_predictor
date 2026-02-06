@@ -1,23 +1,32 @@
 ---
 team: Chicago St.
-conf: NEC
+conf: N/A
 year: 2026
-adj_oe: 97.74038702161948
-adj_de: 119.6673598077185
-tempo: 66.71336410709183
-barthag: 0.08886182163516172
-wab: -13.11296513618061
+adj_oe: 98.0
+adj_de: 120.0
+barthag: N/A
+wab: -13.3
 ---
 # Chicago St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 97.74038702161948 | #341 |
-| **Defense** (AdjDE) | 119.6673598077185 | #349 |
-| **Tempo** | 66.71336410709183 | - |
-| **Resume** | **WAB**: -13.11296513618061 | **SOS**: 0.4690125896788191 |
-| **Record** | 3-19 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 98.0 | 120.0 |
+| **Shooting** | Effective FG% | 44.1% | 57.4% |
+| **Ball Security** | Turnover Rate | 16.9% | 19.4% |
+| **Rebounding** | Off. Rebound % | 28.8% | 36.9% |
+| **Free Throws** | Free Throw Rate | 30.4 | 37.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -13.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

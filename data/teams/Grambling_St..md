@@ -1,23 +1,32 @@
 ---
 team: Grambling St.
-conf: SWAC
+conf: N/A
 year: 2026
-adj_oe: 101.60508407501084
-adj_de: 110.4790168448232
-tempo: 67.69411814196451
-barthag: 0.2762942601505811
-wab: -6.827157984832887
+adj_oe: 102.2
+adj_de: 109.0
+barthag: N/A
+wab: -6.7
 ---
 # Grambling St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 101.60508407501084 | #299 |
-| **Defense** (AdjDE) | 110.4790168448232 | #222 |
-| **Tempo** | 67.69411814196451 | - |
-| **Resume** | **WAB**: -6.827157984832887 | **SOS**: 0.35987231987533014 |
-| **Record** | 8-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 102.2 | 109.0 |
+| **Shooting** | Effective FG% | 51.0% | 51.5% |
+| **Ball Security** | Turnover Rate | 22.1% | 20.7% |
+| **Rebounding** | Off. Rebound % | 30.6% | 34.0% |
+| **Free Throws** | Free Throw Rate | 46.3 | 42.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

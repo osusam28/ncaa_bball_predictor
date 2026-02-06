@@ -1,23 +1,32 @@
 ---
 team: Lamar
-conf: Slnd
+conf: N/A
 year: 2026
-adj_oe: 105.545398226802
-adj_de: 109.477883952265
-tempo: 65.17797860211884
-barthag: 0.3963526377045799
-wab: -6.346032950148357
+adj_oe: 106.7
+adj_de: 109.7
+barthag: N/A
+wab: -7.3
 ---
 # Lamar (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 105.545398226802 | #230 |
-| **Defense** (AdjDE) | 109.477883952265 | #194 |
-| **Tempo** | 65.17797860211884 | - |
-| **Resume** | **WAB**: -6.346032950148357 | **SOS**: 0.3987031021691707 |
-| **Record** | 11-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.7 | 109.7 |
+| **Shooting** | Effective FG% | 48.9% | 50.8% |
+| **Ball Security** | Turnover Rate | 17.8% | 17.8% |
+| **Rebounding** | Off. Rebound % | 36.4% | 29.3% |
+| **Free Throws** | Free Throw Rate | 27.6 | 45.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -7.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

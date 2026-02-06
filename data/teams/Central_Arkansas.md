@@ -1,23 +1,32 @@
 ---
 team: Central Arkansas
-conf: ASun
+conf: N/A
 year: 2026
-adj_oe: 108.07267241882711
-adj_de: 108.06642485266471
-tempo: 67.7689264330612
-barthag: 0.5001662054879202
-wab: -5.530868135529854
+adj_oe: 108.5
+adj_de: 108.6
+barthag: N/A
+wab: -5.6
 ---
 # Central Arkansas (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.07267241882711 | #186 |
-| **Defense** (AdjDE) | 108.06642485266471 | #157 |
-| **Tempo** | 67.7689264330612 | - |
-| **Resume** | **WAB**: -5.530868135529854 | **SOS**: 0.3795012980225881 |
-| **Record** | 11-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.5 | 108.6 |
+| **Shooting** | Effective FG% | 52.9% | 54.5% |
+| **Ball Security** | Turnover Rate | 15.9% | 18.3% |
+| **Rebounding** | Off. Rebound % | 27.7% | 27.4% |
+| **Free Throws** | Free Throw Rate | 30.9 | 30.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

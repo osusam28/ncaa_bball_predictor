@@ -1,23 +1,32 @@
 ---
 team: Rhode Island
-conf: A10
+conf: N/A
 year: 2026
-adj_oe: 107.08131975586954
-adj_de: 102.94512185431356
-tempo: 65.66937247148861
-barthag: 0.6113555264648713
-wab: -3.66622596625643
+adj_oe: 106.9
+adj_de: 103.8
+barthag: N/A
+wab: -4.5
 ---
 # Rhode Island (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 107.08131975586954 | #202 |
-| **Defense** (AdjDE) | 102.94512185431356 | #73 |
-| **Tempo** | 65.66937247148861 | - |
-| **Resume** | **WAB**: -3.66622596625643 | **SOS**: 0.4818114730619916 |
-| **Record** | 13-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.9 | 103.8 |
+| **Shooting** | Effective FG% | 52.0% | 51.2% |
+| **Ball Security** | Turnover Rate | 19.1% | 21.7% |
+| **Rebounding** | Off. Rebound % | 32.8% | 31.1% |
+| **Free Throws** | Free Throw Rate | 39.1 | 43.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

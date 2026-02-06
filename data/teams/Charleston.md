@@ -1,23 +1,32 @@
 ---
 team: Charleston
-conf: CAA
+conf: N/A
 year: 2026
-adj_oe: 108.02017142413158
-adj_de: 109.09599996771797
-tempo: 67.8634793139111
-barthag: 0.4715388417515786
-wab: -3.8928165721484795
+adj_oe: 108.3
+adj_de: 109.5
+barthag: N/A
+wab: -4.1
 ---
 # Charleston (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.02017142413158 | #187 |
-| **Defense** (AdjDE) | 109.09599996771797 | #181 |
-| **Tempo** | 67.8634793139111 | - |
-| **Resume** | **WAB**: -3.8928165721484795 | **SOS**: 0.4542906120216662 |
-| **Record** | 15-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.3 | 109.5 |
+| **Shooting** | Effective FG% | 50.8% | 50.2% |
+| **Ball Security** | Turnover Rate | 16.0% | 13.9% |
+| **Rebounding** | Off. Rebound % | 31.1% | 31.5% |
+| **Free Throws** | Free Throw Rate | 44.0 | 26.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

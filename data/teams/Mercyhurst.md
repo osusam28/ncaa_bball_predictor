@@ -1,23 +1,32 @@
 ---
 team: Mercyhurst
-conf: NEC
+conf: N/A
 year: 2026
-adj_oe: 99.70635175112521
-adj_de: 109.93109528975835
-tempo: 63.45214602700119
-barthag: 0.2455144420740482
-wab: -8.53131928106858
+adj_oe: 100.1
+adj_de: 109.8
+barthag: N/A
+wab: -8.6
 ---
 # Mercyhurst (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 99.70635175112521 | #316 |
-| **Defense** (AdjDE) | 109.93109528975835 | #210 |
-| **Tempo** | 63.45214602700119 | - |
-| **Resume** | **WAB**: -8.53131928106858 | **SOS**: 0.3066746032016587 |
-| **Record** | 11-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 100.1 | 109.8 |
+| **Shooting** | Effective FG% | 48.9% | 49.5% |
+| **Ball Security** | Turnover Rate | 15.5% | 19.1% |
+| **Rebounding** | Off. Rebound % | 26.5% | 32.1% |
+| **Free Throws** | Free Throw Rate | 23.5 | 41.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -8.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

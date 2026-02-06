@@ -10,20 +10,21 @@ SYNONYM_PATH = "data/config/synonyms.json"
 YEAR = 2026
 
 def load_team_map():
-    # 1. Load Official Names from Team Results
-    data_path = os.path.join(DATA_RAW_DIR, f"team_results_{YEAR}.json")
+    # 1. Load Official Names from CSV Scrape
+    data_path = os.path.join(DATA_RAW_DIR, f"team_stats_{YEAR}.csv")
     if not os.path.exists(data_path):
         print(f"Error: {data_path} not found.")
         return {}
     
-    with open(data_path, 'r') as f:
-        data = json.load(f)
-        
     team_map = {}
-    for row in data:
-        name = row[1]
-        safe_name = name.replace(" ", "_").replace("/", "-")
-        team_map[name.lower()] = f"{safe_name}.md" # Key by lowercase for easier matching
+    import csv
+    with open(data_path, 'r') as f:
+        reader = csv.reader(f)
+        for row in reader:
+            if not row: continue
+            name = row[0] # Team is index 0 in our CSV
+            safe_name = name.replace(" ", "_").replace("/", "-")
+            team_map[name.lower()] = f"{safe_name}.md" # Key by lowercase for easier matching
         
     # 2. Layer on Synonyms
     if os.path.exists(SYNONYM_PATH):

@@ -1,23 +1,32 @@
 ---
 team: Arizona
-conf: B12
+conf: N/A
 year: 2026
-adj_oe: 125.95204742621016
-adj_de: 91.34521130908483
-tempo: 71.16157180486725
-barthag: 0.9757416528769934
-wab: 8.521964705487578
+adj_oe: 126.2
+adj_de: 92.0
+barthag: N/A
+wab: +8.2
 ---
 # Arizona (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 125.95204742621016 | #7 |
-| **Defense** (AdjDE) | 91.34521130908483 | #2 |
-| **Tempo** | 71.16157180486725 | - |
-| **Resume** | **WAB**: 8.521964705487578 | **SOS**: 0.6579401983816179 |
-| **Record** | 22-0 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 126.2 | 92.0 |
+| **Shooting** | Effective FG% | 56.5% | 45.3% |
+| **Ball Security** | Turnover Rate | 15.7% | 18.1% |
+| **Rebounding** | Off. Rebound % | 39.6% | 25.4% |
+| **Free Throws** | Free Throw Rate | 43.6 | 27.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +8.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

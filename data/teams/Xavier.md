@@ -1,23 +1,32 @@
 ---
 team: Xavier
-conf: BE
+conf: N/A
 year: 2026
-adj_oe: 114.07132446847564
-adj_de: 105.18262839909906
-tempo: 70.41103621938525
-barthag: 0.717672604696507
-wab: -2.3763777122280234
+adj_oe: 114.1
+adj_de: 105.4
+barthag: N/A
+wab: -2.6
 ---
 # Xavier (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 114.07132446847564 | #84 |
-| **Defense** (AdjDE) | 105.18262839909906 | #110 |
-| **Tempo** | 70.41103621938525 | - |
-| **Resume** | **WAB**: -2.3763777122280234 | **SOS**: 0.6667344857890617 |
-| **Record** | 12-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 114.1 | 105.4 |
+| **Shooting** | Effective FG% | 51.4% | 52.7% |
+| **Ball Security** | Turnover Rate | 14.1% | 16.9% |
+| **Rebounding** | Off. Rebound % | 26.4% | 28.5% |
+| **Free Throws** | Free Throw Rate | 27.1 | 32.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -2.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Colorado
-conf: B12
+conf: N/A
 year: 2026
-adj_oe: 117.0486228043233
-adj_de: 109.33908206669267
-tempo: 68.70268304138193
-barthag: 0.6864465648431664
-wab: -2.1313580435005166
+adj_oe: 118.7
+adj_de: 109.0
+barthag: N/A
+wab: -2.0
 ---
 # Colorado (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 117.0486228043233 | #65 |
-| **Defense** (AdjDE) | 109.33908206669267 | #188 |
-| **Tempo** | 68.70268304138193 | - |
-| **Resume** | **WAB**: -2.1313580435005166 | **SOS**: 0.6355374124559178 |
-| **Record** | 12-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 118.7 | 109.0 |
+| **Shooting** | Effective FG% | 54.1% | 52.6% |
+| **Ball Security** | Turnover Rate | 13.9% | 15.5% |
+| **Rebounding** | Off. Rebound % | 30.4% | 29.6% |
+| **Free Throws** | Free Throw Rate | 37.7 | 34.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -2.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

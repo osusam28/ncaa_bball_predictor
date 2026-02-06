@@ -1,23 +1,32 @@
 ---
 team: Saint Joseph's
-conf: A10
+conf: N/A
 year: 2026
-adj_oe: 107.10415339943674
-adj_de: 103.03216340913723
-tempo: 67.93043818335542
-barthag: 0.6096274145478391
-wab: -3.437364926626973
+adj_oe: 107.6
+adj_de: 103.0
+barthag: N/A
+wab: -3.5
 ---
 # Saint Joseph's (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 107.10415339943674 | #201 |
-| **Defense** (AdjDE) | 103.03216340913723 | #75 |
-| **Tempo** | 67.93043818335542 | - |
-| **Resume** | **WAB**: -3.437364926626973 | **SOS**: 0.44861409192388046 |
-| **Record** | 14-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 107.6 | 103.0 |
+| **Shooting** | Effective FG% | 48.7% | 48.8% |
+| **Ball Security** | Turnover Rate | 17.2% | 15.7% |
+| **Rebounding** | Off. Rebound % | 32.0% | 31.5% |
+| **Free Throws** | Free Throw Rate | 31.8 | 27.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

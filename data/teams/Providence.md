@@ -1,23 +1,32 @@
 ---
 team: Providence
-conf: BE
+conf: N/A
 year: 2026
-adj_oe: 122.55996799485847
-adj_de: 111.03759759011956
-tempo: 72.30362934198149
-barthag: 0.7568365046149826
-wab: -4.427920658327092
+adj_oe: 122.8
+adj_de: 111.2
+barthag: N/A
+wab: -4.5
 ---
 # Providence (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 122.55996799485847 | #25 |
-| **Defense** (AdjDE) | 111.03759759011956 | #234 |
-| **Tempo** | 72.30362934198149 | - |
-| **Resume** | **WAB**: -4.427920658327092 | **SOS**: 0.66489486905665 |
-| **Record** | 9-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 122.8 | 111.2 |
+| **Shooting** | Effective FG% | 54.9% | 52.2% |
+| **Ball Security** | Turnover Rate | 15.7% | 13.7% |
+| **Rebounding** | Off. Rebound % | 31.7% | 31.6% |
+| **Free Throws** | Free Throw Rate | 36.7 | 33.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

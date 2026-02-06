@@ -1,23 +1,32 @@
 ---
 team: BYU
-conf: B12
+conf: N/A
 year: 2026
-adj_oe: 123.50628703382995
-adj_de: 99.31519950346669
-tempo: 70.15154090464074
-barthag: 0.9246258307565777
-wab: 4.455720992257492
+adj_oe: 124.2
+adj_de: 101.1
+barthag: N/A
+wab: +4.0
 ---
 # BYU (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 123.50628703382995 | #21 |
-| **Defense** (AdjDE) | 99.31519950346669 | #36 |
-| **Tempo** | 70.15154090464074 | - |
-| **Resume** | **WAB**: 4.455720992257492 | **SOS**: 0.6543839223370426 |
-| **Record** | 17-3 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 124.2 | 101.1 |
+| **Shooting** | Effective FG% | 55.7% | 48.6% |
+| **Ball Security** | Turnover Rate | 15.0% | 17.1% |
+| **Rebounding** | Off. Rebound % | 35.6% | 28.0% |
+| **Free Throws** | Free Throw Rate | 35.4 | 27.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +4.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

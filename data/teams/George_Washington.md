@@ -1,23 +1,32 @@
 ---
 team: George Washington
-conf: A10
+conf: N/A
 year: 2026
-adj_oe: 117.79237077362527
-adj_de: 106.9928108865935
-tempo: 70.11057179586386
-barthag: 0.7513567431879558
-wab: -4.1096683913551
+adj_oe: 118.0
+adj_de: 107.4
+barthag: N/A
+wab: -4.4
 ---
 # George Washington (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 117.79237077362527 | #59 |
-| **Defense** (AdjDE) | 106.9928108865935 | #130 |
-| **Tempo** | 70.11057179586386 | - |
-| **Resume** | **WAB**: -4.1096683913551 | **SOS**: 0.4807037211015146 |
-| **Record** | 13-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 118.0 | 107.4 |
+| **Shooting** | Effective FG% | 55.4% | 51.7% |
+| **Ball Security** | Turnover Rate | 17.3% | 18.0% |
+| **Rebounding** | Off. Rebound % | 34.9% | 28.8% |
+| **Free Throws** | Free Throw Rate | 36.9 | 33.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

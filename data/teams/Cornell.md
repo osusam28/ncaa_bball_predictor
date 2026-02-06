@@ -1,23 +1,32 @@
 ---
 team: Cornell
-conf: Ivy
+conf: N/A
 year: 2026
-adj_oe: 121.23256087913634
-adj_de: 121.0799327160851
-tempo: 72.78185925407578
-barthag: 0.5036217559044853
-wab: -5.23361070571463
+adj_oe: 120.8
+adj_de: 122.1
+barthag: N/A
+wab: -6.3
 ---
 # Cornell (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 121.23256087913634 | #35 |
-| **Defense** (AdjDE) | 121.0799327160851 | #354 |
-| **Tempo** | 72.78185925407578 | - |
-| **Resume** | **WAB**: -5.23361070571463 | **SOS**: 0.4096261153333482 |
-| **Record** | 10-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 120.8 | 122.1 |
+| **Shooting** | Effective FG% | 58.6% | 57.6% |
+| **Ball Security** | Turnover Rate | 16.3% | 15.3% |
+| **Rebounding** | Off. Rebound % | 29.0% | 30.2% |
+| **Free Throws** | Free Throw Rate | 31.5 | 37.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

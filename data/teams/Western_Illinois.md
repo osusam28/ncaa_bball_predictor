@@ -1,23 +1,32 @@
 ---
 team: Western Illinois
-conf: OVC
+conf: N/A
 year: 2026
-adj_oe: 94.00521907222893
-adj_de: 118.57123557468323
-tempo: 65.83631684434205
-barthag: 0.06477413801892465
-wab: -15.412523069876801
+adj_oe: 93.1
+adj_de: 119.4
+barthag: N/A
+wab: -16.4
 ---
 # Western Illinois (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 94.00521907222893 | #360 |
-| **Defense** (AdjDE) | 118.57123557468323 | #342 |
-| **Tempo** | 65.83631684434205 | - |
-| **Resume** | **WAB**: -15.412523069876801 | **SOS**: 0.2890815910224397 |
-| **Record** | 4-18 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 93.1 | 119.4 |
+| **Shooting** | Effective FG% | 43.3% | 53.8% |
+| **Ball Security** | Turnover Rate | 17.7% | 15.7% |
+| **Rebounding** | Off. Rebound % | 29.0% | 34.1% |
+| **Free Throws** | Free Throw Rate | 38.7 | 37.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -16.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Mississippi Valley St.
-conf: SWAC
+conf: N/A
 year: 2026
-adj_oe: 87.56069050556168
-adj_de: 119.01416134709798
-tempo: 66.95952716713433
-barthag: 0.028485284432013133
-wab: -15.24551318033483
+adj_oe: 88.2
+adj_de: 119.4
+barthag: N/A
+wab: -16.4
 ---
 # Mississippi Valley St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 87.56069050556168 | #365 |
-| **Defense** (AdjDE) | 119.01416134709798 | #346 |
-| **Tempo** | 66.95952716713433 | - |
-| **Resume** | **WAB**: -15.24551318033483 | **SOS**: 0.43934880374971785 |
-| **Record** | 1-20 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 88.2 | 119.4 |
+| **Shooting** | Effective FG% | 44.1% | 57.3% |
+| **Ball Security** | Turnover Rate | 22.9% | 16.9% |
+| **Rebounding** | Off. Rebound % | 25.8% | 35.8% |
+| **Free Throws** | Free Throw Rate | 31.6 | 47.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -16.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

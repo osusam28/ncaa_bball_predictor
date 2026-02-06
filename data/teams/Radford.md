@@ -1,23 +1,32 @@
 ---
 team: Radford
-conf: BSth
+conf: N/A
 year: 2026
-adj_oe: 107.54473167327816
-adj_de: 115.13850763037247
-tempo: 71.05046894643553
-barthag: 0.3133222490826754
-wab: -7.463642599159094
+adj_oe: 107.9
+adj_de: 115.2
+barthag: N/A
+wab: -7.4
 ---
 # Radford (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 107.54473167327816 | #195 |
-| **Defense** (AdjDE) | 115.13850763037247 | #296 |
-| **Tempo** | 71.05046894643553 | - |
-| **Resume** | **WAB**: -7.463642599159094 | **SOS**: 0.33453132309782996 |
-| **Record** | 12-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 107.9 | 115.2 |
+| **Shooting** | Effective FG% | 51.6% | 53.5% |
+| **Ball Security** | Turnover Rate | 16.8% | 18.6% |
+| **Rebounding** | Off. Rebound % | 29.1% | 32.8% |
+| **Free Throws** | Free Throw Rate | 42.5 | 43.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -7.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Akron
-conf: MAC
+conf: N/A
 year: 2026
-adj_oe: 120.83607364447411
-adj_de: 106.19732437165098
-tempo: 70.47920395810596
-barthag: 0.8153361624912383
-wab: -0.3447553602211142
+adj_oe: 120.9
+adj_de: 106.4
+barthag: N/A
+wab: -0.5
 ---
 # Akron (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 120.83607364447411 | #38 |
-| **Defense** (AdjDE) | 106.19732437165098 | #121 |
-| **Tempo** | 70.47920395810596 | - |
-| **Resume** | **WAB**: -0.3447553602211142 | **SOS**: 0.3992507045822738 |
-| **Record** | 18-4 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 120.9 | 106.4 |
+| **Shooting** | Effective FG% | 59.4% | 50.4% |
+| **Ball Security** | Turnover Rate | 15.5% | 18.7% |
+| **Rebounding** | Off. Rebound % | 34.9% | 32.4% |
+| **Free Throws** | Free Throw Rate | 28.1 | 32.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -0.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

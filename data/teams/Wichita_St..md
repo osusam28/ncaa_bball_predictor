@@ -1,23 +1,32 @@
 ---
 team: Wichita St.
-conf: Amer
+conf: N/A
 year: 2026
-adj_oe: 112.89100547397682
-adj_de: 104.74650117744186
-tempo: 65.27903985973843
-barthag: 0.7028937446861285
-wab: -3.6497292776382664
+adj_oe: 113.2
+adj_de: 105.4
+barthag: N/A
+wab: -4.3
 ---
 # Wichita St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 112.89100547397682 | #102 |
-| **Defense** (AdjDE) | 104.74650117744186 | #96 |
-| **Tempo** | 65.27903985973843 | - |
-| **Resume** | **WAB**: -3.6497292776382664 | **SOS**: 0.4744357929600569 |
-| **Record** | 13-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 113.2 | 105.4 |
+| **Shooting** | Effective FG% | 49.8% | 48.1% |
+| **Ball Security** | Turnover Rate | 15.0% | 16.1% |
+| **Rebounding** | Off. Rebound % | 39.1% | 30.0% |
+| **Free Throws** | Free Throw Rate | 37.0 | 34.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Florida Atlantic
-conf: Amer
+conf: N/A
 year: 2026
-adj_oe: 112.40042729355467
-adj_de: 104.19180623764345
-tempo: 70.78654120722611
-barthag: 0.7051811975255549
-wab: -2.9159685844694985
+adj_oe: 112.6
+adj_de: 105.6
+barthag: N/A
+wab: -4.1
 ---
 # Florida Atlantic (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 112.40042729355467 | #112 |
-| **Defense** (AdjDE) | 104.19180623764345 | #84 |
-| **Tempo** | 70.78654120722611 | - |
-| **Resume** | **WAB**: -2.9159685844694985 | **SOS**: 0.5133380233989667 |
-| **Record** | 14-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 112.6 | 105.6 |
+| **Shooting** | Effective FG% | 53.4% | 50.2% |
+| **Ball Security** | Turnover Rate | 18.3% | 17.0% |
+| **Rebounding** | Off. Rebound % | 32.9% | 29.0% |
+| **Free Throws** | Free Throw Rate | 33.8 | 37.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

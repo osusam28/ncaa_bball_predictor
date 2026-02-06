@@ -1,23 +1,32 @@
 ---
 team: N.C. State
-conf: ACC
+conf: N/A
 year: 2026
-adj_oe: 122.62906566709177
-adj_de: 99.29243545413364
-tempo: 69.03961172033175
-barthag: 0.9189070432592483
-wab: 1.5854704672991256
+adj_oe: 123.0
+adj_de: 99.6
+barthag: N/A
+wab: +1.4
 ---
 # N.C. State (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 122.62906566709177 | #23 |
-| **Defense** (AdjDE) | 99.29243545413364 | #35 |
-| **Tempo** | 69.03961172033175 | - |
-| **Resume** | **WAB**: 1.5854704672991256 | **SOS**: 0.6521368480524352 |
-| **Record** | 16-6 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 123.0 | 99.6 |
+| **Shooting** | Effective FG% | 56.9% | 50.5% |
+| **Ball Security** | Turnover Rate | 13.7% | 19.6% |
+| **Rebounding** | Off. Rebound % | 28.9% | 27.8% |
+| **Free Throws** | Free Throw Rate | 35.2 | 38.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +1.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

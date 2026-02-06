@@ -1,23 +1,32 @@
 ---
 team: William & Mary
-conf: CAA
+conf: N/A
 year: 2026
-adj_oe: 109.74734126857444
-adj_de: 107.05601715073536
-tempo: 73.29075989698339
-barthag: 0.5709011944610324
-wab: -4.140621822346414
+adj_oe: 110.1
+adj_de: 107.5
+barthag: N/A
+wab: -4.3
 ---
 # William & Mary (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.74734126857444 | #146 |
-| **Defense** (AdjDE) | 107.05601715073536 | #133 |
-| **Tempo** | 73.29075989698339 | - |
-| **Resume** | **WAB**: -4.140621822346414 | **SOS**: 0.42088774583449423 |
-| **Record** | 14-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 110.1 | 107.5 |
+| **Shooting** | Effective FG% | 54.4% | 50.8% |
+| **Ball Security** | Turnover Rate | 17.6% | 19.7% |
+| **Rebounding** | Off. Rebound % | 26.4% | 32.6% |
+| **Free Throws** | Free Throw Rate | 39.1 | 35.3 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

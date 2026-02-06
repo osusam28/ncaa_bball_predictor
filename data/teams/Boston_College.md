@@ -1,23 +1,32 @@
 ---
 team: Boston College
-conf: ACC
+conf: N/A
 year: 2026
-adj_oe: 102.69535964745178
-adj_de: 100.24528744066905
-tempo: 65.81832602997443
-barthag: 0.568979576952805
-wab: -6.235150785418813
+adj_oe: 103.0
+adj_de: 100.3
+barthag: N/A
+wab: -6.4
 ---
 # Boston College (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 102.69535964745178 | #272 |
-| **Defense** (AdjDE) | 100.24528744066905 | #43 |
-| **Tempo** | 65.81832602997443 | - |
-| **Resume** | **WAB**: -6.235150785418813 | **SOS**: 0.5410978171433202 |
-| **Record** | 9-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 103.0 | 100.3 |
+| **Shooting** | Effective FG% | 46.8% | 46.5% |
+| **Ball Security** | Turnover Rate | 15.4% | 15.2% |
+| **Rebounding** | Off. Rebound % | 28.7% | 29.5% |
+| **Free Throws** | Free Throw Rate | 35.7 | 33.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

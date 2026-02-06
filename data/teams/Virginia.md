@@ -1,23 +1,32 @@
 ---
 team: Virginia
-conf: ACC
+conf: N/A
 year: 2026
-adj_oe: 125.0191683861
-adj_de: 98.64344046671954
-tempo: 65.47211819128111
-barthag: 0.9384850306701906
-wab: 3.968253655763654
+adj_oe: 125.2
+adj_de: 98.9
+barthag: N/A
+wab: +3.8
 ---
 # Virginia (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 125.0191683861 | #14 |
-| **Defense** (AdjDE) | 98.64344046671954 | #31 |
-| **Tempo** | 65.47211819128111 | - |
-| **Resume** | **WAB**: 3.968253655763654 | **SOS**: 0.6001869541215347 |
-| **Record** | 18-3 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 125.2 | 98.9 |
+| **Shooting** | Effective FG% | 55.3% | 45.1% |
+| **Ball Security** | Turnover Rate | 15.5% | 15.7% |
+| **Rebounding** | Off. Rebound % | 40.2% | 29.6% |
+| **Free Throws** | Free Throw Rate | 36.6 | 36.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +3.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

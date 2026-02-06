@@ -1,23 +1,32 @@
 ---
 team: Old Dominion
-conf: SB
+conf: N/A
 year: 2026
-adj_oe: 103.44889883587453
-adj_de: 109.8985842453911
-tempo: 68.62510633690786
-barthag: 0.3328056885902604
-wab: -10.777025833498449
+adj_oe: 103.7
+adj_de: 110.4
+barthag: N/A
+wab: -11.1
 ---
 # Old Dominion (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 103.44889883587453 | #259 |
-| **Defense** (AdjDE) | 109.8985842453911 | #209 |
-| **Tempo** | 68.62510633690786 | - |
-| **Resume** | **WAB**: -10.777025833498449 | **SOS**: 0.48409779260918445 |
-| **Record** | 7-16 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 103.7 | 110.4 |
+| **Shooting** | Effective FG% | 48.8% | 50.7% |
+| **Ball Security** | Turnover Rate | 15.8% | 14.4% |
+| **Rebounding** | Off. Rebound % | 25.2% | 29.7% |
+| **Free Throws** | Free Throw Rate | 33.1 | 42.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -11.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

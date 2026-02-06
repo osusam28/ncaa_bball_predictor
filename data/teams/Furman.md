@@ -1,23 +1,32 @@
 ---
 team: Furman
-conf: SC
+conf: N/A
 year: 2026
-adj_oe: 106.66436457792565
-adj_de: 108.14915655447433
-tempo: 66.32005344781344
-barthag: 0.4603388409840744
-wab: -4.6217365218271285
+adj_oe: 107.2
+adj_de: 108.6
+barthag: N/A
+wab: -4.7
 ---
 # Furman (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 106.66436457792565 | #208 |
-| **Defense** (AdjDE) | 108.14915655447433 | #159 |
-| **Tempo** | 66.32005344781344 | - |
-| **Resume** | **WAB**: -4.6217365218271285 | **SOS**: 0.32479228809085997 |
-| **Record** | 15-7 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 107.2 | 108.6 |
+| **Shooting** | Effective FG% | 55.0% | 49.7% |
+| **Ball Security** | Turnover Rate | 18.3% | 14.1% |
+| **Rebounding** | Off. Rebound % | 31.6% | 29.0% |
+| **Free Throws** | Free Throw Rate | 31.5 | 26.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

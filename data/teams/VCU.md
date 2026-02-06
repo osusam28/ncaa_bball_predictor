@@ -1,23 +1,32 @@
 ---
 team: VCU
-conf: A10
+conf: N/A
 year: 2026
-adj_oe: 119.91784577644785
-adj_de: 107.83860380974684
-tempo: 68.89257773683705
-barthag: 0.7722339742201797
-wab: 0.07025360657997193
+adj_oe: 120.1
+adj_de: 108.1
+barthag: N/A
+wab: -0.09
 ---
 # VCU (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 119.91784577644785 | #45 |
-| **Defense** (AdjDE) | 107.83860380974684 | #152 |
-| **Tempo** | 68.89257773683705 | - |
-| **Resume** | **WAB**: 0.07025360657997193 | **SOS**: 0.526477260800643 |
-| **Record** | 16-6 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 120.1 | 108.1 |
+| **Shooting** | Effective FG% | 54.9% | 50.0% |
+| **Ball Security** | Turnover Rate | 15.3% | 17.9% |
+| **Rebounding** | Off. Rebound % | 33.8% | 30.6% |
+| **Free Throws** | Free Throw Rate | 44.4 | 35.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -0.09 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

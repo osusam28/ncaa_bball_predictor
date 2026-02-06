@@ -1,23 +1,32 @@
 ---
 team: Niagara
-conf: MAAC
+conf: N/A
 year: 2026
-adj_oe: 98.75253086458245
-adj_de: 118.43589903502976
-tempo: 62.21661454906756
-barthag: 0.11005487275255212
-wab: -12.934348366642595
+adj_oe: 98.3
+adj_de: 117.5
+barthag: N/A
+wab: -13.9
 ---
 # Niagara (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 98.75253086458245 | #332 |
-| **Defense** (AdjDE) | 118.43589903502976 | #338 |
-| **Tempo** | 62.21661454906756 | - |
-| **Resume** | **WAB**: -12.934348366642595 | **SOS**: 0.3290565922980342 |
-| **Record** | 5-16 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 98.3 | 117.5 |
+| **Shooting** | Effective FG% | 49.0% | 53.8% |
+| **Ball Security** | Turnover Rate | 18.2% | 16.8% |
+| **Rebounding** | Off. Rebound % | 24.4% | 32.9% |
+| **Free Throws** | Free Throw Rate | 25.3 | 36.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -13.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

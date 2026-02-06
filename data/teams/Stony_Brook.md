@@ -1,23 +1,32 @@
 ---
 team: Stony Brook
-conf: CAA
+conf: N/A
 year: 2026
-adj_oe: 105.69182648356966
-adj_de: 108.57839656310409
-tempo: 64.87703952537528
-barthag: 0.4231473654498012
-wab: -5.573356768300445
+adj_oe: 106.2
+adj_de: 109.0
+barthag: N/A
+wab: -5.7
 ---
 # Stony Brook (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 105.69182648356966 | #224 |
-| **Defense** (AdjDE) | 108.57839656310409 | #166 |
-| **Tempo** | 64.87703952537528 | - |
-| **Resume** | **WAB**: -5.573356768300445 | **SOS**: 0.3971756575906162 |
-| **Record** | 14-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.2 | 109.0 |
+| **Shooting** | Effective FG% | 50.7% | 50.5% |
+| **Ball Security** | Turnover Rate | 16.8% | 16.7% |
+| **Rebounding** | Off. Rebound % | 28.9% | 31.9% |
+| **Free Throws** | Free Throw Rate | 28.9 | 34.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

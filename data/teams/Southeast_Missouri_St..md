@@ -1,23 +1,32 @@
 ---
 team: Southeast Missouri St.
-conf: OVC
+conf: N/A
 year: 2026
-adj_oe: 101.37956087898056
-adj_de: 111.39316464182336
-tempo: 69.62799061938318
-barthag: 0.2528940559649137
-wab: -6.876826369547239
+adj_oe: 102.6
+adj_de: 111.1
+barthag: N/A
+wab: -6.9
 ---
 # Southeast Missouri St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 101.37956087898056 | #302 |
-| **Defense** (AdjDE) | 111.39316464182336 | #240 |
-| **Tempo** | 69.62799061938318 | - |
-| **Resume** | **WAB**: -6.876826369547239 | **SOS**: 0.2957480905981188 |
-| **Record** | 12-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 102.6 | 111.1 |
+| **Shooting** | Effective FG% | 51.1% | 51.9% |
+| **Ball Security** | Turnover Rate | 17.2% | 19.3% |
+| **Rebounding** | Off. Rebound % | 29.4% | 27.6% |
+| **Free Throws** | Free Throw Rate | 36.7 | 49.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

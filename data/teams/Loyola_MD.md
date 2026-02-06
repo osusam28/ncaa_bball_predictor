@@ -1,23 +1,32 @@
 ---
 team: Loyola MD
-conf: Pat
+conf: N/A
 year: 2026
-adj_oe: 102.1237543697286
-adj_de: 119.54039958012856
-tempo: 68.22075067980586
-barthag: 0.140530131114265
-wab: -11.574214266123143
+adj_oe: 103.3
+adj_de: 120.8
+barthag: N/A
+wab: -12.4
 ---
 # Loyola MD (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 102.1237543697286 | #281 |
-| **Defense** (AdjDE) | 119.54039958012856 | #348 |
-| **Tempo** | 68.22075067980586 | - |
-| **Resume** | **WAB**: -11.574214266123143 | **SOS**: 0.2797037911366261 |
-| **Record** | 8-14 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 103.3 | 120.8 |
+| **Shooting** | Effective FG% | 50.3% | 55.2% |
+| **Ball Security** | Turnover Rate | 17.3% | 16.0% |
+| **Rebounding** | Off. Rebound % | 28.9% | 30.2% |
+| **Free Throws** | Free Throw Rate | 32.2 | 31.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -12.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

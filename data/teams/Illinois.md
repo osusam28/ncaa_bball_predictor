@@ -1,23 +1,32 @@
 ---
 team: Illinois
-conf: B10
+conf: N/A
 year: 2026
-adj_oe: 131.08680415909737
-adj_de: 99.04852683918389
-tempo: 65.95692812061237
-barthag: 0.9616860156499988
-wab: 5.4950394429284
+adj_oe: 131.9
+adj_de: 99.1
+barthag: N/A
+wab: +6.2
 ---
 # Illinois (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 131.08680415909737 | #1 |
-| **Defense** (AdjDE) | 99.04852683918389 | #34 |
-| **Tempo** | 65.95692812061237 | - |
-| **Resume** | **WAB**: 5.4950394429284 | **SOS**: 0.6688778449239656 |
-| **Record** | 18-3 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 131.9 | 99.1 |
+| **Shooting** | Effective FG% | 55.8% | 47.3% |
+| **Ball Security** | Turnover Rate | 14.1% | 12.0% |
+| **Rebounding** | Off. Rebound % | 39.6% | 26.7% |
+| **Free Throws** | Free Throw Rate | 34.7 | 18.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +6.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

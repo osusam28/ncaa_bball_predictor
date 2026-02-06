@@ -1,23 +1,32 @@
 ---
 team: East Texas A&M
-conf: Slnd
+conf: N/A
 year: 2026
-adj_oe: 99.65486683448464
-adj_de: 109.30051106728098
-tempo: 69.04922485249617
-barthag: 0.2568388356753223
-wab: -7.96744153482482
+adj_oe: 99.2
+adj_de: 110.1
+barthag: N/A
+wab: -10.0
 ---
 # East Texas A&M (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 99.65486683448464 | #317 |
-| **Defense** (AdjDE) | 109.30051106728098 | #185 |
-| **Tempo** | 69.04922485249617 | - |
-| **Resume** | **WAB**: -7.96744153482482 | **SOS**: 0.4669963026046569 |
-| **Record** | 8-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 99.2 | 110.1 |
+| **Shooting** | Effective FG% | 48.5% | 53.6% |
+| **Ball Security** | Turnover Rate | 20.0% | 17.6% |
+| **Rebounding** | Off. Rebound % | 26.1% | 33.2% |
+| **Free Throws** | Free Throw Rate | 32.6 | 36.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -10.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

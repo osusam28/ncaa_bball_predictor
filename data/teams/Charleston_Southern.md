@@ -1,23 +1,32 @@
 ---
 team: Charleston Southern
-conf: BSth
+conf: N/A
 year: 2026
-adj_oe: 103.28350670349393
-adj_de: 110.05857333969638
-tempo: 71.59628934997713
-barthag: 0.32505153276600257
-wab: -9.209335362848178
+adj_oe: 103.6
+adj_de: 110.5
+barthag: N/A
+wab: -9.3
 ---
 # Charleston Southern (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 103.28350670349393 | #261 |
-| **Defense** (AdjDE) | 110.05857333969638 | #211 |
-| **Tempo** | 71.59628934997713 | - |
-| **Resume** | **WAB**: -9.209335362848178 | **SOS**: 0.30936565988531667 |
-| **Record** | 11-12 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 103.6 | 110.5 |
+| **Shooting** | Effective FG% | 52.7% | 46.7% |
+| **Ball Security** | Turnover Rate | 17.5% | 12.9% |
+| **Rebounding** | Off. Rebound % | 29.3% | 29.0% |
+| **Free Throws** | Free Throw Rate | 31.6 | 45.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -9.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

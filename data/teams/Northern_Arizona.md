@@ -1,23 +1,32 @@
 ---
 team: Northern Arizona
-conf: BSky
+conf: N/A
 year: 2026
-adj_oe: 106.44021781221089
-adj_de: 118.09407095487865
-tempo: 63.89985458859758
-barthag: 0.23239668933050514
-wab: -10.0999170156817
+adj_oe: 105.7
+adj_de: 118.5
+barthag: N/A
+wab: -11.1
 ---
 # Northern Arizona (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 106.44021781221089 | #211 |
-| **Defense** (AdjDE) | 118.09407095487865 | #333 |
-| **Tempo** | 63.89985458859758 | - |
-| **Resume** | **WAB**: -10.0999170156817 | **SOS**: 0.40906919271112746 |
-| **Record** | 8-14 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 105.7 | 118.5 |
+| **Shooting** | Effective FG% | 51.5% | 56.1% |
+| **Ball Security** | Turnover Rate | 16.6% | 17.0% |
+| **Rebounding** | Off. Rebound % | 24.3% | 33.5% |
+| **Free Throws** | Free Throw Rate | 31.2 | 30.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -11.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

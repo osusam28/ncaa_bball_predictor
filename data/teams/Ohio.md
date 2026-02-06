@@ -1,23 +1,32 @@
 ---
 team: Ohio
-conf: MAC
+conf: N/A
 year: 2026
-adj_oe: 105.61046365492686
-adj_de: 110.50122114171067
-tempo: 69.45389145274241
-barthag: 0.37271314688783264
-wab: -6.607287454807984
+adj_oe: 106.3
+adj_de: 111.0
+barthag: N/A
+wab: -6.8
 ---
 # Ohio (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 105.61046365492686 | #225 |
-| **Defense** (AdjDE) | 110.50122114171067 | #224 |
-| **Tempo** | 69.45389145274241 | - |
-| **Resume** | **WAB**: -6.607287454807984 | **SOS**: 0.45460106612245016 |
-| **Record** | 12-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.3 | 111.0 |
+| **Shooting** | Effective FG% | 50.6% | 52.7% |
+| **Ball Security** | Turnover Rate | 16.9% | 17.9% |
+| **Rebounding** | Off. Rebound % | 29.3% | 34.0% |
+| **Free Throws** | Free Throw Rate | 37.0 | 37.4 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

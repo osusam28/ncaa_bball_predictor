@@ -1,23 +1,32 @@
 ---
 team: Lindenwood
-conf: OVC
+conf: N/A
 year: 2026
-adj_oe: 101.80483363679288
-adj_de: 107.83327410412704
-tempo: 72.56827973666402
-barthag: 0.34038478701292346
-wab: -5.446430905873946
+adj_oe: 102.1
+adj_de: 108.3
+barthag: N/A
+wab: -5.4
 ---
 # Lindenwood (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 101.80483363679288 | #292 |
-| **Defense** (AdjDE) | 107.83327410412704 | #151 |
-| **Tempo** | 72.56827973666402 | - |
-| **Resume** | **WAB**: -5.446430905873946 | **SOS**: 0.29607507770758584 |
-| **Record** | 13-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 102.1 | 108.3 |
+| **Shooting** | Effective FG% | 48.7% | 49.3% |
+| **Ball Security** | Turnover Rate | 19.2% | 18.7% |
+| **Rebounding** | Off. Rebound % | 32.9% | 32.4% |
+| **Free Throws** | Free Throw Rate | 40.5 | 35.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

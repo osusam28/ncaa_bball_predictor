@@ -1,23 +1,32 @@
 ---
 team: Montana
-conf: BSky
+conf: N/A
 year: 2026
-adj_oe: 108.3562488916329
-adj_de: 104.5540739988736
-tempo: 69.15225368070654
-barthag: 0.6012749139099679
-wab: -4.702860917054309
+adj_oe: 108.4
+adj_de: 106.0
+barthag: N/A
+wab: -5.7
 ---
 # Montana (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.3562488916329 | #178 |
-| **Defense** (AdjDE) | 104.5540739988736 | #93 |
-| **Tempo** | 69.15225368070654 | - |
-| **Resume** | **WAB**: -4.702860917054309 | **SOS**: 0.4161880097050417 |
-| **Record** | 13-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.4 | 106.0 |
+| **Shooting** | Effective FG% | 56.4% | 50.6% |
+| **Ball Security** | Turnover Rate | 20.0% | 15.1% |
+| **Rebounding** | Off. Rebound % | 22.7% | 30.6% |
+| **Free Throws** | Free Throw Rate | 36.7 | 33.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

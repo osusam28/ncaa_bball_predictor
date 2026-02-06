@@ -1,23 +1,32 @@
 ---
 team: Purdue
-conf: B10
+conf: N/A
 year: 2026
-adj_oe: 129.04153283874697
-adj_de: 98.38813186229658
-tempo: 65.16360299524021
-barthag: 0.9576681864049824
-wab: 5.217449028829503
+adj_oe: 130.4
+adj_de: 98.6
+barthag: N/A
+wab: +5.4
 ---
 # Purdue (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 129.04153283874697 | #3 |
-| **Defense** (AdjDE) | 98.38813186229658 | #28 |
-| **Tempo** | 65.16360299524021 | - |
-| **Resume** | **WAB**: 5.217449028829503 | **SOS**: 0.7285321797210598 |
-| **Record** | 17-4 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 130.4 | 98.6 |
+| **Shooting** | Effective FG% | 58.8% | 50.3% |
+| **Ball Security** | Turnover Rate | 13.8% | 16.3% |
+| **Rebounding** | Off. Rebound % | 36.0% | 26.8% |
+| **Free Throws** | Free Throw Rate | 27.6 | 23.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +5.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

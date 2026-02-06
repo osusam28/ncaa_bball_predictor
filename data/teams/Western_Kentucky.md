@@ -1,23 +1,32 @@
 ---
 team: Western Kentucky
-conf: CUSA
+conf: N/A
 year: 2026
-adj_oe: 105.06185065846924
-adj_de: 107.33397999881244
-tempo: 69.27317344929962
-barthag: 0.4387948366745947
-wab: -5.8901380439662345
+adj_oe: 105.0
+adj_de: 106.7
+barthag: N/A
+wab: -5.8
 ---
 # Western Kentucky (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 105.06185065846924 | #239 |
-| **Defense** (AdjDE) | 107.33397999881244 | #142 |
-| **Tempo** | 69.27317344929962 | - |
-| **Resume** | **WAB**: -5.8901380439662345 | **SOS**: 0.46014181371229956 |
-| **Record** | 11-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 105.0 | 106.7 |
+| **Shooting** | Effective FG% | 45.4% | 50.7% |
+| **Ball Security** | Turnover Rate | 14.8% | 17.6% |
+| **Rebounding** | Off. Rebound % | 33.3% | 29.9% |
+| **Free Throws** | Free Throw Rate | 38.2 | 44.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

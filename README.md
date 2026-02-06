@@ -173,3 +173,19 @@ We considered enhancing the fetcher to pull more stats (like paint points, rebou
 8. **Lightweight over Automated**: Sometimes it's better to research on-demand (web search during `/predict`) than to build complex automated data pipelines for metrics you rarely need.
 9. **Audit Trails**: Using markers like `<!-- LEARNED -->` creates a clear record of what's been processed, preventing duplicate work.
 
+---
+
+## 🔬 Phase 8: Metric Refinement (The Four Factors) ("The Grail")
+
+The User realized that "Resume" metrics (WAB, SOS) were confusing the prediction model. A team can have a great resume but be a "paper tiger." We needed the **Four Factors** (eFG%, TOV%, ORB%, FTR) to see the *actual* quality of play.
+
+1.  **The Data Gap**: The standard JSON feed didn't have these specific advanced stats.
+2.  **The Scraper Solution**:
+    *   We built a **Browser-Based Scraper** to bypass API limits and extract the full 24-column dataset for all 365 teams.
+    *   **Resiliency**: Implemented a "Bot Protection Fallback" in `src/torvik_fetcher.py`. If the script gets blocked, it pauses and provides a link for the user to manually download the CSV, ensuring the pipeline never breaks.
+3.  **The "Scientific Spread"**:
+    *   We split the Team Doc into **Predictive Profile** (Four Factors + Efficiency) and **Resume Profile** (WAB + Record).
+    *   **New Logic**: "Use Four Factors to set the score. Use WAB only to break ties in close games."
+
+4.  **Key Lesson**: **Data Source Agility**. When the easy API fails, use a scraper. When the scraper gets blocked, build a human-in-the-loop fallback. Don't let a blocked request stop the entire workflow.
+

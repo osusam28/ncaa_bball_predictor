@@ -1,23 +1,32 @@
 ---
 team: Colgate
-conf: Pat
+conf: N/A
 year: 2026
-adj_oe: 108.64895017175651
-adj_de: 113.42483607328276
-tempo: 66.51885547356453
-barthag: 0.3787844377408788
-wab: -5.67549908728379
+adj_oe: 109.1
+adj_de: 113.7
+barthag: N/A
+wab: -5.7
 ---
 # Colgate (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.64895017175651 | #173 |
-| **Defense** (AdjDE) | 113.42483607328276 | #275 |
-| **Tempo** | 66.51885547356453 | - |
-| **Resume** | **WAB**: -5.67549908728379 | **SOS**: 0.36693953490100284 |
-| **Record** | 13-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 109.1 | 113.7 |
+| **Shooting** | Effective FG% | 53.7% | 52.6% |
+| **Ball Security** | Turnover Rate | 15.1% | 16.0% |
+| **Rebounding** | Off. Rebound % | 27.1% | 30.1% |
+| **Free Throws** | Free Throw Rate | 28.1 | 32.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: West Georgia
-conf: ASun
+conf: N/A
 year: 2026
-adj_oe: 101.65943574298154
-adj_de: 116.69559434229676
-tempo: 68.2902103286132
-barthag: 0.16990299827742134
-wab: -7.249760621703399
+adj_oe: 102.2
+adj_de: 117.1
+barthag: N/A
+wab: -8.3
 ---
 # West Georgia (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 101.65943574298154 | #295 |
-| **Defense** (AdjDE) | 116.69559434229676 | #317 |
-| **Tempo** | 68.2902103286132 | - |
-| **Resume** | **WAB**: -7.249760621703399 | **SOS**: 0.3495968384963235 |
-| **Record** | 10-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 102.2 | 117.1 |
+| **Shooting** | Effective FG% | 48.9% | 55.2% |
+| **Ball Security** | Turnover Rate | 16.7% | 15.0% |
+| **Rebounding** | Off. Rebound % | 31.2% | 30.2% |
+| **Free Throws** | Free Throw Rate | 29.5 | 37.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -8.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

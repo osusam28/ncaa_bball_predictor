@@ -1,23 +1,32 @@
 ---
 team: Baylor
-conf: B12
+conf: N/A
 year: 2026
-adj_oe: 120.33270089841156
-adj_de: 107.9257459363304
-tempo: 68.44686703363651
-barthag: 0.7775412576930478
-wab: -1.205056447727905
+adj_oe: 120.0
+adj_de: 106.8
+barthag: N/A
+wab: -0.9
 ---
 # Baylor (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 120.33270089841156 | #41 |
-| **Defense** (AdjDE) | 107.9257459363304 | #154 |
-| **Tempo** | 68.44686703363651 | - |
-| **Resume** | **WAB**: -1.205056447727905 | **SOS**: 0.6370299774868373 |
-| **Record** | 11-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 120.0 | 106.8 |
+| **Shooting** | Effective FG% | 53.7% | 49.9% |
+| **Ball Security** | Turnover Rate | 16.8% | 15.8% |
+| **Rebounding** | Off. Rebound % | 38.1% | 32.4% |
+| **Free Throws** | Free Throw Rate | 36.5 | 28.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -0.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

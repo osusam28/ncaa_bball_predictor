@@ -1,23 +1,32 @@
 ---
 team: Idaho
-conf: BSky
+conf: N/A
 year: 2026
-adj_oe: 109.0730565013103
-adj_de: 109.77723262901736
-tempo: 66.85903287189008
-barthag: 0.48150708523678226
-wab: -5.685075299664625
+adj_oe: 109.7
+adj_de: 108.8
+barthag: N/A
+wab: -5.7
 ---
 # Idaho (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 109.0730565013103 | #164 |
-| **Defense** (AdjDE) | 109.77723262901736 | #202 |
-| **Tempo** | 66.85903287189008 | - |
-| **Resume** | **WAB**: -5.685075299664625 | **SOS**: 0.41213776473203806 |
-| **Record** | 12-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 109.7 | 108.8 |
+| **Shooting** | Effective FG% | 52.1% | 51.7% |
+| **Ball Security** | Turnover Rate | 15.3% | 15.9% |
+| **Rebounding** | Off. Rebound % | 27.9% | 26.7% |
+| **Free Throws** | Free Throw Rate | 38.0 | 39.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

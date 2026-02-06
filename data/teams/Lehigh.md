@@ -1,23 +1,32 @@
 ---
 team: Lehigh
-conf: Pat
+conf: N/A
 year: 2026
-adj_oe: 100.31689806681976
-adj_de: 112.3665909508907
-tempo: 67.05805967757648
-barthag: 0.2134130477980785
-wab: -9.715839447976885
+adj_oe: 100.5
+adj_de: 112.5
+barthag: N/A
+wab: -9.8
 ---
 # Lehigh (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 100.31689806681976 | #309 |
-| **Defense** (AdjDE) | 112.3665909508907 | #257 |
-| **Tempo** | 67.05805967757648 | - |
-| **Resume** | **WAB**: -9.715839447976885 | **SOS**: 0.3295945076489392 |
-| **Record** | 10-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 100.5 | 112.5 |
+| **Shooting** | Effective FG% | 51.6% | 50.9% |
+| **Ball Security** | Turnover Rate | 18.2% | 17.7% |
+| **Rebounding** | Off. Rebound % | 22.1% | 34.3% |
+| **Free Throws** | Free Throw Rate | 31.7 | 34.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -9.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

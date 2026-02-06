@@ -1,23 +1,32 @@
 ---
 team: Penn
-conf: Ivy
+conf: N/A
 year: 2026
-adj_oe: 107.91409698947483
-adj_de: 109.7872221267215
-tempo: 69.08093338401864
-barthag: 0.4506860119647529
-wab: -6.252841343512885
+adj_oe: 108.9
+adj_de: 109.3
+barthag: N/A
+wab: -6.1
 ---
 # Penn (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 107.91409698947483 | #192 |
-| **Defense** (AdjDE) | 109.7872221267215 | #205 |
-| **Tempo** | 69.08093338401864 | - |
-| **Resume** | **WAB**: -6.252841343512885 | **SOS**: 0.47150081294968244 |
-| **Record** | 9-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.9 | 109.3 |
+| **Shooting** | Effective FG% | 50.9% | 52.5% |
+| **Ball Security** | Turnover Rate | 16.1% | 16.3% |
+| **Rebounding** | Off. Rebound % | 31.1% | 30.9% |
+| **Free Throws** | Free Throw Rate | 36.6 | 28.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

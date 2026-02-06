@@ -1,23 +1,32 @@
 ---
 team: American
-conf: Pat
+conf: N/A
 year: 2026
-adj_oe: 104.93873815831651
-adj_de: 109.7006741410226
-tempo: 67.35273552153429
-barthag: 0.3751100847921742
-wab: -6.435070360306415
+adj_oe: 105.1
+adj_de: 109.8
+barthag: N/A
+wab: -6.5
 ---
 # American (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 104.93873815831651 | #241 |
-| **Defense** (AdjDE) | 109.7006741410226 | #201 |
-| **Tempo** | 67.35273552153429 | - |
-| **Resume** | **WAB**: -6.435070360306415 | **SOS**: 0.3398449713368999 |
-| **Record** | 13-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 105.1 | 109.8 |
+| **Shooting** | Effective FG% | 51.4% | 53.0% |
+| **Ball Security** | Turnover Rate | 16.6% | 19.1% |
+| **Rebounding** | Off. Rebound % | 25.6% | 31.3% |
+| **Free Throws** | Free Throw Rate | 28.1 | 44.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Quinnipiac
-conf: MAAC
+conf: N/A
 year: 2026
-adj_oe: 106.11884047560349
-adj_de: 108.6062060325624
-tempo: 70.09371202242274
-barthag: 0.4337805621638015
-wab: -5.178673186374665
+adj_oe: 106.1
+adj_de: 108.5
+barthag: N/A
+wab: -5.2
 ---
 # Quinnipiac (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 106.11884047560349 | #216 |
-| **Defense** (AdjDE) | 108.6062060325624 | #168 |
-| **Tempo** | 70.09371202242274 | - |
-| **Resume** | **WAB**: -5.178673186374665 | **SOS**: 0.36734390063069805 |
-| **Record** | 14-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.1 | 108.5 |
+| **Shooting** | Effective FG% | 49.8% | 49.8% |
+| **Ball Security** | Turnover Rate | 15.8% | 17.7% |
+| **Rebounding** | Off. Rebound % | 32.6% | 32.9% |
+| **Free Throws** | Free Throw Rate | 31.5 | 30.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

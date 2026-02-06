@@ -1,23 +1,32 @@
 ---
 team: Northwestern
-conf: B10
+conf: N/A
 year: 2026
-adj_oe: 118.43408007420634
-adj_de: 104.90752418067825
-tempo: 65.90464178521253
-barthag: 0.8013397148070203
-wab: -3.0867630564685125
+adj_oe: 117.8
+adj_de: 105.2
+barthag: N/A
+wab: -3.9
 ---
 # Northwestern (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 118.43408007420634 | #54 |
-| **Defense** (AdjDE) | 104.90752418067825 | #101 |
-| **Tempo** | 65.90464178521253 | - |
-| **Resume** | **WAB**: -3.0867630564685125 | **SOS**: 0.6432395612981435 |
-| **Record** | 10-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 117.8 | 105.2 |
+| **Shooting** | Effective FG% | 52.3% | 49.1% |
+| **Ball Security** | Turnover Rate | 12.8% | 16.3% |
+| **Rebounding** | Off. Rebound % | 29.2% | 33.1% |
+| **Free Throws** | Free Throw Rate | 36.9 | 35.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.9 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

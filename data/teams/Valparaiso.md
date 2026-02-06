@@ -1,23 +1,32 @@
 ---
 team: Valparaiso
-conf: MVC
+conf: N/A
 year: 2026
-adj_oe: 106.61757607955437
-adj_de: 104.80258407953056
-tempo: 65.12591023258845
-barthag: 0.5492038403203634
-wab: -6.061235802934231
+adj_oe: 106.8
+adj_de: 104.9
+barthag: N/A
+wab: -6.2
 ---
 # Valparaiso (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 106.61757607955437 | #210 |
-| **Defense** (AdjDE) | 104.80258407953056 | #97 |
-| **Tempo** | 65.12591023258845 | - |
-| **Resume** | **WAB**: -6.061235802934231 | **SOS**: 0.5058437678737786 |
-| **Record** | 11-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.8 | 104.9 |
+| **Shooting** | Effective FG% | 46.1% | 49.4% |
+| **Ball Security** | Turnover Rate | 15.7% | 17.3% |
+| **Rebounding** | Off. Rebound % | 32.1% | 30.7% |
+| **Free Throws** | Free Throw Rate | 39.7 | 39.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

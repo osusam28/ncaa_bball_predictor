@@ -1,23 +1,32 @@
 ---
 team: Lafayette
-conf: Pat
+conf: N/A
 year: 2026
-adj_oe: 101.6537136338425
-adj_de: 115.30272067140837
-tempo: 66.94246562144103
-barthag: 0.19017508365501817
-wab: -12.489766730452489
+adj_oe: 102.0
+adj_de: 115.5
+barthag: N/A
+wab: -12.6
 ---
 # Lafayette (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 101.6537136338425 | #297 |
-| **Defense** (AdjDE) | 115.30272067140837 | #298 |
-| **Tempo** | 66.94246562144103 | - |
-| **Resume** | **WAB**: -12.489766730452489 | **SOS**: 0.3610347325948696 |
-| **Record** | 7-16 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 102.0 | 115.5 |
+| **Shooting** | Effective FG% | 49.1% | 53.6% |
+| **Ball Security** | Turnover Rate | 15.7% | 15.5% |
+| **Rebounding** | Off. Rebound % | 26.6% | 30.4% |
+| **Free Throws** | Free Throw Rate | 32.3 | 33.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -12.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

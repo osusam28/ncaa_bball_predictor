@@ -1,23 +1,32 @@
 ---
 team: Iowa St.
-conf: B12
+conf: N/A
 year: 2026
-adj_oe: 125.40447741976047
-adj_de: 94.96342626217664
-tempo: 67.87982836244004
-barthag: 0.9607440032573383
-wab: 5.106329230351181
+adj_oe: 126.7
+adj_de: 94.3
+barthag: N/A
+wab: +5.4
 ---
 # Iowa St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 125.40447741976047 | #11 |
-| **Defense** (AdjDE) | 94.96342626217664 | #14 |
-| **Tempo** | 67.87982836244004 | - |
-| **Resume** | **WAB**: 5.106329230351181 | **SOS**: 0.597157402317751 |
-| **Record** | 19-2 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 126.7 | 94.3 |
+| **Shooting** | Effective FG% | 59.0% | 48.3% |
+| **Ball Security** | Turnover Rate | 15.3% | 22.8% |
+| **Rebounding** | Off. Rebound % | 37.8% | 28.3% |
+| **Free Throws** | Free Throw Rate | 36.3 | 26.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +5.4 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

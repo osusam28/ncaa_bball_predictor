@@ -1,23 +1,32 @@
 ---
 team: Fordham
-conf: A10
+conf: N/A
 year: 2026
-adj_oe: 103.78920459537841
-adj_de: 104.833931566155
-tempo: 63.75628518147518
-barthag: 0.47123714005234796
-wab: -6.6687993477111736
+adj_oe: 104.2
+adj_de: 105.1
+barthag: N/A
+wab: -6.7
 ---
 # Fordham (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 103.78920459537841 | #255 |
-| **Defense** (AdjDE) | 104.833931566155 | #98 |
-| **Tempo** | 63.75628518147518 | - |
-| **Resume** | **WAB**: -6.6687993477111736 | **SOS**: 0.3519542418802239 |
-| **Record** | 12-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 104.2 | 105.1 |
+| **Shooting** | Effective FG% | 49.1% | 48.8% |
+| **Ball Security** | Turnover Rate | 17.5% | 15.5% |
+| **Rebounding** | Off. Rebound % | 36.8% | 26.0% |
+| **Free Throws** | Free Throw Rate | 22.3 | 26.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

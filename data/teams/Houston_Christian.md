@@ -1,23 +1,32 @@
 ---
 team: Houston Christian
-conf: Slnd
+conf: N/A
 year: 2026
-adj_oe: 105.24921641882236
-adj_de: 118.95118843389193
-tempo: 63.8015409023608
-barthag: 0.1966452107352695
-wab: -9.55921916276842
+adj_oe: 105.7
+adj_de: 119.9
+barthag: N/A
+wab: -11.2
 ---
 # Houston Christian (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 105.24921641882236 | #236 |
-| **Defense** (AdjDE) | 118.95118843389193 | #345 |
-| **Tempo** | 63.8015409023608 | - |
-| **Resume** | **WAB**: -9.55921916276842 | **SOS**: 0.3792349122113004 |
-| **Record** | 8-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 105.7 | 119.9 |
+| **Shooting** | Effective FG% | 51.1% | 56.2% |
+| **Ball Security** | Turnover Rate | 19.0% | 17.3% |
+| **Rebounding** | Off. Rebound % | 30.9% | 32.9% |
+| **Free Throws** | Free Throw Rate | 37.2 | 30.6 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -11.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

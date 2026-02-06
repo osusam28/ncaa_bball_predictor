@@ -1,23 +1,32 @@
 ---
 team: Temple
-conf: Amer
+conf: N/A
 year: 2026
-adj_oe: 112.17750863579695
-adj_de: 110.7547978101146
-tempo: 64.93256530784218
-barthag: 0.5366301411213191
-wab: -4.476058991136835
+adj_oe: 112.5
+adj_de: 110.2
+barthag: N/A
+wab: -4.3
 ---
 # Temple (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 112.17750863579695 | #118 |
-| **Defense** (AdjDE) | 110.7547978101146 | #229 |
-| **Tempo** | 64.93256530784218 | - |
-| **Resume** | **WAB**: -4.476058991136835 | **SOS**: 0.42135615869525367 |
-| **Record** | 13-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 112.5 | 110.2 |
+| **Shooting** | Effective FG% | 50.7% | 50.3% |
+| **Ball Security** | Turnover Rate | 14.0% | 16.1% |
+| **Rebounding** | Off. Rebound % | 30.0% | 31.4% |
+| **Free Throws** | Free Throw Rate | 43.8 | 32.1 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

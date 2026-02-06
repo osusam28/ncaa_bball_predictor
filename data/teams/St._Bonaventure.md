@@ -1,23 +1,32 @@
 ---
 team: St. Bonaventure
-conf: A10
+conf: N/A
 year: 2026
-adj_oe: 112.24643352849739
-adj_de: 113.4164917360649
-tempo: 66.60277636613185
-barthag: 0.4702213703306069
-wab: -3.8617705557166158
+adj_oe: 112.5
+adj_de: 113.1
+barthag: N/A
+wab: -4.8
 ---
 # St. Bonaventure (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 112.24643352849739 | #116 |
-| **Defense** (AdjDE) | 113.4164917360649 | #274 |
-| **Tempo** | 66.60277636613185 | - |
-| **Resume** | **WAB**: -3.8617705557166158 | **SOS**: 0.457075224973262 |
-| **Record** | 13-8 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 112.5 | 113.1 |
+| **Shooting** | Effective FG% | 52.4% | 54.3% |
+| **Ball Security** | Turnover Rate | 16.3% | 18.2% |
+| **Rebounding** | Off. Rebound % | 34.6% | 30.2% |
+| **Free Throws** | Free Throw Rate | 29.8 | 33.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -4.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

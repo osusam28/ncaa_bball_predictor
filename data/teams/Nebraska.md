@@ -1,23 +1,32 @@
 ---
 team: Nebraska
-conf: B10
+conf: N/A
 year: 2026
-adj_oe: 122.1382895933415
-adj_de: 93.36677685978867
-tempo: 66.96631695067015
-barthag: 0.9564413443225378
-wab: 7.050024952093618
+adj_oe: 122.1
+adj_de: 94.0
+barthag: N/A
+wab: +6.5
 ---
 # Nebraska (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 122.1382895933415 | #26 |
-| **Defense** (AdjDE) | 93.36677685978867 | #7 |
-| **Tempo** | 66.96631695067015 | - |
-| **Resume** | **WAB**: 7.050024952093618 | **SOS**: 0.6454811474813168 |
-| **Record** | 20-1 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 122.1 | 94.0 |
+| **Shooting** | Effective FG% | 56.5% | 47.2% |
+| **Ball Security** | Turnover Rate | 13.2% | 19.0% |
+| **Rebounding** | Off. Rebound % | 26.0% | 27.2% |
+| **Free Throws** | Free Throw Rate | 26.4 | 24.7 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | +6.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

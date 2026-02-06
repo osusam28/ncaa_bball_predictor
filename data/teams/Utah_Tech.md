@@ -1,23 +1,32 @@
 ---
 team: Utah Tech
-conf: WAC
+conf: N/A
 year: 2026
-adj_oe: 108.46232522507462
-adj_de: 111.08459458248342
-tempo: 66.83501303133777
-barthag: 0.43174744401689186
-wab: -5.630629820320392
+adj_oe: 108.0
+adj_de: 110.1
+barthag: N/A
+wab: -5.6
 ---
 # Utah Tech (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 108.46232522507462 | #176 |
-| **Defense** (AdjDE) | 111.08459458248342 | #236 |
-| **Tempo** | 66.83501303133777 | - |
-| **Resume** | **WAB**: -5.630629820320392 | **SOS**: 0.44005106472419603 |
-| **Record** | 12-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 108.0 | 110.1 |
+| **Shooting** | Effective FG% | 52.3% | 50.8% |
+| **Ball Security** | Turnover Rate | 18.2% | 18.0% |
+| **Rebounding** | Off. Rebound % | 28.8% | 34.3% |
+| **Free Throws** | Free Throw Rate | 29.1 | 35.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Tarleton St.
-conf: WAC
+conf: N/A
 year: 2026
-adj_oe: 107.32020895365764
-adj_de: 109.0478470228976
-tempo: 71.10682616282438
-barthag: 0.45421550504037667
-wab: -5.682869794008302
+adj_oe: 106.4
+adj_de: 109.0
+barthag: N/A
+wab: -6.8
 ---
 # Tarleton St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 107.32020895365764 | #198 |
-| **Defense** (AdjDE) | 109.0478470228976 | #179 |
-| **Tempo** | 71.10682616282438 | - |
-| **Resume** | **WAB**: -5.682869794008302 | **SOS**: 0.43211798100359045 |
-| **Record** | 11-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 106.4 | 109.0 |
+| **Shooting** | Effective FG% | 48.7% | 57.2% |
+| **Ball Security** | Turnover Rate | 20.0% | 24.2% |
+| **Rebounding** | Off. Rebound % | 32.5% | 33.2% |
+| **Free Throws** | Free Throw Rate | 43.8 | 47.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.8 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

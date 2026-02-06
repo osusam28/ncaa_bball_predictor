@@ -1,23 +1,32 @@
 ---
 team: Binghamton
-conf: AE
+conf: N/A
 year: 2026
-adj_oe: 95.79012610651543
-adj_de: 122.53442947310378
-tempo: 65.4501367827032
-barthag: 0.055636430973413746
-wab: -15.659700741070212
+adj_oe: 96.0
+adj_de: 122.6
+barthag: N/A
+wab: -15.7
 ---
 # Binghamton (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 95.79012610651543 | #353 |
-| **Defense** (AdjDE) | 122.53442947310378 | #361 |
-| **Tempo** | 65.4501367827032 | - |
-| **Resume** | **WAB**: -15.659700741070212 | **SOS**: 0.2510327710166919 |
-| **Record** | 5-18 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 96.0 | 122.6 |
+| **Shooting** | Effective FG% | 47.8% | 54.9% |
+| **Ball Security** | Turnover Rate | 19.8% | 13.5% |
+| **Rebounding** | Off. Rebound % | 22.7% | 29.4% |
+| **Free Throws** | Free Throw Rate | 43.5 | 33.0 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -15.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

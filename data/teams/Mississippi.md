@@ -1,30 +1,40 @@
 ---
 team: Mississippi
-conf: SEC
+conf: N/A
 year: 2026
-adj_oe: 112.18543085614314
-adj_de: 103.00483799628614
-tempo: 65.11420067207287
-barthag: 0.727472671184167
-wab: -1.944579929380164
+adj_oe: 112.6
+adj_de: 103.0
+barthag: N/A
+wab: -2.3
 ---
 # Mississippi (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 112.18543085614314 | #117 |
-| **Defense** (AdjDE) | 103.00483799628614 | #74 |
-| **Tempo** | 65.11420067207287 | - |
-| **Resume** | **WAB**: -1.944579929380164 | **SOS**: 0.6169862401488413 |
-| **Record** | 11-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 112.6 | 103.0 |
+| **Shooting** | Effective FG% | 50.2% | 48.9% |
+| **Ball Security** | Turnover Rate | 14.7% | 17.6% |
+| **Rebounding** | Off. Rebound % | 30.8% | 32.1% |
+| **Free Throws** | Free Throw Rate | 33.9 | 40.8 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -2.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes
 
-### Web Insight (2026-01-31)
-- Lost 2 straight games (Kentucky 72-63, Auburn 78-66).
-- Shot just 32.3% from the field in Kentucky loss – offensive struggles.
+### Web Insight (2026-02-03)
+- Now on 4-game losing streak (added Vanderbilt loss).
+- Worst FG% in the SEC; offensive struggles persist.
+- Heavy road underdog vs Tennessee (-12).
 
 ### Player Insights
 - **AJ Storr**: Can compete with elite defenses. 16 pts vs Vanderbilt, nearly tied game with last-second 3PA. (2026-01-31)

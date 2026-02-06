@@ -1,23 +1,32 @@
 ---
 team: Morgan St.
-conf: MEAC
+conf: N/A
 year: 2026
-adj_oe: 97.60402681246575
-adj_de: 122.2985526451417
-tempo: 69.90595083360887
-barthag: 0.06953952781374104
-wab: -10.16229058305486
+adj_oe: 98.5
+adj_de: 122.1
+barthag: N/A
+wab: -10.2
 ---
 # Morgan St. (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 97.60402681246575 | #343 |
-| **Defense** (AdjDE) | 122.2985526451417 | #358 |
-| **Tempo** | 69.90595083360887 | - |
-| **Resume** | **WAB**: -10.16229058305486 | **SOS**: 0.3049282950493485 |
-| **Record** | 8-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 98.5 | 122.1 |
+| **Shooting** | Effective FG% | 45.4% | 54.6% |
+| **Ball Security** | Turnover Rate | 18.9% | 16.9% |
+| **Rebounding** | Off. Rebound % | 30.1% | 34.4% |
+| **Free Throws** | Free Throw Rate | 42.6 | 56.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -10.2 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

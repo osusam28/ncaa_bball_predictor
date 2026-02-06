@@ -1,23 +1,32 @@
 ---
 team: Oregon
-conf: B10
+conf: N/A
 year: 2026
-adj_oe: 113.79307728951544
-adj_de: 104.69357031545724
-tempo: 65.65937192312495
-barthag: 0.7228125229941138
-wab: -4.488511132180216
+adj_oe: 114.7
+adj_de: 106.1
+barthag: N/A
+wab: -5.1
 ---
 # Oregon (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 113.79307728951544 | #90 |
-| **Defense** (AdjDE) | 104.69357031545724 | #95 |
-| **Tempo** | 65.65937192312495 | - |
-| **Resume** | **WAB**: -4.488511132180216 | **SOS**: 0.6975340456691849 |
-| **Record** | 8-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 114.7 | 106.1 |
+| **Shooting** | Effective FG% | 49.5% | 51.3% |
+| **Ball Security** | Turnover Rate | 18.1% | 15.6% |
+| **Rebounding** | Off. Rebound % | 35.0% | 31.9% |
+| **Free Throws** | Free Throw Rate | 35.7 | 31.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.1 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Longwood
-conf: BSth
+conf: N/A
 year: 2026
-adj_oe: 102.72525877036458
-adj_de: 112.72650204034109
-tempo: 68.10287649420016
-barthag: 0.25570273527587467
-wab: -8.378665555457534
+adj_oe: 102.5
+adj_de: 112.4
+barthag: N/A
+wab: -9.3
 ---
 # Longwood (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 102.72525877036458 | #270 |
-| **Defense** (AdjDE) | 112.72650204034109 | #263 |
-| **Tempo** | 68.10287649420016 | - |
-| **Resume** | **WAB**: -8.378665555457534 | **SOS**: 0.28774530865372383 |
-| **Record** | 12-11 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 102.5 | 112.4 |
+| **Shooting** | Effective FG% | 49.5% | 53.9% |
+| **Ball Security** | Turnover Rate | 20.1% | 19.7% |
+| **Rebounding** | Off. Rebound % | 34.2% | 28.7% |
+| **Free Throws** | Free Throw Rate | 40.0 | 40.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -9.3 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Holy Cross
-conf: Pat
+conf: N/A
 year: 2026
-adj_oe: 100.07494290671295
-adj_de: 116.08998546688872
-tempo: 64.87026277277033
-barthag: 0.15353603097418053
-wab: -11.464088152413275
+adj_oe: 100.3
+adj_de: 116.6
+barthag: N/A
+wab: -12.5
 ---
 # Holy Cross (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 100.07494290671295 | #312 |
-| **Defense** (AdjDE) | 116.08998546688872 | #311 |
-| **Tempo** | 64.87026277277033 | - |
-| **Resume** | **WAB**: -11.464088152413275 | **SOS**: 0.3628242660761918 |
-| **Record** | 8-15 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 100.3 | 116.6 |
+| **Shooting** | Effective FG% | 49.8% | 55.0% |
+| **Ball Security** | Turnover Rate | 16.1% | 14.8% |
+| **Rebounding** | Off. Rebound % | 21.5% | 28.5% |
+| **Free Throws** | Free Throw Rate | 29.5 | 28.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -12.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

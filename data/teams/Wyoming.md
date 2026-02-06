@@ -1,23 +1,32 @@
 ---
 team: Wyoming
-conf: MWC
+conf: N/A
 year: 2026
-adj_oe: 113.72616003709405
-adj_de: 107.70850225161712
-tempo: 66.52666840714014
-barthag: 0.6513995282333175
-wab: -3.6180013594430798
+adj_oe: 113.8
+adj_de: 107.0
+barthag: N/A
+wab: -3.6
 ---
 # Wyoming (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 113.72616003709405 | #91 |
-| **Defense** (AdjDE) | 107.70850225161712 | #150 |
-| **Tempo** | 66.52666840714014 | - |
-| **Resume** | **WAB**: -3.6180013594430798 | **SOS**: 0.5163528403665685 |
-| **Record** | 12-9 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 113.8 | 107.0 |
+| **Shooting** | Effective FG% | 52.3% | 50.8% |
+| **Ball Security** | Turnover Rate | 17.5% | 16.9% |
+| **Rebounding** | Off. Rebound % | 35.1% | 26.5% |
+| **Free Throws** | Free Throw Rate | 39.5 | 47.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -3.6 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

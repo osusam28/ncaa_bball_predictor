@@ -1,23 +1,32 @@
 ---
 team: Toledo
-conf: MAC
+conf: N/A
 year: 2026
-adj_oe: 112.74302607671838
-adj_de: 111.8236637261901
-tempo: 68.56305508677742
-barthag: 0.5235229037437393
-wab: -5.536958004032289
+adj_oe: 113.3
+adj_de: 112.3
+barthag: N/A
+wab: -5.7
 ---
 # Toledo (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 112.74302607671838 | #104 |
-| **Defense** (AdjDE) | 111.8236637261901 | #249 |
-| **Tempo** | 68.56305508677742 | - |
-| **Resume** | **WAB**: -5.536958004032289 | **SOS**: 0.45993204360777135 |
-| **Record** | 12-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 113.3 | 112.3 |
+| **Shooting** | Effective FG% | 52.8% | 55.7% |
+| **Ball Security** | Turnover Rate | 15.8% | 18.9% |
+| **Rebounding** | Off. Rebound % | 30.8% | 35.5% |
+| **Free Throws** | Free Throw Rate | 34.0 | 26.9 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -5.7 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

@@ -1,23 +1,32 @@
 ---
 team: Dartmouth
-conf: Ivy
+conf: N/A
 year: 2026
-adj_oe: 106.74640446538596
-adj_de: 111.43491539538536
-tempo: 69.55059939851431
-barthag: 0.378875374833863
-wab: -6.505182446546359
+adj_oe: 107.1
+adj_de: 111.2
+barthag: N/A
+wab: -6.5
 ---
 # Dartmouth (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 106.74640446538596 | #206 |
-| **Defense** (AdjDE) | 111.43491539538536 | #241 |
-| **Tempo** | 69.55059939851431 | - |
-| **Resume** | **WAB**: -6.505182446546359 | **SOS**: 0.4012246864666171 |
-| **Record** | 9-10 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 107.1 | 111.2 |
+| **Shooting** | Effective FG% | 53.0% | 50.5% |
+| **Ball Security** | Turnover Rate | 18.1% | 13.7% |
+| **Rebounding** | Off. Rebound % | 26.0% | 31.3% |
+| **Free Throws** | Free Throw Rate | 36.9 | 29.2 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -6.5 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes

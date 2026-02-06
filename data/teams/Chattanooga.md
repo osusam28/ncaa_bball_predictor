@@ -1,23 +1,32 @@
 ---
 team: Chattanooga
-conf: SC
+conf: N/A
 year: 2026
-adj_oe: 102.05628757912893
-adj_de: 114.75551930659333
-tempo: 66.05018257572355
-barthag: 0.20608075685968685
-wab: -10.15109448032492
+adj_oe: 102.3
+adj_de: 115.4
+barthag: N/A
+wab: -11.0
 ---
 # Chattanooga (2026)
 
-## Quantitative Profile
-| Metric | Value | Rank |
-| :--- | :--- | :--- |
-| **Offense** (AdjOE) | 102.05628757912893 | #282 |
-| **Defense** (AdjDE) | 114.75551930659333 | #292 |
-| **Tempo** | 66.05018257572355 | - |
-| **Resume** | **WAB**: -10.15109448032492 | **SOS**: 0.30921202598112124 |
-| **Record** | 9-13 | |
+## Predictive Profile (Four Factors)
+*Use these metrics to predict the game spread and flow.*
+
+| Category | Metric | Offense | Defense |
+| :--- | :--- | :--- | :--- |
+| **Efficiency** | Adj. Efficiency | 102.3 | 115.4 |
+| **Shooting** | Effective FG% | 51.7% | 52.0% |
+| **Ball Security** | Turnover Rate | 14.4% | 14.3% |
+| **Rebounding** | Off. Rebound % | 21.0% | 31.9% |
+| **Free Throws** | Free Throw Rate | 32.9 | 42.5 |
+
+## Resume Profile (Context Only)
+*Non-predictive metrics. Use only to judge "clutch" factor or proven record.*
+
+| Metric | Value |
+| :--- | :--- |
+| **Wins Above Bubble** | -11.0 |
+| **Record** | (Check Web) |
 
 
 ## Qualitative Notes
